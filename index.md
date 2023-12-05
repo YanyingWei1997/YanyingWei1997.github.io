@@ -33,9 +33,9 @@ Feel free to explore my webpage to learn more about my academic pursuits, resear
 
 ## Research Interests
 
-- Industrial IoT System
-- Network Cybersecurity
-- Applied Machine Learning
+- Environmental Economy
+- Social Computing
+- Policy Simulation
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
