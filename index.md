@@ -49,7 +49,7 @@ My current research focuses on environmental policy research and simulation. My 
 - **May 2023：**Happy to be awarded the XiamenAir Scholarship.
 - **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
 - **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **Jun 2022：**Started research program at [the School of Economics and Management at the University of Chinese Academy of Sciences (UCAS)](https://sem.ucas.ac.cn/), advised by Professor [Zuoji Dong](https://people.ucas.ac.cn/~0058995).
 
 <br>
 
