@@ -23,9 +23,9 @@ Feel free to explore my webpage to learn more about my academic pursuits, resear
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
+- **Sep 2019 - June 2022:** University of Chinese Academy of Sciences,majored in Finance.(Master of Finance)
+- **Sep 2015 - June 2019:** Guangxi University,majored in Financial mathematics.(Bachelor of Finance)
+
 - Expect to apply for a one-year Mphil program and graduate in Sep 2025. Looking for PhD position after that.
 
 <br>
