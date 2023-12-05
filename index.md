@@ -7,10 +7,10 @@ layout: page
 <img src="https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/yanyingwei1.jpg?raw=true" class="floatpic" width="360" height="480">
 
 
-Welcome to my personal webpage!Here is **Yanying Wei (YING, 韦艳莹)**.
+Here is **Yanying Wei (YING, 韦艳莹)**.
 
 
-I am a graduate from the School of Economics and Management at the University of Chinese Academy of Sciences (UCAS), where I obtained a Master's degree in Finance. Under the guidance of Professor Zuoji Dong, I delved into the intricacies of financial studies, gaining valuable insights and skills in the field.
+I am a graduate from the School of Economics and Management at the University of Chinese Academy of Sciences (UCAS), where I obtained a Master's degree in Finance. Under the guidance of Professor [Zuoji Dong](https://people.ucas.ac.cn/~0058995), I delved into the intricacies of financial studies, gaining valuable insights and skills in the field.
 
 Currently, I am a dedicated educator at the School of Digital Economics, Nanning University. As a faculty member in the Financial Technology program, I am passionate about imparting knowledge in various subjects, including Python Programming, Financial Big Data Analysis, and Econometrics. 
 
