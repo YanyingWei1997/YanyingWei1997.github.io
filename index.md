@@ -6,9 +6,16 @@ layout: page
 
 <img src="https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/yanyingwei1.jpg?raw=true" class="floatpic" width="360" height="480">
 
-Here is **Yanying Wei (YING, 韦艳莹)**.
 
-I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
+Welcome to my personal webpage!Here is **Yanying Wei (YING, 韦艳莹)**.
+
+
+I am a graduate from the School of Economics and Management at the University of Chinese Academy of Sciences (UCAS), where I obtained a Master's degree in Finance. Under the guidance of Professor Zuoji Dong, I delved into the intricacies of financial studies, gaining valuable insights and skills in the field.
+
+Currently, I am a dedicated educator at the School of Digital Economics, Nanning University. As a faculty member in the Financial Technology program, I am passionate about imparting knowledge in various subjects, including Python Programming, Financial Big Data Analysis, and Econometrics. 
+
+
+Feel free to explore my webpage to learn more about my academic pursuits, research interests.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *weiyanying@unn.edu.cn*
 
