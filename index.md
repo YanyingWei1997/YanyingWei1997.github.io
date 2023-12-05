@@ -15,9 +15,7 @@ I am a graduate from the School of Economics and Management at the University of
 Currently, I am a dedicated educator at the School of Digital Economics, Nanning University. As a faculty member in the Financial Technology program, I am passionate about imparting knowledge in various subjects, including Python Programming, Financial Big Data Analysis, and Econometrics. 
 
 
-Feel free to explore my webpage to learn more about my academic pursuits, research interests.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *weiyanying@unn.edu.cn*
+Feel free to explore my webpage to learn more about my academic pursuits, research interests. If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *weiyanying@unn.edu.cn*
 
 <br>
 
