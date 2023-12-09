@@ -16,15 +16,14 @@ Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
 
 ## Journal Paper
 
-- Coming soon... 🚀
+- Dong Zuoji, **Yanying Wei**,Conghui Ren,Saihong Wang .[The innovation of comprehensive land renovation facing rural revitalization:the creation and realization of public value](https://www.geogsci.com/CN/article/downloadArticleFile.do?attachType=PDF&id=52484). Resource Science,2022.
 
+- Xi Huang, **Yanying Wei**,Duomin Wang. Capital Market Openness, [Investment Efficiency and Total Factor Productivity of Enterprises: An Empirical Study Based on the Opening of the Shenzhen-Hong Kong Stock Connect](http://www.chinastd.net/kjcjfz/article/pdf/20220214002).Science Technology for Development,2022.
   <br>
 
 ## Working Manuscript
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>Sensors Journal (IF: 3.847). Under major modification.<br>
-
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
+- Coming soon... 🚀
 
   <br>
 
@@ -32,8 +31,12 @@ Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
 
 ## Undergraduate Thesis
 
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to submit a research paper to IEEE Internet of Things Journal.
+- **Yanying Wei**. Research on the coordination of land use-ecological environment-socio-economic system.Beijing:University of Chinese Academy of Sciences,2022.
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
+- **Yanying WEI**. Research on micro credit risk in big data environment.Nanning:Guangxi University,2019.
 
   <br>
+
+## Other 
+
+- Coming soon... 🚀
