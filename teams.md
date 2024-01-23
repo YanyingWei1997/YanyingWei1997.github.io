@@ -10,6 +10,8 @@ title: Teams
 
 <br>
 
+---
+
 ## Team News
 
 - Coming soon... 🚀
