@@ -8,7 +8,7 @@ title: Hobbies
 
 ## Mountaineering & Fishing
 
-<div class="second">
+<div class="third">
 <img src="https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/Mountaineering.jpg?raw=true">
 <img src="https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/climbing.jpg?raw=true">
 
