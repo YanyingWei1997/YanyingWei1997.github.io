@@ -43,10 +43,8 @@ title: Blogs
 
 <br>
 
+
 ## Web Star History
-
-[Leave a star if you like it 🥰](https://github.com/GuangLun2000/GuangLun2000.github.io)
-
-[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
-
+[Leave a star if you like it 🥰](https://github.com/YanyingWei1997/YanyingWei1997.github.io/)
+[![Star History Chart](https://api.star-history.com/svg?repos=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/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&type=Date)](https://star-history.com/#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/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&Date)
 <br>
