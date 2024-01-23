@@ -4,7 +4,7 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-# Hobbies
+
 
 ## Mountaineering & Fishing
 
