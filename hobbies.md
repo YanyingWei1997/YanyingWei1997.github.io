@@ -10,7 +10,7 @@ title: Hobbies
 
 <div class="third">
 <img src="https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/Mountaineering.jpg?raw=true">
-<img src="./images/swimming.JPG">
+<img src="https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/climbing.jpg?raw=true">
 <img src="./images/surfing1.JPG">
 </div>
 <br> My father took me fishing since I was a child, and I gradually fell in love with this activity. I found that fishing can make me very patient and persevering. 
