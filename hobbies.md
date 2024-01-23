@@ -9,7 +9,7 @@ title: Hobbies
 ## Mountaineering & Fishing
 
 <div class="third">
-<img src="/images/Mountaineering.jpg">
+<img src="/images/Mountaineering.JPG">
 <img src="/images/swimming.JPG">
 <img src="/images/surfing1.JPG">
 </div>
