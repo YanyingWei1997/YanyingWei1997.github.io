@@ -6,10 +6,10 @@ title: Hobbies
 
 # Hobbies
 
-## Swimming & Surfing
+## Mountaineering & Fishing
 
 <div class="third">
-<img src="/images/swimming2.JPG">
+<img src="/images/Mountaineering.JPG">
 <img src="/images/swimming.JPG">
 <img src="/images/surfing1.JPG">
 </div>
