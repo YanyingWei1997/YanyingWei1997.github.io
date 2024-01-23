@@ -22,7 +22,7 @@ I also often go mountain climbing with my friends. Mountain climbing can help us
 <div class="third">
 <img src="https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/work.jpg?raw=true">
 <img src="https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/work1.jpg?raw=true">
-<img src="./images/speech3.JPG">
+<img src="https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/work2.jpg?raw=true">
 </div>
 <br>If you want to gain an in-depth grasp of a particular knowledge, you only need to give a lecture. 
 If you can explain to others so that you can fully understand, you are already an expert. 
@@ -34,9 +34,13 @@ I really enjoy the achievement of imparting knowledge, so I strive to become the
 
 ## My Boyfriend
 
+<div>
+<img src="https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/dog1.jpg?raw=true">
+</div>
+<br>
 This is my boyfriend Linxu Quan, who is devoted to the research of computer programming. 
 If you are interested in him, please visit his [Home Page]().
-
+<br>
 
 ## My Dog
 
