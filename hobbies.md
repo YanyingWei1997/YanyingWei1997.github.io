@@ -35,7 +35,7 @@ I really enjoy the achievement of imparting knowledge, so I strive to become the
 ## My Boyfriend
 
 <div>
-<img src="https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/dog1.jpg?raw=true">
+<img src="https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/boyfriend.jpg?raw=true">
 </div>
 <br>
 This is my boyfriend Linxu Quan, who is devoted to the research of computer programming. 
