@@ -36,7 +36,7 @@ I also often go mountain climbing with my friends. Mountain climbing can help us
 This is my love. Her name is Lucky(好运).
 
 <div>
-<img src="./images/cat.JPG">
+<img src="https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/dog1.jpg?raw=true">
 </div>
 <br>
 
