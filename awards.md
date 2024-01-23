@@ -8,30 +8,30 @@ Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://c
 
 ## Scholarships
 
-- August 2023：**FEPG Scholarship** (about $1400)<br>One of the highest undergraduate awards at FZU.
-- May 2023：**XiamenAir Scholarship** (about $600)<br>One of the highest undergraduate awards at FZU
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Student Project Award of Maynooth (€100)
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.<br>
+- Coming soon... 🚀
+
+<br>
 
 ## Competitions
 
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition
-- Aug 2023：Second Prize in National College Digital Art&Design Awards (NCDA, provincial level)
-- July 2023：Third Prize in Fujian College Student Computer Design Competition
-- June 2023：**First Prize (Provincial championship)** in Fujian Youth Science Innovation Project Competition
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Dec 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th Nanwei Cup Mathematical Mathematical Contest in Modeling<br>
+### As a contestant
+
+- Sep 2017：National Mathematical Modeling Competition for College students
+- May 2017：the first Foxconn Cup of Guangxi University
+- Nov 2016 :Asian University Mathematical Modeling Competition 
+- June 2023：The second Nanning College course ideological and political Teaching Design Competition
+
+### As an instructor
+
+- Dec 2023：2023 "ICBC Cup" National College students' Financial Science and Technology Innovation Competition
+- April 2023：The 14th Blue Bridge Cup National Software and Information Technology Professionals Competition
+- Dec 2022：2022 "ICBC Cup" National College students' Financial Science and Technology Innovation Competition
+
+<br>
+
+## Funds
+- Dec 2022：[Research and practice on the Integration of data Literacy improvement and Professional Education of Digital economy Major under the background of New Liberal Arts](http://jyt.gxzf.gov.cn/zfxxgk/fdzdgknr/tzgg_58179/t16661321.shtml)
+
 
 ## Honors
 
