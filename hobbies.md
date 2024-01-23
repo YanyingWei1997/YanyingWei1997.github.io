@@ -16,6 +16,7 @@ title: Hobbies
 <br> My father took me fishing since I was a child, and I gradually fell in love with this activity. I found that fishing can make me very patient and persevering. 
 I also often go mountain climbing with my friends. Mountain climbing can help us keep fit, and we can see different scenery by climbing high.
 
+---
 
 ## Workshop
 
@@ -32,6 +33,8 @@ I really enjoy the achievement of imparting knowledge, so I strive to become the
 
 <br>
 
+---
+
 ## My Boyfriend
 
 <div>
@@ -42,6 +45,7 @@ This is my boyfriend Linxu Quan, who is devoted to the research of computer prog
 If you are interested in him, please visit his [Home Page](https://linxuquan.github.io/).
 <br>
 
+---
 ## My Dog
 
 This is my love. Her name is Lucky(好运).
@@ -50,6 +54,8 @@ This is my love. Her name is Lucky(好运).
 <img src="https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/dog1.jpg?raw=true">
 </div>
 <br>
+
+---
 
 ## Chat with me
 
