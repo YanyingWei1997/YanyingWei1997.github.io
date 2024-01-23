@@ -10,7 +10,7 @@ Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
 
 - **Yanying Wei**.Research on Micro Credit Risk Based on Artificial Neural Network.4th IEEE International Cybernetics Conference.Beijing  China.2019.
 
-
+---
 
   <br>
 
@@ -20,6 +20,8 @@ Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
 
 - Xi Huang, **Yanying Wei**,Duomin Wang. Capital Market Openness, [Investment Efficiency and Total Factor Productivity of Enterprises: An Empirical Study Based on the Opening of the Shenzhen-Hong Kong Stock Connect](http://www.chinastd.net/kjcjfz/article/pdf/20220214002).Science Technology for Development,2022.
   <br>
+
+---
 
 ## Working Manuscript
 
@@ -36,6 +38,8 @@ Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
 - **Yanying WEI**. Research on micro credit risk in big data environment.Nanning:Guangxi University,2019.
 
   <br>
+
+---
 
 ## Other 
 
