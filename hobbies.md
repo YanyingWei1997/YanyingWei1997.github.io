@@ -34,7 +34,8 @@ I really enjoy the achievement of imparting knowledge, so I strive to become the
 
 ## My Boyfriend
 
-
+This is my boyfriend Linxu Quan, who is devoted to the research of computer programming. 
+If you are interested in him, please visit his [Home Page]().
 
 
 ## My Dog
