@@ -20,8 +20,8 @@ I also often go mountain climbing with my friends. Mountain climbing can help us
 ## Workshop
 
 <div class="third">
-<img src="./images/prelection1.JPG">
-<img src="./images/speech1.JPG">
+<img src="https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/work.jpg?raw=true">
+<img src="https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/work1.jpg?raw=true">
 <img src="./images/speech3.JPG">
 </div>
 <br>If you want to gain an in-depth grasp of a particular knowledge, you only need to give a lecture. 
