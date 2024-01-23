@@ -46,8 +46,8 @@ links:
     url: /teams/
   - title: Hobbies
     url: /hobbies/
-  # - title: Notes
-    # url: /notes/
+  - title: Notes
+    url: /notes/
   - title: Blogs
     url: /blogs/
 
