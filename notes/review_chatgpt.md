@@ -1,5 +1,7 @@
 # 用ChatGPT写文献综述相关代码（知网篇）
 
+公众号：三分甜的涠
+文章链接：[用ChatGPT写文献综述相关代码（知网篇）](https://mp.weixin.qq.com/s/9BHUBNRGR-qV0UkRmcmQlA)
 ## 爬取知网相关主题文献
 通过 Python 获取文章的基本信息和详情页链接，再通过详情页链接来获取文章的摘要。
 
