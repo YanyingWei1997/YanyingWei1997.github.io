@@ -6,7 +6,7 @@ title: Notes
 
 ## Paper Notes
 
-- [用ChatGPT写文献综述相关代码（知网篇）](https://YanyingWei1997.github.io/blogs/用ChatGPT写文献综述相关代码（知网篇）)<br>
+- [用ChatGPT写文献综述相关代码（知网篇）](https://YanyingWei1997.github.io/blogs/literature_review_chatgpt)<br>
 
 <br>
 
