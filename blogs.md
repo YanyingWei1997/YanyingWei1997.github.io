@@ -11,7 +11,7 @@ title: Blogs
 ### 2023
 
 
-- [极简风个人网站搭建指南](https://caihanlin.com/blogs/web)<br>
+- [2023年度总结]('https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/blogs/23yrs.md')<br>
 
 
 
