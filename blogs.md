@@ -11,7 +11,7 @@ title: Blogs
 ### 2023
 
 
-- [2023年度总结]('https://github.com/YanyingWei1997/YanyingWei1997.github.io/blogs/23yrs.md')<br>
+- [2023年度总结](https://github.com/YanyingWei1997/YanyingWei1997.github.io/blogs/23yrs.md)<br>
 
 
 
