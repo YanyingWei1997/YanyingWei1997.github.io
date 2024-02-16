@@ -6,9 +6,7 @@ title: Blogs
 
 ## Chinese Blogs
 
-### 2024
 
-- [24Fall，英国硕士项目申请实录](https://caihanlin.com/blogs/24fall/)
 
 ### 2023
 
