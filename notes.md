@@ -6,9 +6,7 @@ title: Notes
 
 ## Paper Notes
 
-- Internet of Everything
-- Cyber-security
-- Machine Learning
+- [用ChatGPT写文献综述相关代码（知网篇）](https://YanyingWei1997.github.io/blogs/用ChatGPT写文献综述相关代码（知网篇）)<br>
 
 <br>
 
