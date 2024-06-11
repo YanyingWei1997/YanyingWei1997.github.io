@@ -16,8 +16,8 @@ title: Awards
 
 ## My Fundings
 
-- **Principal Investigator**. **_Research on the Decoupling State and Driving Mechanism of Carbon Emissions in Guangxi under the Dual-Carbon Target_**. Supported by the Research Foundation for  Youth and Middle-Aged Improvement of  Bureau of Science and Technology of Guangxi Province, China (Grant No. 2024-KY-1871), _January 2024 - December 2025_.
-- **Principal Investigator**. **_Digital Empowerment for Bank Loans and Regulatory Innovation_**. Supported by Nanning University (Grant No. s2023-1154-9126), _January 2024 - December 2024_.
+- Principal Investigator. **_Research on the Decoupling State and Driving Mechanism of Carbon Emissions in Guangxi under the Dual-Carbon Target_**. Supported by the Research Foundation for  Youth and Middle-Aged Improvement of  Bureau of Science and Technology of Guangxi Province, China (Grant No. 2024-KY-1871), _January 2024 - December 2025_.
+- Principal Investigator. **_Digital Empowerment for Bank Loans and Regulatory Innovation_**. Supported by Nanning University (Grant No. s2023-1154-9126), _January 2024 - December 2024_.
 
 <br>
 
