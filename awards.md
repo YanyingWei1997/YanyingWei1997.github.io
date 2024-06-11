@@ -19,16 +19,17 @@ title: Awards
 ## Honors
 ### Individual Awards
 
-- June 2023：The second Nanning College course ideological and political Teaching Design Competition **"The third prize"**
-- Sep 2017：National Mathematical Modeling Competition for College students **"The second prize of Guangxi Province"**
-- May 2017：the first Foxconn Cup of Guangxi University **"The third prize"**
-- May 2017: **"Outstanding Student Association cadres"** of Guangxi University in 2016
-
+- **The Second Curriculum Ideology and Politics Teaching Design Competition of Nanning College** , Third prize,_June 2023_.
+- **the First Foxconn Cup of Guangxi University** , Third prize ,_May 2017_.
+- **Guangxi University Club Officers Evaluation**, Outstanding Student Leader (School-level) , _May 2016_.
+- **Nanning University Teaching Skills Competition:** Third Prize, _July 2022_.
+- **National Undergraduate Mathematical Modeling Competition:** Second Prize, Guangxi Region, _July 2019_.
+- **American Mathematical Contest in Modeling:** "S" Prize, _January 2017_.
 
 ### Instructor Awards
-- Dec 2023: 2023 "ICBC Cup" National College students' Financial Science and Technology Innovation Competition **"Outstanding instructor"**
-- April 2023：The 14th Blue Bridge Cup National Software and Information Technology Professionals Competition **"Outstanding instructor"**
-- Dec 2022: 2022 "ICBC Cup" National College students' Financial Science and Technology Innovation Competition **"Outstanding instructor"**
+- **ICBC Cup National College Students Financial Technology Innovation Competition:** Outstanding Instructor Award, _December 2023_ (Highly recognized competition in China).
+- **ICBC Cup National College Students Financial Technology Innovation Competition:** Outstanding Instructor Award, _December 2022_ (Highly recognized competition in China).
+
 
 
 <br>
