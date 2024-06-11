@@ -33,9 +33,10 @@ Feel free to explore my webpage to learn more about my academic pursuits, resear
 
 ## Research Interests
 
-- Environmental Economy
-- Social Computing
-- Policy Simulation
+- **Investigating the Transition to a Low Carbon Economy:** Examine the economic impacts of shifting to a low carbon economy, focusing on policies and technologies that reduce carbon emissions and promote sustainable growth in urban and rural areas.
+- **Utilizing Computational Social Science Methods:** Model social behaviors and economic interactions using computational methods, emphasizing sustainability and the adoption of green technologies.
+- **Assessing Environmental and Natural Resource Economics:** Evaluate economic factors influencing the use and conservation of natural resources, assessing the impact of environmental policies on economic outcomes and sustainability efforts.
+- **Applying Data Science to Environmental Economics:** Analyze large datasets to identify trends and inform policy decisions in environmental and natural resource economics for sustainable development.
 
 My current research focuses on environmental policy research and simulation. My interest is the application of social computing in environmental economy. I would like to dedicate my talents to this meaningful cause and bring happiness to the society.
 
