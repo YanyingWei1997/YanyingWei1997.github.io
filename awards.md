@@ -16,8 +16,8 @@ title: Awards
 
 ## My Fundings
 
-- Dec 2022：[Research and practice on the Integration of data Literacy improvement and Professional Education of Digital economy Major under the background of New Liberal Arts](http://jyt.gxzf.gov.cn/zfxxgk/fdzdgknr/tzgg_58179/P020230615363349227536.pdf)
-
+- **Principal Investigator**. **_Research on the Decoupling State and Driving Mechanism of Carbon Emissions in Guangxi under the Dual-Carbon Target_**. Supported by the Research Foundation for  Youth and Middle-Aged Improvement of  Bureau of Science and Technology of Guangxi Province, China (Grant No. 2024-KY-1871), _January 2024 - December 2025_.
+- **Principal Investigator**. **_Digital Empowerment for Bank Loans and Regulatory Innovation_**. Supported by Nanning University (Grant No. s2023-1154-9126), _January 2024 - December 2024_.
 
 <br>
 
