@@ -48,7 +48,7 @@ My current research focuses on environmental policy research and simulation. My 
 
 - **Aug 2022:**Joined the Department of Financial Science and Technology, School of Digital Economics, Nanning University.
 - **June 2022：**Graduated from the School of Economics and Management, University of the Chinese Academy of Sciences.
-- **Jun 2019：**Started research program at [the School of Economics and Management at the University of Chinese Academy of Sciences (UCAS)](https://sem.ucas.ac.cn/), advised by Professor [Zuoji Dong](https://people.ucas.edu.cn/~dongzuoji?language=en).
+- **Jun 2019：**Started research program at [the School of Economics and Management at the University of Chinese Academy of Sciences (UCAS)](https://sem.ucas.edu.cn/en), advised by Professor [Zuoji Dong](https://people.ucas.edu.cn/~dongzuoji?language=en).
 
 <br>
 
