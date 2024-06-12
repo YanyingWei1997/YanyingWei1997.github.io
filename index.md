@@ -48,8 +48,8 @@ My current research focuses on environmental policy research and simulation. My 
 
 - **August 2022:** Joined the Department of Financial Science and Technology, School of Digital Economics, [Nanning University](https://en.unn.edu.cn/).
 - **June 2022：** Graduated from the School of Economics and Management, University of the Chinese Academy of Sciences.
-- **August 2019：** Started research program at [the School of Economics and Management at the University of Chinese Academy of Sciences (UCAS)](https://sem.ucas.edu.cn/en), advised by Professor [Dong, J.](https://people.ucas.edu.cn/~dongzuoji?language=en).
-- **June 2019：** Graduated from [Guangxi University](https://english.gxu.edu.cn/), advised by Professor [Yuan, G.](https://gxcmr.gxu.edu.cn/info/1145/1507.htm).
+- **August 2019：** Started research program at [the School of Economics and Management at the University of Chinese Academy of Sciences (UCAS)](https://sem.ucas.edu.cn/en) (Supervisor： [Professor Dong, J.](https://people.ucas.edu.cn/~dongzuoji?language=en))
+- **June 2019：** Graduated from [Guangxi University](https://english.gxu.edu.cn/) (Supervisor： [Professor Yuan, G.](https://gxcmr.gxu.edu.cn/info/1145/1507.htm))
 
 <br>
 
