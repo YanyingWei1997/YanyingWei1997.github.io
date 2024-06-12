@@ -32,9 +32,9 @@ title: Publications
 
 ## Undergraduate Thesis
 
-- **Yanying Wei**. Research on the coordination of land use-ecological environment-socio-economic system.Beijing:University of Chinese Academy of Sciences,2022.
+- ** **Wei, Y.** (2022).  Research on the coordination of land use-ecological environment-socio-economic system.Beijing:University of Chinese Academy of Sciences,2022.
 
-- **Yanying WEI**. Research on micro credit risk in big data environment.Nanning:Guangxi University,2019.
+-  **Wei, Y.** (2019).  Research on micro-credit risk in big data environment.Nanning:Guangxi University.
 
   <br>
 
