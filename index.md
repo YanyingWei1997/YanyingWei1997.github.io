@@ -23,8 +23,8 @@ Feel free to explore my webpage to learn more about my academic pursuits, resear
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
--  [University of Chinese Academy of Sciences]({https://english.cas.cn/). M.Sc. in Finance (Applied Economics | Natural Resource Management & Industrial Economics)  _September 2015 - June 2019_
--  [Guangxi University](https://english.gxu.edu.cn/). B.Sc. in Finance (Applied Economics |Financial Mathematics).  _September 2015 - June 2019_
+-  [University of Chinese Academy of Sciences]({https://english.cas.cn/). M.Sc. in Finance (Natural Resource Management & Industrial Economics)  _September 2015 - June 2019_
+-  [Guangxi University](https://english.gxu.edu.cn/). B.Sc. in Finance (Financial Mathematics).  _September 2015 - June 2019_
 
 
 <br>
