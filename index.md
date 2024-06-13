@@ -10,7 +10,7 @@ layout: page
 Here is **Yanying Wei (YING, 韦艳莹)**.
 
 
-I am a graduate from the School of Economics and Management at the University of Chinese Academy of Sciences (UCAS), where I obtained a Master's degree in Finance. Under the guidance of Professor [Zuoji Dong](https://people.ucas.edu.cn/~dongzuoji?language=en), I delved into the intricacies of financial studies, gaining valuable insights and skills in the field.
+I am a graduate from [the School of Economics and Management at the University of Chinese Academy of Sciences (UCAS)](https://sem.ucas.edu.cn/en), where I obtained a Master's degree in Finance. Under the guidance of Professor [Zuoji Dong](https://people.ucas.edu.cn/~dongzuoji?language=en), I delved into the intricacies of financial studies, gaining valuable insights and skills in the field.
 
 Currently, I am a dedicated educator at the School of Digital Economics, Nanning University. As a faculty member in the Financial Technology program, I am passionate about imparting knowledge in various subjects, including Python Programming, Financial Big Data Analysis, and Econometrics. 
 
