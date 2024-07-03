@@ -10,9 +10,10 @@ title: Publications
 
 - **Wei, Y.** (2019). Research on Micro Credit Risk Based on Artificial Neural Network. Presented at the 4th IEEE International Conference on Cybernetics (Cybconf), Beijing, China.
 
+- <br>
 ---
 
-  <br>
+
 
 ## Journal Paper
 
@@ -22,9 +23,11 @@ title: Publications
 -  Dong, Z., **Wei, Y.**, Ren, C., & Wang, S. (2022). [Comprehensive Land Consolidation for Rural Revitalization: Public Value Creation and Realization](https://doi.org/10.18402/resci.2022.07.01). _Resources Science_, 44(7). _(Published in a Chinese Core Journal, IF:3.16. Reviewed and selected as one of the FRONTRUNNER 5000 TOP ARTICLES IN OUTSTANDING S&T JOURNALS OF CHINA IN 2022)_
 -  Huang, X., **Wei, Y.**, & Wang, D. (2022). [Capital market opening, investment efficiency, and total factor productivity of enterprises: An empirical study based on the opening of the Shenzhen-Hong Kong Stock Connect](https://www.chinastd.net/kjcjfz/article/html/20220214002). _Science & Technology for Development_, 18(3), 375–384. _(ISSN: 1672-996X, IF: 0.66)_
 
+
+  <br>
 ---
 
-<br>
+
 
 ## Working Manuscript
 
