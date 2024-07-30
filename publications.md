@@ -10,7 +10,7 @@ title: Publications
 
 - **Wei, Y.** (2019). Research on Micro Credit Risk Based on Artificial Neural Network. Presented at the 4th IEEE International Conference on Cybernetics (Cybconf), Beijing, China.
 
-- <br>
+<br>
 ---
 
 
