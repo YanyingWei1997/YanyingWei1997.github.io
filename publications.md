@@ -47,6 +47,6 @@ title: Publications
 
 ---
 
-## Other 
+## Patent and Software Copyright
 
-- Coming soon... 🚀
+- Nanning University, Xie Xinmei, Zai Dengjiao, Li Yongchan, **Wei Yanying**, Wang Yakun. (2024). [Commercial Bank Loan Digital Empowerment Security Management System V1.0](). Certificate number: Software Copyright Registration No. 13421509, Registration number: 2024SR1017636.
