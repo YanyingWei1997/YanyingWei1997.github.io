@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/yanyingwei2.jpg?raw=true" class="floatpic" width="360" height="480">
+<img src="https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/yanyingwei3.png?raw=true" class="floatpic" width="360" height="480">
 
 
 Here is **Yanying Wei (YING, 韦艳莹)**.
