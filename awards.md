@@ -30,8 +30,10 @@ title: Awards
 - American Mathematical Contest in Modeling: "S" Prize, _January 2017_.
 
 ### Instructor Awards
+- Nanning University 2024 Outstanding Graduation Thesis: Outstanding Advisor Award, _June 2024_ (Title: "Research on the Measurement and Current Situation of Technology Finance Efficiency in Guangxi", Student: YinYin Liao).
 - ICBC Cup National College Students Financial Technology Innovation Competition: Outstanding Instructor Award, _December 2023_ .
 - ICBC Cup National College Students Financial Technology Innovation Competition: Outstanding Instructor Award, _December 2022_ .
+
 
 
 
