@@ -34,7 +34,7 @@
   border-radius: 6px;
   padding: 16px 20px;
   margin-bottom: 1.5em;
-  border-left: 4px solid #4a6fa5;
+  border-left: 4px solid #6366f1;
   font-size: 0.96em;
   line-height: 1.7;
 }
@@ -93,7 +93,7 @@ ul.teaching-list li {
   padding: 8px 14px;
   margin-bottom: 6px;
   background: #fafafa;
-  border-left: 3px solid #4a6fa5;
+  border-left: 3px solid #6366f1;
   border-radius: 3px;
   font-size: 0.95em;
   display: flex;
@@ -101,8 +101,8 @@ ul.teaching-list li {
   align-items: center;
 }
 .course-level {
-  background: #ccfbf1;
-  color: #0f766e;
+  background: #e0e7ff;
+  color: #3730a3;
   font-size: 0.78em;
   font-weight: 600;
   padding: 2px 8px;
@@ -125,8 +125,14 @@ ul.teaching-list li {
   margin: 4px 0 6px 0;
   line-height: 1.6;
 }
-.ri-tag {
+.ri-tag,
+.ri-tag-blue,
+.ri-tag-green,
+.ri-tag-amber,
+.ri-tag-violet {
   display: inline-block;
+  background: #e0e7ff;
+  color: #3730a3;
   font-size: 0.72em;
   font-weight: 600;
   padding: 2px 8px;
@@ -134,15 +140,11 @@ ul.teaching-list li {
   margin: 2px 3px 2px 0;
   letter-spacing: 0.02em;
 }
-.ri-tag-blue   { background: #dbeafe; color: #1e40af; }
-.ri-tag-green  { background: #dcfce7; color: #166534; }
-.ri-tag-amber  { background: #fef3c7; color: #92400e; }
-.ri-tag-violet { background: #ede9fe; color: #5b21b6; }
 
 /* Funding cards */
 .funding-card {
   border: 1px solid #e8e8e8;
-  border-left: 4px solid #4a6fa5;
+  border-left: 4px solid #6366f1;
   border-radius: 4px;
   padding: 12px 16px;
   margin-bottom: 10px;
@@ -162,12 +164,12 @@ ul.teaching-list li {
   letter-spacing: 0.03em;
 }
 .funding-level-prov {
-  background: #ede9fe !important;
-  color: #5b21b6 !important;
+  background: #c7d2fe !important;
+  color: #3730a3 !important;
 }
 .funding-level-univ {
-  background: #dcfce7 !important;
-  color: #166534 !important;
+  background: #e0e7ff !important;
+  color: #3730a3 !important;
 }
 .funding-date {
   color: #888;
