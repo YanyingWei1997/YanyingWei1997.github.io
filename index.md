@@ -80,12 +80,31 @@ My research applies causal inference and machine learning to study **carbon emis
 
 ## 📰 News & Updates
 
-<div class="timeline">
-<div class="timeline-item"><div class="timeline-date">Oct 2025</div><div class="timeline-dot"></div><div class="timeline-content">🏅 Promoted to <strong>Lecturer</strong> at the School of Digital Economics, <a href="https://en.unn.edu.cn/">Nanning University</a></div></div>
-<div class="timeline-item"><div class="timeline-date">Aug 2022</div><div class="timeline-dot"></div><div class="timeline-content">🏫 Joined the Department of Financial Science and Technology, School of Digital Economics, <a href="https://en.unn.edu.cn/">Nanning University</a></div></div>
-<div class="timeline-item"><div class="timeline-date">Jun 2022</div><div class="timeline-dot"></div><div class="timeline-content">🎓 Graduated from the School of Economics and Management, <strong>University of the Chinese Academy of Sciences</strong></div></div>
-<div class="timeline-item"><div class="timeline-date">Aug 2019</div><div class="timeline-dot"></div><div class="timeline-content">📖 Started M.Sc. research at <a href="https://sem.ucas.edu.cn/en">UCAS</a>, supervised by <a href="https://baike.baidu.com/item/%E8%91%A3%E7%A5%9A%E7%BB%A7/8711508">Prof. Dong</a></div></div>
-<div class="timeline-item"><div class="timeline-date">Jun 2019</div><div class="timeline-dot"></div><div class="timeline-content">🎓 Graduated from <a href="https://english.gxu.edu.cn/">Guangxi University</a>, supervised by <a href="https://gxcmr.gxu.edu.cn/info/1145/1507.htm">Prof. Yuan</a></div></div>
+<div class="honor-item">
+  <span class="honor-year">2025</span>
+  <div class="honor-body">
+    <strong>Promoted to Lecturer</strong> · School of Digital Economics, <a href="https://en.unn.edu.cn/">Nanning University</a>
+  </div>
+</div>
+<div class="honor-item">
+  <span class="honor-year">2022</span>
+  <div class="honor-body">
+    <strong>Joined</strong> the Department of Financial Science and Technology, School of Digital Economics, <a href="https://en.unn.edu.cn/">Nanning University</a>
+  </div>
+</div>
+<div class="honor-item">
+  <span class="honor-year">2022</span>
+  <div class="honor-body">
+    <strong>M.Sc. Graduated</strong> · School of Economics and Management, <a href="https://english.cas.cn/">University of the Chinese Academy of Sciences</a>
+    <span class="honor-detail">Supervised by <a href="https://baike.baidu.com/item/%E8%91%A3%E7%A5%9A%E7%BB%A7/8711508">Prof. Zuoji Dong</a></span>
+  </div>
+</div>
+<div class="honor-item">
+  <span class="honor-year">2019</span>
+  <div class="honor-body">
+    <strong>B.Sc. Graduated</strong> · <a href="https://english.gxu.edu.cn/">Guangxi University</a> (Project 211)
+    <span class="honor-detail">Supervised by <a href="https://gxcmr.gxu.edu.cn/info/1145/1507.htm">Prof. Yuan</a></span>
+  </div>
 </div>
 
 <br>
