@@ -1,24 +1,21 @@
-# GuangLun means Nimbus in Chinese ✨
+# Yanying Wei — Personal Academic Website
 
-Here is **Yanying Wei (YING, 韦艳莹)**. Here is my personal website.
+Personal website of **Yanying Wei (韦艳莹)**, Lecturer in Financial Technology at the School of Digital Economics, Nanning University.
 
-Welcome to fork for free 🥰
+**Site:** [yanyingwei1997.github.io](https://yanyingwei1997.github.io/)
 
-## Update and News
+## About
 
-- 
+This site covers my research, publications, teaching, and academic background. Research interests include carbon emission dynamics, energy policy, regional corridor economics, and computational social science.
 
+## Tech Stack
 
+Built with [Jekyll](https://jekyllrb.com/), hosted on [GitHub Pages](https://pages.github.com/), using a customized academic theme.
 
-## **Star History**
+## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=YanyingWei1997/YanyingWei1997.github.io&type=Date)](https://star-history.com/#YanyingWei1997/YanyingWei1997.github.io&Date)
 
+## License
 
-
-
-
-## Statement
-
-© 2024 Yanying Wei. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). Source code for this website can be found [here](https://github.com/YanyingWei1997/YanyingWei1997.github.io).
-
+© 2025 Yanying Wei. Source available on [GitHub](https://github.com/YanyingWei1997/YanyingWei1997.github.io).

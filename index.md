@@ -35,27 +35,23 @@ My research applies causal inference and machine learning to study **carbon emis
 ## 🔬 Research Interests
 
 <div class="research-item">
-<strong>⚡ Carbon Emission Dynamics & Policy</strong><br>
-<span class="ri-desc">Decomposing regional emission drivers via LMDI; evaluating the causal effects of low-carbon city pilots and dual-carbon policies using quasi-experimental methods (DID, staggered DID).</span><br>
-<span class="ri-tag">LMDI Decomposition</span> <span class="ri-tag">Tapio Decoupling</span> <span class="ri-tag">Staggered DID</span> <span class="ri-tag">Machine Learning</span>
+<strong>⚡ Carbon Emission & Climate Policy</strong><br>
+<span class="ri-tag">LMDI Decomposition</span> <span class="ri-tag">Tapio Decoupling</span> <span class="ri-tag">Staggered DID</span> <span class="ri-tag">Low-Carbon Policy</span>
 </div>
 
 <div class="research-item">
-<strong>🌿 Energy Policy & Green Finance</strong><br>
-<span class="ri-desc">Examining how electricity market reforms shape energy supply security and how green credit allocation affects firm-level innovation and welfare, including unintended distributional effects.</span><br>
-<span class="ri-tag">Electricity Reform</span> <span class="ri-tag">Green Credit</span> <span class="ri-tag">Energy Security</span> <span class="ri-tag">Welfare Analysis</span>
+<strong>🌿 Energy Economics & Green Finance</strong><br>
+<span class="ri-tag">Electricity Reform</span> <span class="ri-tag">Green Credit</span> <span class="ri-tag">Energy Security</span> <span class="ri-tag">Environmental Policy</span>
 </div>
 
 <div class="research-item">
-<strong>🗺️ Regional Corridor Economics</strong><br>
-<span class="ri-desc">Studying value-capture dilemmas and hub reconfiguration pathways under China's New International Land-Sea Trade Corridor; examining institutional coupling between administrative and fiscal reforms.</span><br>
-<span class="ri-tag">Value Capture</span> <span class="ri-tag">Corridor Economy</span> <span class="ri-tag">Institutional Economics</span>
+<strong>🗺️ Regional & Institutional Economics</strong><br>
+<span class="ri-tag">Corridor Economy</span> <span class="ri-tag">Value Capture</span> <span class="ri-tag">Land Use</span> <span class="ri-tag">Rural Revitalization</span>
 </div>
 
 <div class="research-item">
-<strong>🌾 Environmental & Natural Resource Economics</strong><br>
-<span class="ri-desc">Evaluating land consolidation systems, ecological-economic coupling, and the distributional impact of environmental policies on rural communities and regional sustainability.</span><br>
-<span class="ri-tag">Land Use</span> <span class="ri-tag">Eco-Economic Coupling</span> <span class="ri-tag">Rural Revitalization</span>
+<strong>💻 Computational Social Science</strong><br>
+<span class="ri-tag">Machine Learning</span> <span class="ri-tag">Causal Inference</span> <span class="ri-tag">Big Data Analytics</span> <span class="ri-tag">Financial Technology</span>
 </div>
 
 <br>

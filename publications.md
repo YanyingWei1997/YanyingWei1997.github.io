@@ -14,11 +14,11 @@ title: Publications
   margin-left: 4px;
   vertical-align: middle;
 }
-.badge-review   { background:#e8f4fd; color:#1565c0; }
-.badge-revision { background:#fff8e1; color:#e65100; }
+.badge-review   { background:#efefef; color:#555; }
+.badge-revision { background:#fff8e1; color:#b35900; }
 .badge-pub      { background:#e8f5e9; color:#2e7d32; }
-.badge-q1       { background:#f3e5f5; color:#6a1b9a; }
-.badge-core     { background:#fce4ec; color:#880e4f; }
+.badge-q1       { background:#f0f0f0; color:#555; }
+.badge-core     { background:#f5f5f5; color:#444; }
 .pub-list { list-style: none; padding-left: 0; }
 .pub-list li { padding: 6px 0; border-bottom: 1px solid #f0f0f0; }
 .pub-list li:last-child { border-bottom: none; }
@@ -32,36 +32,36 @@ title: Publications
 <li>
 <span class="badge badge-revision">Major Revision · R3</span>
 <span class="badge badge-q1">JCR Q1</span>
-<strong>Wei, Y.</strong> (under review). Optimizing regional carbon peak pathways under uncertainty: An integrated Tapio-LMDI-machine learning framework with evidence from Guangxi, China. <em>Energy Conversion and Management: X</em>.
+<strong>Wei, Y.</strong>. Optimizing regional carbon peak pathways under uncertainty: An integrated Tapio-LMDI-machine learning framework with evidence from Guangxi, China. <em>Energy Conversion and Management: X</em>.
 </li>
 
 <li>
 <span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
-<strong>Wei, Y.</strong> (under review). Greener sectors, weaker transmission: The welfare paradox of carbon-targeted green credit in China. <em>Ecological Economics</em>.
+<strong>Wei, Y.</strong>. Greener sectors, weaker transmission: The welfare paradox of carbon-targeted green credit in China. <em>Ecological Economics</em>.
 </li>
 
 <li>
 <span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
-<strong>Wei, Y.</strong>*, He, Q., Shi, L., & Jiang, Y. (under review). Formation mechanism and resolution of the corridor economy value capture dilemma: Evidence from China's New Western Land-Sea Corridor. <em>Transportation Research Interdisciplinary Perspectives</em>.
+<strong>Wei, Y.</strong>*, He, Q., Shi, L., & Jiang, Y.. Formation mechanism and resolution of the corridor economy value capture dilemma: Evidence from China's New Western Land-Sea Corridor. <em>Transportation Research Interdisciplinary Perspectives</em>.
 </li>
 
 <li>
 <span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
-<strong>Wei, Y.</strong>, Shi, L., Jiang, Y., & He, Q. (under review). Analyzing the impact of electricity reforms on energy supply security: Green finance as a policy perspective. <em>Transportation Research Interdisciplinary Perspectives</em>.
+<strong>Wei, Y.</strong>, Shi, L., Jiang, Y., & He, Q.. Analyzing the impact of electricity reforms on energy supply security: Green finance as a policy perspective. <em>Transportation Research Interdisciplinary Perspectives</em>.
 </li>
 
 <li>
 <span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
-Wang, T., & <strong>Wei, Y.</strong>* (under review). The impact of the low-carbon city pilot policy on energy intensity: Evidence from a staggered DID design. <em>Land</em>.
+Wang, T., & <strong>Wei, Y.</strong>*. The impact of the low-carbon city pilot policy on energy intensity: Evidence from a staggered DID design. <em>Land</em>.
 </li>
 
 <li>
 <span class="badge badge-review">Under Review</span>
-Liu, J., <strong>Wei, Y.</strong>, Dong, Z., & Wang, S. (under review). Effects of the province-managing-county reform on economic growth: Institutional coupling of administrative empowerment and direct fiscal management. <em>Journal of Systems Science and Mathematical Sciences</em>.
+Liu, J., <strong>Wei, Y.</strong>, Dong, Z., & Wang, S.. Effects of the province-managing-county reform on economic growth: Institutional coupling of administrative empowerment and direct fiscal management. <em>Journal of Systems Science and Mathematical Sciences</em>.
 </li>
 
 </ul>
