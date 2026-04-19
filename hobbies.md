@@ -29,7 +29,7 @@ I also often go mountain climbing with my friends. Mountain climbing can help us
 If you can explain to others so that you can fully understand, you are already an expert. 
 **Knowledge changes fate.** 
 I hope to help others through knowledge. 
-I really enjoy the achievement of imparting knowledge, so I strive to become the student's favorite professor.
+I really enjoy the achievement of imparting knowledge, so I strive to become the student's favorite teacher.
 
 <br>
 
