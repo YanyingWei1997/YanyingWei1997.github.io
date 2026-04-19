@@ -10,7 +10,7 @@ layout: page
 Here is **Yanying Wei (YING, 韦艳莹)**.
 
 
-I am a Lecturer in Financial Technology at the School of Digital Economics, Nanning University. I hold a Master's degree in Finance from [the School of Economics and Management at the University of Chinese Academy of Sciences (UCAS)](https://sem.ucas.edu.cn/en), where I was supervised by Professor [Zuoji Dong](https://people.ucas.edu.cn/~dongzuoji?language=en). My research focuses on environmental and energy economics, with particular interest in carbon emission dynamics, energy policy reform, and regional corridor economics.
+I am a Lecturer in Financial Technology at the School of Digital Economics, Nanning University. I hold a Master's degree in Finance from [the School of Economics and Management at the University of Chinese Academy of Sciences (UCAS)](https://sem.ucas.edu.cn/en), where I was supervised by Professor [Zuoji Dong](https://baike.baidu.com/item/%E8%91%A3%E7%A5%9A%E7%BB%A7/8711508). My research focuses on environmental and energy economics, with particular interest in carbon emission dynamics, energy policy reform, and regional corridor economics.
 
 
 Feel free to explore my webpage to learn more about my academic pursuits and research interests. If you are interested in collaborating, please email me at - *weiyanying@unn.edu.cn*
@@ -63,7 +63,7 @@ My research applies computational and econometric methods to environmental and e
 - **October 2025:** Promoted to Lecturer at the School of Digital Economics, [Nanning University](https://en.unn.edu.cn/).
 - **August 2022:** Joined the Department of Financial Science and Technology, School of Digital Economics, [Nanning University](https://en.unn.edu.cn/).
 - **June 2022:** Graduated from the School of Economics and Management, University of the Chinese Academy of Sciences.
-- **August 2019:** Started research program at [the School of Economics and Management at the University of Chinese Academy of Sciences (UCAS)](https://sem.ucas.edu.cn/en). Supervised by [Professor Dong](https://people.ucas.edu.cn/~dongzuoji?language=en).
+- **August 2019:** Started research program at [the School of Economics and Management at the University of Chinese Academy of Sciences (UCAS)](https://sem.ucas.edu.cn/en). Supervised by [Professor Dong](https://baike.baidu.com/item/%E8%91%A3%E7%A5%9A%E7%BB%A7/8711508).
 - **June 2019:** Graduated from [Guangxi University](https://english.gxu.edu.cn/). Supervised by [Professor Yuan](https://gxcmr.gxu.edu.cn/info/1145/1507.htm).
 
 <br>
