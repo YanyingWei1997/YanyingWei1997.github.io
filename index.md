@@ -42,6 +42,22 @@ My research applies computational and econometric methods to environmental and e
 
 ---
 
+## Teaching
+
+**Nanning University, School of Digital Economics** _(2022 – Present)_
+
+| Course | Level |
+|--------|-------|
+| Python Programming & AI | Undergraduate |
+| Python Web Scraping & Data Collection Lab | Undergraduate |
+| Financial Big Data Technologies & Applications | Undergraduate |
+| Big Data Applications in Finance | Undergraduate |
+| Econometrics | Undergraduate |
+
+<br>
+
+---
+
 ## News and Updates
 
 - **October 2025:** Promoted to Lecturer at the School of Digital Economics, [Nanning University](https://en.unn.edu.cn/).

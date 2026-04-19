@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: Awards
+title: Funding & Honors
 ---
 
 
@@ -42,20 +42,5 @@ title: Awards
 <br>
 
 ---
-
-## Scholarships
-
-- Coming soon... 🚀
-
-<br>
-
----
-
-
-
-
-## Services
-
-- Coming soon... 🚀
 
 <br>
