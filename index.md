@@ -36,22 +36,22 @@ My research applies causal inference and machine learning to study **carbon emis
 
 <div class="research-item">
 <strong>⚡ Carbon Emission & Climate Policy</strong><br>
-<span class="ri-tag ri-tag-blue">LMDI Decomposition</span> <span class="ri-tag ri-tag-blue">Tapio Decoupling</span> <span class="ri-tag ri-tag-blue">Staggered DID</span> <span class="ri-tag ri-tag-blue">Low-Carbon Policy</span>
+<span class="ri-tag">LMDI Decomposition</span> <span class="ri-tag">Tapio Decoupling</span> <span class="ri-tag">Staggered DID</span> <span class="ri-tag">Low-Carbon Policy</span>
 </div>
 
 <div class="research-item">
 <strong>🌿 Energy Economics & Green Finance</strong><br>
-<span class="ri-tag ri-tag-green">Electricity Reform</span> <span class="ri-tag ri-tag-green">Green Credit</span> <span class="ri-tag ri-tag-green">Energy Security</span> <span class="ri-tag ri-tag-green">Environmental Policy</span>
+<span class="ri-tag">Electricity Reform</span> <span class="ri-tag">Green Credit</span> <span class="ri-tag">Energy Security</span> <span class="ri-tag">Environmental Policy</span>
 </div>
 
 <div class="research-item">
 <strong>🗺️ Regional & Institutional Economics</strong><br>
-<span class="ri-tag ri-tag-amber">Corridor Economy</span> <span class="ri-tag ri-tag-amber">Value Capture</span> <span class="ri-tag ri-tag-amber">Land Use</span> <span class="ri-tag ri-tag-amber">Rural Revitalization</span>
+<span class="ri-tag">Corridor Economy</span> <span class="ri-tag">Value Capture</span> <span class="ri-tag">Land Use</span> <span class="ri-tag">Rural Revitalization</span>
 </div>
 
 <div class="research-item">
 <strong>💻 Computational Social Science</strong><br>
-<span class="ri-tag ri-tag-violet">Machine Learning</span> <span class="ri-tag ri-tag-violet">Causal Inference</span> <span class="ri-tag ri-tag-violet">Big Data Analytics</span> <span class="ri-tag ri-tag-violet">Financial Technology</span>
+<span class="ri-tag">Machine Learning</span> <span class="ri-tag">Causal Inference</span> <span class="ri-tag">Big Data Analytics</span> <span class="ri-tag">Financial Technology</span>
 </div>
 
 <br>
