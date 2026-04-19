@@ -14,11 +14,11 @@ title: Publications
   margin-left: 4px;
   vertical-align: middle;
 }
-.badge-review   { background:#eaf0f8; color:#4a6fa5; }
-.badge-revision { background:#fff8e1; color:#b35900; }
-.badge-pub      { background:#e8f5e9; color:#2e7d32; }
-.badge-q1       { background:#eaf0f8; color:#4a6fa5; }
-.badge-core     { background:#eaf0f8; color:#4a6fa5; }
+.badge-review   { background:#dbeafe; color:#1e40af; }
+.badge-revision { background:#fef3c7; color:#92400e; }
+.badge-pub      { background:#dcfce7; color:#166534; }
+.badge-q1       { background:#ede9fe; color:#5b21b6; }
+.badge-core     { background:#fce7f3; color:#9d174d; }
 .pub-list { list-style: none; padding-left: 0; }
 .pub-list li { padding: 6px 0; border-bottom: 1px solid #f0f0f0; }
 .pub-list li:last-child { border-bottom: none; }
@@ -32,51 +32,36 @@ title: Publications
 <li>
 <span class="badge badge-revision">Major Revision · R3</span>
 <span class="badge badge-q1">JCR Q1</span>
-<strong>Wei, Y.</strong>. Optimizing regional carbon peak pathways under uncertainty: An integrated Tapio-LMDI-machine learning framework with evidence from Guangxi, China. <em>Energy Conversion and Management: X</em>.
+<strong>Wei, Y.</strong> Optimizing regional carbon peak pathways under uncertainty: An integrated Tapio-LMDI-machine learning framework with evidence from Guangxi, China. <em>Energy Conversion and Management: X</em>.
 </li>
 
 <li>
 <span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
-<strong>Wei, Y.</strong>. Greener sectors, weaker transmission: The welfare paradox of carbon-targeted green credit in China. <em>Ecological Economics</em>.
+<strong>Wei, Y.</strong> Greener sectors, weaker transmission: The welfare paradox of carbon-targeted green credit in China. <em>Ecological Economics</em>.
 </li>
 
 <li>
 <span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
-<strong>Wei, Y.</strong>*, He, Q., Shi, L., & Jiang, Y.. Formation mechanism and resolution of the corridor economy value capture dilemma: Evidence from China's New Western Land-Sea Corridor. <em>Transportation Research Interdisciplinary Perspectives</em>.
+<strong>Wei, Y.</strong>*, He, Q., Shi, L., & Jiang, Y. Formation mechanism and resolution of the corridor economy value capture dilemma: Evidence from China's New Western Land-Sea Corridor. <em>Transportation Research Interdisciplinary Perspectives</em>.
 </li>
 
 <li>
 <span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
-<strong>Wei, Y.</strong>, Shi, L., Jiang, Y., & He, Q.. Analyzing the impact of electricity reforms on energy supply security: Green finance as a policy perspective. <em>Transportation Research Interdisciplinary Perspectives</em>.
+<strong>Wei, Y.</strong>, Shi, L., Jiang, Y., & He, Q. Analyzing the impact of electricity reforms on energy supply security: Green finance as a policy perspective. <em>Transportation Research Interdisciplinary Perspectives</em>.
 </li>
 
 <li>
 <span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
-Wang, T., & <strong>Wei, Y.</strong>*. The impact of the low-carbon city pilot policy on energy intensity: Evidence from a staggered DID design. <em>Land</em>.
+Wang, T., & <strong>Wei, Y.</strong>* The impact of the low-carbon city pilot policy on energy intensity: Evidence from a staggered DID design. <em>Land</em>.
 </li>
 
 <li>
 <span class="badge badge-review">Under Review</span>
-Liu, J., <strong>Wei, Y.</strong>, Dong, Z., & Wang, S.. Effects of the province-managing-county reform on economic growth: Institutional coupling of administrative empowerment and direct fiscal management. <em>Journal of Systems Science and Mathematical Sciences</em>.
-</li>
-
-</ul>
-
-<br>
-
----
-
-## Conference Paper
-
-<ul class="pub-list">
-
-<li>
-<span class="badge badge-pub">Published</span>
-Shi, L., & <strong>Wei, Y.</strong> (2025). <a href="https://doi.org/10.1145/3789297.3789298">Dynamic network-LSTM model for quantitative analysis of infrastructure REITs' impact on urban rail transit debt ratios</a>. In <em>Proceedings of the 2025 2nd International Conference on Economic Data Analytics and Artificial Intelligence (EDAI 2025)</em>. ACM.
+Liu, J., <strong>Wei, Y.</strong>, Dong, Z., & Wang, S. Effects of the province-managing-county reform on economic growth: Institutional coupling of administrative empowerment and direct fiscal management. <em>Journal of Systems Science and Mathematical Sciences</em>.
 </li>
 
 </ul>
@@ -114,6 +99,21 @@ Dong, Z., <strong>Wei, Y.</strong>, Ren, C., & Wang, S. (2022). <a href="https:/
 <li>
 <span class="badge badge-pub">Published</span>
 Huang, X., <strong>Wei, Y.</strong>, & Wang, D. (2022). <a href="https://doi.org/10.11842/chips.20220214002">Capital market opening, investment efficiency, and total factor productivity of enterprises: An empirical study based on the opening of the Shenzhen-Hong Kong Stock Connect</a>. <em>Science & Technology for Development</em>, <em>18</em>(3), 375–384. <em>(IF: 0.66)</em>
+</li>
+
+</ul>
+
+<br>
+
+---
+
+## Conference Paper
+
+<ul class="pub-list">
+
+<li>
+<span class="badge badge-pub">Published</span>
+Shi, L., & <strong>Wei, Y.</strong> (2025). <a href="https://doi.org/10.1145/3789297.3789298">Dynamic network-LSTM model for quantitative analysis of infrastructure REITs' impact on urban rail transit debt ratios</a>. In <em>Proceedings of the 2025 2nd International Conference on Economic Data Analytics and Artificial Intelligence (EDAI 2025)</em>. ACM.
 </li>
 
 </ul>
