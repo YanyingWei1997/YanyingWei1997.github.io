@@ -36,12 +36,12 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: About
     url: /
   - title: Publications
-    url: /publications/
-  - title: Funding & Honors
-    url: /awards/
+    url: /#publications
+  - title: Funding
+    url: /#funding
   - title: Notes
     url: /blogs/
 
