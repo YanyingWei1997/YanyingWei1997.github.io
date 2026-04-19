@@ -101,8 +101,8 @@ ul.teaching-list li {
   align-items: center;
 }
 .course-level {
-  background: #e0e7ff;
-  color: #3730a3;
+  background: #f0f0f0;
+  color: #555;
   font-size: 0.78em;
   font-weight: 600;
   padding: 2px 8px;
