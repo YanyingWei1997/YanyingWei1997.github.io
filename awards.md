@@ -8,7 +8,7 @@ title: Funding & Honors
 
 <div class="funding-card">
   <div class="funding-meta">
-    <span class="funding-level">Provincial</span>
+    <span class="funding-level funding-level-prov">Provincial</span>
     <span class="funding-date">Oct 2025 – Oct 2028</span>
   </div>
   <div class="funding-title">Value-Capture Challenges and Incremental Hub Reconfiguration Pathways for the Guangxi Corridor Economy under the New International Land-Sea Trade Corridor</div>
@@ -17,7 +17,7 @@ title: Funding & Honors
 
 <div class="funding-card">
   <div class="funding-meta">
-    <span class="funding-level">University</span>
+    <span class="funding-level funding-level-univ">University</span>
     <span class="funding-date">Jun 2024 – Dec 2027</span>
   </div>
   <div class="funding-title">Feixiangjia: A Solid Waste Management Platform Tailored for SMEs</div>
@@ -26,7 +26,7 @@ title: Funding & Honors
 
 <div class="funding-card">
   <div class="funding-meta">
-    <span class="funding-level">Provincial</span>
+    <span class="funding-level funding-level-prov">Provincial</span>
     <span class="funding-date">Jan 2024 – Dec 2025</span>
   </div>
   <div class="funding-title">Research on the Decoupling State and Driving Mechanism of Carbon Emissions in Guangxi under the Dual-Carbon Target</div>
@@ -35,7 +35,7 @@ title: Funding & Honors
 
 <div class="funding-card">
   <div class="funding-meta">
-    <span class="funding-level">University</span>
+    <span class="funding-level funding-level-univ">University</span>
     <span class="funding-date">Jan 2024 – Dec 2024</span>
   </div>
   <div class="funding-title">Digital Empowerment for Bank Loans and Regulatory Innovation</div>
