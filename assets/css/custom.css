@@ -101,8 +101,8 @@ ul.teaching-list li {
   align-items: center;
 }
 .course-level {
-  background: #f0f0f0;
-  color: #1a1a1a;
+  background: #f0f0f0 !important;
+  color: #1a1a1a !important;
   font-size: 0.78em;
   font-weight: 600;
   padding: 2px 8px;
@@ -131,11 +131,11 @@ ul.teaching-list li {
 .ri-tag-amber,
 .ri-tag-violet {
   display: inline-block;
-  background: #f0f0f0;
-  color: #1a1a1a;
+  background: #f0f0f0 !important;
+  color: #1a1a1a !important;
   font-size: 0.72em;
   font-weight: 600;
-  padding: 2px 8px;
+  padding: 2px 9px;
   border-radius: 10px;
   margin: 2px 3px 2px 0;
   letter-spacing: 0.02em;
