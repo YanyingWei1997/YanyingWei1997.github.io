@@ -14,11 +14,11 @@ title: Publications
   margin-left: 4px;
   vertical-align: middle;
 }
-.badge-review   { background:#efefef; color:#555; }
+.badge-review   { background:#eaf0f8; color:#4a6fa5; }
 .badge-revision { background:#fff8e1; color:#b35900; }
 .badge-pub      { background:#e8f5e9; color:#2e7d32; }
-.badge-q1       { background:#f0f0f0; color:#555; }
-.badge-core     { background:#f5f5f5; color:#444; }
+.badge-q1       { background:#eaf0f8; color:#4a6fa5; }
+.badge-core     { background:#eaf0f8; color:#4a6fa5; }
 .pub-list { list-style: none; padding-left: 0; }
 .pub-list li { padding: 6px 0; border-bottom: 1px solid #f0f0f0; }
 .pub-list li:last-child { border-bottom: none; }
