@@ -4,43 +4,117 @@ permalink: /awards/index.html
 title: Funding & Honors
 ---
 
+## 💰 Research Funding
 
+<div class="funding-card">
+  <div class="funding-meta">
+    <span class="funding-level">Provincial</span>
+    <span class="funding-date">Oct 2025 – Oct 2028</span>
+  </div>
+  <div class="funding-title">Value-Capture Challenges and Incremental Hub Reconfiguration Pathways for the Guangxi Corridor Economy under the New International Land-Sea Trade Corridor</div>
+  <div class="funding-source">Publicity Department of the Guangxi Zhuang Autonomous Region Party Committee &nbsp;·&nbsp; Grant No. 25JYF186</div>
+</div>
 
-## My Fundings
+<div class="funding-card">
+  <div class="funding-meta">
+    <span class="funding-level">University</span>
+    <span class="funding-date">Jun 2024 – Dec 2027</span>
+  </div>
+  <div class="funding-title">Feixiangjia: A Solid Waste Management Platform Tailored for SMEs</div>
+  <div class="funding-source">Nanning University &nbsp;·&nbsp; Grant No. S2024-1154-9017X</div>
+</div>
 
-- Principal Investigator. **_Value-Capture Challenges and Incremental Hub Reconfiguration Pathways for the Guangxi Corridor Economy under the New International Land-Sea Trade Corridor_**. Supported by the Publicity Department of the Guangxi Zhuang Autonomous Region Party Committee (Grant No. 25JYF186), _October 2025 - October 2028_.
-- Principal Investigator. **_Feixiangjia: A Solid Waste Management Platform Tailored for SMEs_**. Supported by Nanning University (Grant No. S2024-1154-9017X), _June 2024 - December 2027_.
-- Principal Investigator. **_Research on the Decoupling State and Driving Mechanism of Carbon Emissions in Guangxi under the Dual-Carbon Target_**. Supported by the Research Foundation for Youth and Middle-Aged Improvement of Bureau of Science and Technology of Guangxi Province, China (Grant No. 2024-KY-1871), _January 2024 - December 2025_.
-- Principal Investigator. **_Digital Empowerment for Bank Loans and Regulatory Innovation_**. Supported by Nanning University (Grant No. S2023-1154-9126), _January 2024 - December 2024_.
+<div class="funding-card">
+  <div class="funding-meta">
+    <span class="funding-level">Provincial</span>
+    <span class="funding-date">Jan 2024 – Dec 2025</span>
+  </div>
+  <div class="funding-title">Research on the Decoupling State and Driving Mechanism of Carbon Emissions in Guangxi under the Dual-Carbon Target</div>
+  <div class="funding-source">Research Foundation for Youth and Middle-Aged Improvement, Bureau of Science and Technology of Guangxi Province &nbsp;·&nbsp; Grant No. 2024-KY-1871</div>
+</div>
 
-
+<div class="funding-card">
+  <div class="funding-meta">
+    <span class="funding-level">University</span>
+    <span class="funding-date">Jan 2024 – Dec 2024</span>
+  </div>
+  <div class="funding-title">Digital Empowerment for Bank Loans and Regulatory Innovation</div>
+  <div class="funding-source">Nanning University &nbsp;·&nbsp; Grant No. S2023-1154-9126</div>
+</div>
 
 <br>
 
 ---
 
-
-## Honors
-### Individual Awards
-
-- The Second Curriculum Ideology and Politics Teaching Design Competition of Nanning College , Third prize, _June 2023_.
-- the First Foxconn Cup of Guangxi University , Third prize , _May 2017_.
-- Guangxi University Club Officers Evaluation, Outstanding Student Leader (School-level) , _May 2016_.
-- Nanning University Teaching Skills Competition: Third Prize, _July 2022_.
-- National Undergraduate Mathematical Modeling Competition: Second Prize, Guangxi Region, _July 2019_.
-- American Mathematical Contest in Modeling: "S" Prize, _January 2017_.
+## 🏆 Honors & Awards
 
 ### Instructor Awards
-- Nanning University 2024 Outstanding Graduation Thesis: Outstanding Advisor Award, _June 2025_ (Title: "Research on Price Prediction of CSI 300 Index Based on K-Means and LSTM Models", Student: Jinmei Huang).
-- Nanning University 2024 Outstanding Graduation Thesis: Outstanding Advisor Award, _June 2024_ (Title: "Research on the Measurement and Current Situation of Technology Finance Efficiency in Guangxi", Student: Yinyin Liao).
-- ICBC Cup National College Students Financial Technology Innovation Competition: Outstanding Instructor Award, _December 2023_ .
-- ICBC Cup National College Students Financial Technology Innovation Competition: Outstanding Instructor Award, _December 2022_ .
 
+<div class="honor-item">
+  <span class="honor-year">2025</span>
+  <div class="honor-body">
+    <strong>Outstanding Graduation Thesis Advisor</strong> · Nanning University<br>
+    <span class="honor-detail">"Research on Price Prediction of CSI 300 Index Based on K-Means and LSTM Models" — Student: Jinmei Huang</span>
+  </div>
+</div>
 
+<div class="honor-item">
+  <span class="honor-year">2024</span>
+  <div class="honor-body">
+    <strong>Outstanding Graduation Thesis Advisor</strong> · Nanning University<br>
+    <span class="honor-detail">"Research on the Measurement and Current Situation of Technology Finance Efficiency in Guangxi" — Student: Yinyin Liao</span>
+  </div>
+</div>
 
+<div class="honor-item">
+  <span class="honor-year">2023</span>
+  <div class="honor-body">
+    <strong>Outstanding Instructor Award</strong> · ICBC Cup National College Students Financial Technology Innovation Competition
+  </div>
+</div>
 
-<br>
+<div class="honor-item">
+  <span class="honor-year">2022</span>
+  <div class="honor-body">
+    <strong>Outstanding Instructor Award</strong> · ICBC Cup National College Students Financial Technology Innovation Competition
+  </div>
+</div>
 
----
+### Individual Awards
+
+<div class="honor-item">
+  <span class="honor-year">2023</span>
+  <div class="honor-body">
+    <strong>Third Prize</strong> · Curriculum Ideology and Politics Teaching Design Competition · Nanning University
+  </div>
+</div>
+
+<div class="honor-item">
+  <span class="honor-year">2022</span>
+  <div class="honor-body">
+    <strong>Third Prize</strong> · Teaching Skills Competition · Nanning University
+  </div>
+</div>
+
+<div class="honor-item">
+  <span class="honor-year">2019</span>
+  <div class="honor-body">
+    <strong>Second Prize</strong> (Guangxi Region) · National Undergraduate Mathematical Modeling Competition
+  </div>
+</div>
+
+<div class="honor-item">
+  <span class="honor-year">2017</span>
+  <div class="honor-body">
+    <strong>"S" Prize</strong> · American Mathematical Contest in Modeling (MCM/ICM)
+  </div>
+</div>
+
+<div class="honor-item">
+  <span class="honor-year">2017</span>
+  <div class="honor-body">
+    <strong>Third Prize</strong> · Foxconn Cup · Guangxi University
+  </div>
+</div>
 
 <br>

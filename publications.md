@@ -122,15 +122,33 @@ Huang, X., <strong>Wei, Y.</strong>, & Wang, D. (2022). <a href="https://doi.org
 
 ---
 
-## Undergraduate Thesis
+## 📘 Theses
 
-- **Wei, Y.** (2022). Research on the Coordination of Land Use-Ecological Environment-Socio-Economic System. Beijing: University of Chinese Academy of Sciences.
-- **Wei, Y.** (2019). Research on Micro-Credit Risk in Big Data Environment. Nanning: Guangxi University.
+<div class="thesis-item">
+  <span class="thesis-year">2022</span>
+  <div class="thesis-body">
+    <strong>Research on the Coordination of Land Use-Ecological Environment-Socio-Economic System</strong><br>
+    <span class="thesis-meta">M.Sc. Thesis · University of Chinese Academy of Sciences · Beijing</span>
+  </div>
+</div>
+
+<div class="thesis-item">
+  <span class="thesis-year">2019</span>
+  <div class="thesis-body">
+    <strong>Research on Micro-Credit Risk in Big Data Environment</strong><br>
+    <span class="thesis-meta">B.Sc. Thesis · Guangxi University · Nanning</span>
+  </div>
+</div>
 
 <br>
 
 ---
 
-## Patent and Software Copyright
+## 🔐 Patent & Software Copyright
 
-- Nanning University, Xie, X., Zai, D., Li, Y., **Wei, Y.**, & Wang, Y. (2024). _[Commercial Bank Loan Digital Empowerment Security Management System V1.0](https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/sw1.png?raw=true)_ [Computer software]. Registration No. 2024SR1017636.
+<div class="patent-item">
+  <span class="badge badge-pub" style="margin-left:0;">Software Copyright</span>
+  <span class="patent-year">2024</span><br>
+  <strong><a href="https://github.com/YanyingWei1997/YanyingWei1997.github.io/blob/main/images/sw1.png?raw=true">Commercial Bank Loan Digital Empowerment Security Management System V1.0</a></strong><br>
+  <span class="thesis-meta">Nanning University · Xie, X., Zai, D., Li, Y., <strong>Wei, Y.</strong>, & Wang, Y. · Reg. No. 2024SR1017636</span>
+</div>

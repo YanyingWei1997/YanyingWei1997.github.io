@@ -116,6 +116,141 @@ ul.teaching-list li {
   letter-spacing: 0.02em;
 }
 
+/* Research interest keyword tags */
+.ri-desc {
+  display: block;
+  color: #555;
+  font-size: 0.91em;
+  margin: 4px 0 6px 0;
+  line-height: 1.6;
+}
+.ri-tag {
+  display: inline-block;
+  background: #f0f4ff;
+  color: #2962ff;
+  font-size: 0.72em;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 10px;
+  margin: 2px 3px 2px 0;
+  letter-spacing: 0.02em;
+}
+
+/* Funding cards */
+.funding-card {
+  border: 1px solid #eee;
+  border-left: 4px solid #2e7d32;
+  border-radius: 4px;
+  padding: 12px 16px;
+  margin-bottom: 10px;
+  background: #fafafa;
+}
+.funding-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5px;
+}
+.funding-level {
+  background: #e8f5e9;
+  color: #2e7d32;
+  font-size: 0.72em;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 3px;
+  letter-spacing: 0.03em;
+}
+.funding-date {
+  color: #888;
+  font-size: 0.83em;
+}
+.funding-title {
+  font-size: 0.93em;
+  font-weight: 600;
+  color: #1a1a1a;
+  line-height: 1.5;
+  margin-bottom: 4px;
+}
+.funding-source {
+  font-size: 0.82em;
+  color: #777;
+}
+
+/* Honor items */
+.honor-item {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+  padding: 8px 0;
+  border-bottom: 1px solid #f4f4f4;
+  font-size: 0.92em;
+}
+.honor-item:last-child { border-bottom: none; }
+.honor-year {
+  min-width: 38px;
+  background: #1a1a1a;
+  color: #fff;
+  font-size: 0.75em;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 3px;
+  text-align: center;
+  height: fit-content;
+  margin-top: 2px;
+}
+.honor-body { line-height: 1.6; }
+.honor-detail {
+  display: block;
+  color: #777;
+  font-size: 0.88em;
+  margin-top: 2px;
+}
+
+/* Thesis items */
+.thesis-item {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+  padding: 8px 0;
+  border-bottom: 1px solid #f4f4f4;
+  font-size: 0.92em;
+}
+.thesis-item:last-child { border-bottom: none; }
+.thesis-year {
+  min-width: 38px;
+  background: #f3e5f5;
+  color: #6a1b9a;
+  font-size: 0.75em;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 3px;
+  text-align: center;
+  height: fit-content;
+  margin-top: 2px;
+}
+.thesis-body { line-height: 1.6; }
+.thesis-meta {
+  display: block;
+  color: #888;
+  font-size: 0.87em;
+  margin-top: 2px;
+}
+
+/* Patent item */
+.patent-item {
+  background: #fafafa;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding: 12px 16px;
+  font-size: 0.92em;
+  line-height: 1.65;
+}
+.patent-year {
+  color: #888;
+  font-size: 0.84em;
+  margin-left: 6px;
+}
+
 /* Sidebar bio italic style */
 .article-author-bottom p {
   color: #555;
