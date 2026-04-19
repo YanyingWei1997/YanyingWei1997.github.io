@@ -38,13 +38,13 @@ title: Publications
 <li>
 <span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
-<strong>Wei, Y.</strong> <em>Greener Sectors, Weaker Transmission: The Welfare Paradox of Carbon-Targeted Green Credit in China</em>. <em>Ecological Economics</em>. <em>(Manuscript No. ECOLEC-D-26-01565)</em>
+<strong>Wei, Y.</strong> <em>Greener Sectors, Weaker Transmission: The Welfare Paradox of Carbon-Targeted Green Credit in China</em>. <em>Ecological Economics</em>.
 </li>
 
 <li>
 <span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
-<strong>Wei, Y.</strong>*, He, Q., Shi, L., & Jiang, Y. <em>Formation Mechanism and Resolution of the Corridor Economy Value Capture Dilemma: Evidence from China's New Western Land-Sea Corridor</em>. <em>Transportation Research Interdisciplinary Perspectives</em>. <em>(Manuscript No. TRIP-D-26-00471)</em>
+<strong>Wei, Y.</strong>*, He, Q., Shi, L., & Jiang, Y. <em>Formation Mechanism and Resolution of the Corridor Economy Value Capture Dilemma: Evidence from China's New Western Land-Sea Corridor</em>. <em>Transportation Research Interdisciplinary Perspectives</em>.
 </li>
 
 <li>
@@ -56,7 +56,7 @@ title: Publications
 <li>
 <span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
-Wang, T., & <strong>Wei, Y.</strong>* <em>The Impact of the Low-Carbon City Pilot Policy on Energy Intensity: Evidence from a Staggered DID Design</em>. <em>Land</em>. <em>(Manuscript No. land-4264560)</em>
+Wang, T., & <strong>Wei, Y.</strong>* <em>The Impact of the Low-Carbon City Pilot Policy on Energy Intensity: Evidence from a Staggered DID Design</em>. <em>Land</em>.
 </li>
 
 <li>
