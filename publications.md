@@ -32,36 +32,36 @@ title: Publications
 <li>
 <span class="badge badge-revision">Major Revision · R3</span>
 <span class="badge badge-q1">JCR Q1</span>
-<strong>Wei, Y.</strong> <em>Optimizing Regional Carbon Peak Pathways Under Uncertainty: An Integrated Tapio-LMDI-Machine Learning Framework with Evidence from Guangxi, China</em>. <em>Energy Conversion and Management: X</em>.
+<strong>Wei, Y.</strong> (under review). Optimizing regional carbon peak pathways under uncertainty: An integrated Tapio-LMDI-machine learning framework with evidence from Guangxi, China. <em>Energy Conversion and Management: X</em>.
 </li>
 
 <li>
 <span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
-<strong>Wei, Y.</strong> <em>Greener Sectors, Weaker Transmission: The Welfare Paradox of Carbon-Targeted Green Credit in China</em>. <em>Ecological Economics</em>.
+<strong>Wei, Y.</strong> (under review). Greener sectors, weaker transmission: The welfare paradox of carbon-targeted green credit in China. <em>Ecological Economics</em>.
 </li>
 
 <li>
 <span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
-<strong>Wei, Y.</strong>*, He, Q., Shi, L., & Jiang, Y. <em>Formation Mechanism and Resolution of the Corridor Economy Value Capture Dilemma: Evidence from China's New Western Land-Sea Corridor</em>. <em>Transportation Research Interdisciplinary Perspectives</em>.
+<strong>Wei, Y.</strong>*, He, Q., Shi, L., & Jiang, Y. (under review). Formation mechanism and resolution of the corridor economy value capture dilemma: Evidence from China's New Western Land-Sea Corridor. <em>Transportation Research Interdisciplinary Perspectives</em>.
 </li>
 
 <li>
 <span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
-<strong>Wei, Y.</strong>, Shi, L., Jiang, Y., & He, Q. <em>Analyzing the Impact of Electricity Reforms on Energy Supply Security: Green Finance as a Policy Perspective</em>. <em>Transportation Research Interdisciplinary Perspectives</em>.
+<strong>Wei, Y.</strong>, Shi, L., Jiang, Y., & He, Q. (under review). Analyzing the impact of electricity reforms on energy supply security: Green finance as a policy perspective. <em>Transportation Research Interdisciplinary Perspectives</em>.
 </li>
 
 <li>
 <span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
-Wang, T., & <strong>Wei, Y.</strong>* <em>The Impact of the Low-Carbon City Pilot Policy on Energy Intensity: Evidence from a Staggered DID Design</em>. <em>Land</em>.
+Wang, T., & <strong>Wei, Y.</strong>* (under review). The impact of the low-carbon city pilot policy on energy intensity: Evidence from a staggered DID design. <em>Land</em>.
 </li>
 
 <li>
 <span class="badge badge-review">Under Review</span>
-Liu, J., <strong>Wei, Y.</strong>, Dong, Z., & Wang, S. <em>Effects of the Province-Managing-County Reform on Economic Growth: Institutional Coupling of Administrative Empowerment and Direct Fiscal Management</em>. <em>Journal of Systems Science and Mathematical Sciences</em>.
+Liu, J., <strong>Wei, Y.</strong>, Dong, Z., & Wang, S. (under review). Effects of the province-managing-county reform on economic growth: Institutional coupling of administrative empowerment and direct fiscal management. <em>Journal of Systems Science and Mathematical Sciences</em>.
 </li>
 
 </ul>
@@ -76,7 +76,7 @@ Liu, J., <strong>Wei, Y.</strong>, Dong, Z., & Wang, S. <em>Effects of the Provi
 
 <li>
 <span class="badge badge-pub">Published</span>
-Shi, L., & <strong>Wei, Y.</strong> (2025). <a href="https://doi.org/10.1145/3789297.3789298"><em>Dynamic Network-LSTM Model for Quantitative Analysis of Infrastructure REITs' Impact on Urban Rail Transit Debt Ratios</em></a>. In <em>Proceedings of the 2025 2nd International Conference on Economic Data Analytics and Artificial Intelligence (EDAI 2025)</em>. ACM.
+Shi, L., & <strong>Wei, Y.</strong> (2025). <a href="https://doi.org/10.1145/3789297.3789298">Dynamic network-LSTM model for quantitative analysis of infrastructure REITs' impact on urban rail transit debt ratios</a>. In <em>Proceedings of the 2025 2nd International Conference on Economic Data Analytics and Artificial Intelligence (EDAI 2025)</em>. ACM.
 </li>
 
 </ul>
@@ -91,29 +91,29 @@ Shi, L., & <strong>Wei, Y.</strong> (2025). <a href="https://doi.org/10.1145/378
 
 <li>
 <span class="badge badge-pub">Published</span>
-<strong>Wei, Y.</strong>, Quan, L., Wei, Z., & Deng, L. (2024). <a href="https://www.journal-iem.online/5/1/72"><em>Analysis on Efficiency and Influencing Factors of Guangxi Technology and Finance Based on DEA Model</em></a>. <em>Journal of Innovations in Economics & Management</em>, 5(1), 72. <em>(IF: 1.7)</em>
+<strong>Wei, Y.</strong>, Quan, L., Wei, Z., & Deng, L. (2024). <a href="https://www.journal-iem.online/5/1/72">Analysis on efficiency and influencing factors of Guangxi technology and finance based on DEA model</a>. <em>Journal of Innovations in Economics & Management</em>, <em>5</em>(1), 72. <em>(IF: 1.7)</em>
 </li>
 
 <li>
 <span class="badge badge-pub">Published</span>
-Deng, L., Deng, Z., & <strong>Wei, Y.</strong> (2024). <a href="https://www.journal-iem.online/5/1/73"><em>Research on the Influence of ESG Performance on BYD's Innovation Ability</em></a>. <em>Journal of Innovations in Economics & Management</em>, 5(1), 73. <em>(IF: 1.7)</em>
+Deng, L., Deng, Z., & <strong>Wei, Y.</strong> (2024). <a href="https://www.journal-iem.online/5/1/73">Research on the influence of ESG performance on BYD's innovation ability</a>. <em>Journal of Innovations in Economics & Management</em>, <em>5</em>(1), 73. <em>(IF: 1.7)</em>
 </li>
 
 <li>
 <span class="badge badge-pub">Published</span>
 <span class="badge badge-core">Chinese Core</span>
-Wang, D., Yu, H., Huangfu, Y., <strong>Wei, Y.</strong>, & Dong, Z. (2024). <a href="https://doi.org/10.14120/j.cnki.cn11-5057/f.2024.01.022"><em>Dynamic Evolution and Trend Frontiers in Land Use Change Research: A Bibliometric Analysis Based on the WoS Core Database (1990–2020)</em></a>. <em>Management Review</em>, 36(1), 87. <em>(IF: 5.546)</em>
+Wang, D., Yu, H., Huangfu, Y., <strong>Wei, Y.</strong>, & Dong, Z. (2024). <a href="https://doi.org/10.14120/j.cnki.cn11-5057/f.2024.01.022">Dynamic evolution and trend frontiers in land use change research: A bibliometric analysis based on the WoS core database (1990–2020)</a>. <em>Management Review</em>, <em>36</em>(1), 87. <em>(IF: 5.546)</em>
 </li>
 
 <li>
 <span class="badge badge-pub">Published</span>
 <span class="badge badge-core">Chinese Core · Frontrunner 5000</span>
-Dong, Z., <strong>Wei, Y.</strong>, Ren, C., & Wang, S. (2022). <a href="https://doi.org/10.18402/resci.2022.07.01"><em>Comprehensive Land Improvement Innovation for Rural Revitalization: Public Value Creation and Realization</em></a>. <em>Resources Science</em>, 44(7), 1305–1315. <em>(IF: 3.16)</em>
+Dong, Z., <strong>Wei, Y.</strong>, Ren, C., & Wang, S. (2022). <a href="https://doi.org/10.18402/resci.2022.07.01">Comprehensive land improvement innovation for rural revitalization: Public value creation and realization</a>. <em>Resources Science</em>, <em>44</em>(7), 1305–1315. <em>(IF: 3.16)</em>
 </li>
 
 <li>
 <span class="badge badge-pub">Published</span>
-Huang, X., <strong>Wei, Y.</strong>, & Wang, D. (2022). <a href="https://doi.org/10.11842/chips.20220214002"><em>Capital Market Opening, Investment Efficiency, and Total Factor Productivity of Enterprises: An Empirical Study Based on the Opening of the Shenzhen-Hong Kong Stock Connect</em></a>. <em>Science & Technology for Development</em>, 18(3), 375–384. <em>(IF: 0.66)</em>
+Huang, X., <strong>Wei, Y.</strong>, & Wang, D. (2022). <a href="https://doi.org/10.11842/chips.20220214002">Capital market opening, investment efficiency, and total factor productivity of enterprises: An empirical study based on the opening of the Shenzhen-Hong Kong Stock Connect</a>. <em>Science & Technology for Development</em>, <em>18</em>(3), 375–384. <em>(IF: 0.66)</em>
 </li>
 
 </ul>
