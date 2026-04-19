@@ -30,15 +30,33 @@ title: Publications
 <ul class="pub-list">
 
 <li>
+<span class="badge badge-revision">Major Revision · R3</span>
+<span class="badge badge-q1">JCR Q1</span>
+<strong>Wei, Y.</strong> <em>Optimizing Regional Carbon Peak Pathways Under Uncertainty: An Integrated Tapio-LMDI-Machine Learning Framework with Evidence from Guangxi, China</em>. <em>Energy Conversion and Management: X</em>.
+</li>
+
+<li>
+<span class="badge badge-review">Under Review</span>
+<span class="badge badge-q1">JCR Q1</span>
+<strong>Wei, Y.</strong> <em>Greener Sectors, Weaker Transmission: The Welfare Paradox of Carbon-Targeted Green Credit in China</em>. <em>Ecological Economics</em>. <em>(Manuscript No. ECOLEC-D-26-01565)</em>
+</li>
+
+<li>
+<span class="badge badge-review">Under Review</span>
+<span class="badge badge-q1">JCR Q1</span>
+<strong>Wei, Y.</strong>*, He, Q., Shi, L., & Jiang, Y. <em>Formation Mechanism and Resolution of the Corridor Economy Value Capture Dilemma: Evidence from China's New Western Land-Sea Corridor</em>. <em>Transportation Research Interdisciplinary Perspectives</em>. <em>(Manuscript No. TRIP-D-26-00471)</em>
+</li>
+
+<li>
 <span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
 <strong>Wei, Y.</strong>, Shi, L., Jiang, Y., & He, Q. <em>Analyzing the Impact of Electricity Reforms on Energy Supply Security: Green Finance as a Policy Perspective</em>. <em>Transportation Research Interdisciplinary Perspectives</em>.
 </li>
 
 <li>
-<span class="badge badge-revision">Major Revision · R3</span>
+<span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
-<strong>Wei, Y.</strong> <em>Optimizing Regional Carbon Peak Pathways Under Uncertainty: An Integrated Tapio-LMDI-Machine Learning Framework with Evidence from Guangxi, China</em>. <em>Energy Conversion and Management: X</em>.
+Wang, T., & <strong>Wei, Y.</strong>* <em>The Impact of the Low-Carbon City Pilot Policy on Energy Intensity: Evidence from a Staggered DID Design</em>. <em>Land</em>. <em>(Manuscript No. land-4264560)</em>
 </li>
 
 <li>
