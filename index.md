@@ -26,7 +26,7 @@ My research applies causal inference and machine learning to study **carbon emis
 
 - **Sep 2019 – Jun 2022** &nbsp;·&nbsp; [University of Chinese Academy of Sciences](https://english.cas.cn/) &nbsp;·&nbsp; M.Sc. in Finance<br><span style="color:#888;font-size:0.9em;">Applied Economics · Natural Resource Management · Industrial Economics · Supervised by Prof. <a href="https://baike.baidu.com/item/%E8%91%A3%E7%A5%9A%E7%BB%A7/8711508">Zuoji Dong</a></span>
 
-- **Sep 2015 – Jun 2019** &nbsp;·&nbsp; [Guangxi University](https://english.gxu.edu.cn/) *(Project 211)* &nbsp;·&nbsp; B.Sc. in Financial Mathematics<br><span style="color:#888;font-size:0.9em;">Applied Economics · Financial Mathematics · Supervised by Prof. <a href="https://gxcmr.gxu.edu.cn/info/1145/1507.htm">Yuan</a></span>
+- **Sep 2015 – Jun 2019** &nbsp;·&nbsp; [Guangxi University](https://english.gxu.edu.cn/) *(Project 211)* &nbsp;·&nbsp; B.Sc. in Financial Mathematics<br><span style="color:#888;font-size:0.9em;">Applied Economics · Financial Mathematics · Supervised by Prof. <a href="https://gxcmr.gxu.edu.cn/info/1145/1507.htm">Gongli Yuan</a></span>
 
 <br>
 
