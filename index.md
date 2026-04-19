@@ -58,13 +58,13 @@ Feel free to explore my webpage to learn more about my academic pursuits and res
 
 **Nanning University, School of Digital Economics** _(2022 – Present)_
 
-| Course | Level |
-|--------|-------|
-| 🐍 Python Programming & AI | Undergraduate |
-| 🕷️ Python Web Scraping & Data Collection Lab | Undergraduate |
-| 📊 Financial Big Data Technologies & Applications | Undergraduate |
-| 💹 Big Data Applications in Finance | Undergraduate |
-| 📐 Econometrics | Undergraduate |
+<ul class="teaching-list">
+  <li>🐍 Python Programming & AI <span class="course-level">Undergraduate</span></li>
+  <li>🕷️ Python Web Scraping & Data Collection Lab <span class="course-level">Undergraduate</span></li>
+  <li>📊 Financial Big Data Technologies & Applications <span class="course-level">Undergraduate</span></li>
+  <li>💹 Big Data Applications in Finance <span class="course-level">Undergraduate</span></li>
+  <li>📐 Econometrics <span class="course-level">Undergraduate</span></li>
+</ul>
 
 <br>
 
