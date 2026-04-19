@@ -1,0 +1,95 @@
+/* ========= Academic Polish ========= */
+
+/* Navigation: highlight active with blue underline */
+.top-navigation a.top-navigation-current {
+  color: #1a1a1a;
+  border-bottom: 2px solid #2962ff;
+  padding-bottom: 2px;
+}
+
+/* Section headings: tighter, cleaner */
+.article-wrap h2 {
+  font-size: 1.5rem;
+  margin-top: 1.6em;
+  margin-bottom: 0.4em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid #ebebeb;
+  color: #1a1a1a;
+}
+
+/* PhD highlight callout box */
+.phd-highlight {
+  background: #fff8e1;
+  border-left: 4px solid #f9a825;
+  padding: 10px 16px;
+  border-radius: 4px;
+  margin: 1em 0 1.5em 0;
+  font-size: 0.97em;
+}
+
+/* Info card for intro */
+.intro-card {
+  background: #f8f9fa;
+  border-radius: 6px;
+  padding: 16px 20px;
+  margin-bottom: 1.5em;
+  border-left: 4px solid #2962ff;
+  font-size: 0.96em;
+  line-height: 1.7;
+}
+
+/* Research interest items */
+.research-item {
+  background: #fafafa;
+  border-radius: 4px;
+  padding: 8px 14px;
+  margin-bottom: 8px;
+  border-left: 3px solid #e0e0e0;
+}
+
+/* Teaching table */
+.article-wrap table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.93em;
+  margin: 1em 0;
+}
+.article-wrap table th {
+  background: #1a1a1a;
+  color: #ffffff;
+  padding: 8px 12px;
+  text-align: left;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+.article-wrap table td {
+  padding: 7px 12px;
+  border-bottom: 1px solid #efefef;
+}
+.article-wrap table tr:hover td {
+  background: #f5f7ff;
+}
+
+/* News list: cleaner spacing */
+.article-wrap ul li {
+  margin-bottom: 0.35em;
+  line-height: 1.6;
+}
+
+/* Horizontal rules */
+.article-wrap hr {
+  border: none;
+  border-top: 1px solid #e8e8e8;
+  margin: 1.8em 0;
+}
+
+/* Publication badges (ensure font) */
+.badge {
+  font-family: 'PT Sans Narrow', sans-serif;
+  letter-spacing: 0.02em;
+}
+
+/* Sidebar bio italic style */
+.article-author-bottom p {
+  color: #555;
+  line-height: 1.5;
+}
