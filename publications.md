@@ -29,11 +29,10 @@ title: Publications
 
 <ul class="pub-list">
 <li>
-<span class="badge badge-revision">Major Revision · R3</span>
+<span class="badge badge-revision">Minor Revision · R4</span>
 <span class="badge badge-q1">JCR Q1</span>
 <strong>Wei, Y.</strong> Optimizing regional carbon peak pathways under uncertainty: An integrated Tapio-LMDI-machine learning framework with evidence from Guangxi, China. <em>Energy Conversion and Management: X</em>.
 </li>
-
 <li>
 <span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
