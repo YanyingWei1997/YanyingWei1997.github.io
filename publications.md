@@ -28,7 +28,6 @@ title: Publications
 ## Working Manuscript
 
 <ul class="pub-list">
-
 <li>
 <span class="badge badge-revision">Major Revision · R3</span>
 <span class="badge badge-q1">JCR Q1</span>
@@ -39,12 +38,6 @@ title: Publications
 <span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
 <strong>Wei, Y.</strong> Greener sectors, weaker transmission: The welfare paradox of carbon-targeted green credit in China. <em>Ecological Economics</em>.
-</li>
-
-<li>
-<span class="badge badge-review">Under Review</span>
-<span class="badge badge-q1">JCR Q1</span>
-<strong>Wei, Y.</strong>*, He, Q., Shi, L., & Jiang, Y. Formation mechanism and resolution of the corridor economy value capture dilemma: Evidence from China's New Western Land-Sea Corridor. <em>Transportation Research Interdisciplinary Perspectives</em>.
 </li>
 
 <li>
