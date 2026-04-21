@@ -49,7 +49,7 @@ title: Publications
 <li>
 <span class="badge badge-review">Under Review</span>
 <span class="badge badge-q1">JCR Q1</span>
-Wang, T., & <strong>Wei, Y.</strong>* The impact of the low-carbon city pilot policy on energy intensity: Evidence from a staggered DID design. <em>Land</em>.
+Wang, T., & <strong>Wei, Y.</strong> The impact of the low-carbon city pilot policy on energy intensity: Evidence from a staggered DID design. <em>Land</em>.
 </li>
 
 <li>
