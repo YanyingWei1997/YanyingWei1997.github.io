@@ -4,7 +4,7 @@ title: "VSCode + Stata 17 + AI: Running Your Entire Empirical Workflow in One Wi
 date: 2026-04-27
 description: "A complete beginner's guide to running end-to-end empirical research seamlessly using AI, eliminating manual formatting and table generation."
 cover_image: "/images/blog-stata-ai.png"
-permalink: /blog/vscode-stata-ai/
+permalink: /blog/vscode-stata-ai-en/
 lang: en
 ---
 

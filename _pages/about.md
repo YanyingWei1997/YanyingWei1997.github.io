@@ -267,7 +267,9 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
     </a>
   </div>
   <div class="blog-grid">
-    {% assign visible_posts = site.posts %}
+    {% assign english_posts = site.posts | where: "lang", "en" %}
+    {% assign legacy_posts = site.posts | where_exp: "post", "post.lang == null" %}
+    {% assign visible_posts = english_posts | concat: legacy_posts | sort: "date" | reverse %}
     {% for post in visible_posts limit:6 %}
     <a href="{{ post.url | relative_url }}" class="blog-card-link">
       <div class="blog-card">
