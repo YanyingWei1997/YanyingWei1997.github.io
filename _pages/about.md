@@ -12,12 +12,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Yanying Wei</span> (韦艳莹). I am a lecturer in Financial Technology at <i class="fas fa-university"></i> **Nanning University**, School of Digital Economics. I received my M.Sc. in Finance from <i class="fas fa-university"></i> **University of Chinese Academy of Sciences** and my B.Sc. in Financial Mathematics from <i class="fas fa-university"></i> **Guangxi University**.
+My name is <span class="accent-text">Yanying Wei</span> (韦艳莹). I am a lecturer in Financial Technology at <i class="fas fa-university"></i> <a href="https://www.nnxy.edu.cn/" target="_blank">**Nanning University**</a>, School of Digital Economics. I received my M.Sc. in Finance from <i class="fas fa-university"></i> <a href="https://english.ucas.ac.cn/" target="_blank">**University of Chinese Academy of Sciences**</a> (Advisor: <a href="https://people.ucas.ac.cn/~dongzuoji" target="_blank">Prof. Zuoji Dong</a>) and my B.Sc. in Financial Mathematics from <i class="fas fa-university"></i> <a href="https://english.gxu.edu.cn/" target="_blank">**Guangxi University**</a>.
 
 My research applies causal inference, machine learning, and applied econometrics to study carbon emission dynamics, energy policy reforms, green finance, and regional corridor economics in China.
 
 <div class="quote-accent">
-I am actively seeking a PhD position for Fall 2026 in environmental economics, energy economics, green finance, or computational social science.
+I am actively seeking a PhD position for Fall 2027 in environmental economics, energy economics, green finance, or computational social science.
 </div>
 
 Feel free to reach out if you would like to discuss research collaboration, PhD opportunities, or policy-oriented empirical work.
@@ -111,7 +111,11 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Published</div>
-    <img src='images/sw1.png' alt="Software copyright certificate" width="100%">
+    <div class="academic-image-card green">
+      <i class="fas fa-shield-alt"></i>
+      <div>Software Copyright</div>
+      <span>Digital Empowerment · Banking</span>
+    </div>
   </div>
   <div class='paper-box-text'>
     <h3>Patent & Software Copyright</h3>
@@ -125,8 +129,8 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 
 # <i class="fas fa-graduation-cap"></i> Education
 
-- *2019.09 - 2022.06*: &nbsp;M.Sc. in Finance, <span class="primary-gradient-text">University of Chinese Academy of Sciences</span>. Research areas: applied economics, natural resource management, industrial economics.
-- *2015.09 - 2019.06*: &nbsp;B.Sc. in Financial Mathematics, <span class="primary-gradient-text">Guangxi University</span> (Project 211).
+- *2019.09 - 2022.06*: &nbsp;M.Sc. in Finance, <a href="https://english.ucas.ac.cn/" target="_blank"><span class="primary-gradient-text">University of Chinese Academy of Sciences</span></a>. Advisor: <a href="https://people.ucas.ac.cn/~dongzuoji" target="_blank">Prof. Zuoji Dong</a>. Research areas: applied economics, natural resource management, industrial economics.
+- *2015.09 - 2019.06*: &nbsp;B.Sc. in Financial Mathematics, <a href="https://english.gxu.edu.cn/" target="_blank"><span class="primary-gradient-text">Guangxi University</span></a> (Project 211).
 
 # <i class="fas fa-chalkboard-teacher"></i> Teaching
 

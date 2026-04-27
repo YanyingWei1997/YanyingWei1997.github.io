@@ -4,7 +4,7 @@ title                    : "Yanying Wei"
 title_separator          : "-"
 subtitle                 :
 name                     : "Yanying Wei"
-description              : "Lecturer in Financial Technology at Nanning University. Research on carbon emissions, energy policy, green finance, and regional economics."
+description              :
 url                      : "https://yanyingwei1997.github.io"
 baseurl                  : ""
 repository               : "YanyingWei1997/YanyingWei1997.github.io"
@@ -22,9 +22,9 @@ baidu_site_verification  :
 author:
   name             : "Yanying Wei"
   avatar           : "images/yanyingwei3.png"
-  bio              : "Nanning University"
+  bio              :
   location         : "Nanning, China"
-  employer         : "School of Digital Economics, Nanning University"
+  employer         :
   pubmed           :
   googlescholar    :
   email            : "weiyanying@unn.edu.cn"
@@ -38,6 +38,7 @@ author:
   facebook         :
   foursquare       :
   github           : "YanyingWei1997"
+  bilibili         : "219848534"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +46,7 @@ author:
   lastfm           :
   linkedin         :
   dblp             :
-  orcid            :
+  orcid            : "https://orcid.org/0000-0003-1021-4304"
   pinterest        :
   soundcloud       :
   stackoverflow    :
