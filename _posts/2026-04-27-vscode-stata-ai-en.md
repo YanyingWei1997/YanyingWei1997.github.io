@@ -6,6 +6,7 @@ description: "A complete beginner's guide to running end-to-end empirical resear
 cover_image: "/images/blog-stata-ai.png"
 permalink: /blog/vscode-stata-ai-en/
 lang: en
+translation_key: vscode-stata-ai
 ---
 
 *(Perfect for absolute beginners. Follow along and you'll get it running!)*

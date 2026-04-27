@@ -97,8 +97,10 @@ When adding bilingual versions of the same post:
 
 - Give each version its own file in `_posts/`.
 - Give each version its own `permalink`.
+- Give both versions the same `translation_key`.
 - Use the same `cover_image` if they are versions of the same article.
 - Never give two language versions the same permalink, because one generated page can overwrite the other.
+- The `/blog/` All Notes page defaults to English versions only. If an English post has a matching Chinese version, the Chinese version should be linked from the English card through `translation_key`.
 
 Recommended permalink pattern:
 
@@ -106,10 +108,12 @@ Recommended permalink pattern:
 # Chinese
 permalink: /blog/example/
 lang: zh
+translation_key: example
 
 # English
 permalink: /blog/example-en/
 lang: en
+translation_key: example
 ```
 
 If a post only exists in English and has no `lang`, it may still appear on the English homepage as legacy content. New posts should always set `lang` explicitly.

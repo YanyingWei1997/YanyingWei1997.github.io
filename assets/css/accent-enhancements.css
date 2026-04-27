@@ -828,6 +828,24 @@ body {
   text-decoration: none !important;
 }
 
+.blog-language-links {
+  margin-top: 0.85rem;
+}
+
+.blog-language-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: #FE667B !important;
+  font-size: 0.84rem;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+
+.blog-language-links a:hover {
+  color: #012F63 !important;
+}
+
 .blog-links {
   display: flex;
   gap: 0.6rem;
