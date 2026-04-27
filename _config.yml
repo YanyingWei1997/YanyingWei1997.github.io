@@ -162,8 +162,8 @@ plugins:
   - jekyll-polyglot
 
 # Polyglot configuration
-languages: ["zh", "en"]
-default_lang: "zh"
+languages: ["en", "zh"]
+default_lang: "en"
 exclude_from_localization: ["assets", "images", "css", "js", "_site"]
 parallel_localization: false
 
