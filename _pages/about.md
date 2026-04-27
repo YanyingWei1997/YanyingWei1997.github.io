@@ -30,10 +30,10 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
     </ul>
   </div>
 
-  <div class="highlight-block floating-card">
-    <h3><i class="fas fa-leaf"></i> Energy & Environmental Economics</h3>
-    <ul>
-      <li>Carbon emission pathways and <span class="accent-text">decoupling analysis</span></li>
+<div class="highlight-block floating-card">
+  <h3><i class="fas fa-leaf"></i> Energy & Environmental Economics</h3>
+  <ul>
+      <li>Carbon emission pathways and decoupling analysis</li>
       <li>Energy policy reform evaluation</li>
       <li>Green finance and environmental regulation</li>
     </ul>
@@ -104,11 +104,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Published · ACM</div>
-    <div class="academic-image-card">
-      <i class="fas fa-train"></i>
-      <div>Infrastructure REITs</div>
-      <span>Network-LSTM · Urban Rail</span>
-    </div>
+    <img src="images/reits-network-lstm.svg" alt="Infrastructure REITs Network-LSTM diagram">
   </div>
   <div class='paper-box-text'>
     <h3>Dynamic Network-LSTM model for quantitative analysis of infrastructure REITs' impact on urban rail transit debt ratios</h3>
@@ -125,11 +121,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Published</div>
-    <div class="academic-image-card">
-      <i class="fas fa-map"></i>
-      <div>Land Use Change</div>
-      <span>Bibliometric · WoS</span>
-    </div>
+    <img src="images/land-use-bibliometric.svg" alt="Land use change bibliometric diagram">
   </div>
   <div class='paper-box-text'>
     <h3>Dynamic evolution and trend frontiers in land use change research: A bibliometric analysis based on the WoS core database (1990–2020)</h3>
@@ -144,11 +136,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Published</div>
-    <div class="academic-image-card green">
-      <i class="fas fa-tractor"></i>
-      <div>Rural Revitalization</div>
-      <span>Land Improvement · Public Value</span>
-    </div>
+    <img src="images/rural-land-improvement.svg" alt="Rural revitalization land improvement diagram">
   </div>
   <div class='paper-box-text'>
     <h3>Comprehensive land improvement innovation for rural revitalization: Public value creation and realization</h3>
@@ -163,11 +151,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Published</div>
-    <div class="academic-image-card blue">
-      <i class="fas fa-chart-line"></i>
-      <div>Capital Market</div>
-      <span>Stock Connect · TFP</span>
-    </div>
+    <img src="images/stock-connect-tfp.svg" alt="Stock Connect investment efficiency diagram">
   </div>
   <div class='paper-box-text'>
     <h3>Capital market opening, investment efficiency, and total factor productivity of enterprises: An empirical study based on the opening of the Shenzhen-Hong Kong Stock Connect</h3>
@@ -182,11 +166,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Published</div>
-    <div class="academic-image-card green">
-      <i class="fas fa-shield-alt"></i>
-      <div>Software Copyright</div>
-      <span>Digital Empowerment · Banking</span>
-    </div>
+    <img src="images/bank-loan-security.svg" alt="Digital bank loan security management diagram">
   </div>
   <div class='paper-box-text'>
     <h3>Commercial Bank Loan Digital Empowerment Security Management System V1.0</h3>
@@ -295,10 +275,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
           {% if post.cover_image %}
           <img src="{{ post.cover_image | relative_url }}" alt="{{ post.title }}">
           {% else %}
-          <div class="academic-image-card compact">
-            <i class="fas fa-book-open"></i>
-            <div>Research Note</div>
-          </div>
+          <img src="{{ '/images/default-blog-cover.svg' | relative_url }}" alt="{{ post.title }}">
           {% endif %}
         </div>
         <div class="blog-card-content">

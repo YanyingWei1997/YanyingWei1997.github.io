@@ -5,8 +5,6 @@ excerpt: "All research notes"
 author_profile: true
 ---
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-
 <span class='anchor' id='blog-list'></span>
 
 # <i class="fas fa-blog"></i> All Notes
@@ -21,7 +19,7 @@ author_profile: true
         {% if post.cover_image %}
         <img src="{{ post.cover_image | relative_url }}" alt="{{ post.title }}">
         {% else %}
-        <img src="{{ '/images/default-blog-cover.jpg' | relative_url }}" alt="{{ post.title }}">
+        <img src="{{ '/images/default-blog-cover.svg' | relative_url }}" alt="{{ post.title }}">
         {% endif %}
       </div>
       <div class="blog-card-content">

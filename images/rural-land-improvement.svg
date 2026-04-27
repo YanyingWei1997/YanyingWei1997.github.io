@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Rural Revitalization Land Improvement Diagram</title>
+  <desc id="desc">A schematic showing land improvement, public value creation, and rural revitalization outcomes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbfbf5"/>
+      <stop offset="1" stop-color="#eef6ed"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#012f63" flood-opacity=".10"/>
+    </filter>
+  </defs>
+  <rect width="720" height="420" rx="26" fill="url(#bg)"/>
+  <g filter="url(#shadow)">
+    <rect x="54" y="64" width="612" height="270" rx="20" fill="#fff" stroke="#d9e6dc"/>
+  </g>
+  <text x="82" y="104" fill="#012f63" font-family="Arial, sans-serif" font-size="23" font-weight="700">Comprehensive Land Improvement</text>
+  <g transform="translate(95 138)">
+    <rect x="0" y="90" width="170" height="74" rx="10" fill="#d9efd8" stroke="#87b783" stroke-width="3"/>
+    <path d="M20 118 H150 M20 142 H150 M58 92 V164 M112 92 V164" stroke="#a3c67a" stroke-width="3"/>
+    <path d="M30 78 L84 30 L138 78 Z" fill="#f6d7a7" stroke="#c8944e" stroke-width="3"/>
+    <rect x="56" y="78" width="58" height="52" fill="#fff6e6" stroke="#c8944e" stroke-width="3"/>
+  </g>
+  <g transform="translate(315 135)">
+    <circle cx="72" cy="72" r="58" fill="#eef6ff" stroke="#7aa6c8" stroke-width="4"/>
+    <path d="M72 24 V120 M28 72 H116" stroke="#7aa6c8" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="72" cy="72" r="18" fill="#fe667b"/>
+    <text x="26" y="156" fill="#012f63" font-family="Arial, sans-serif" font-size="17" font-weight="700">Public Value</text>
+  </g>
+  <g transform="translate(510 148)">
+    <path d="M18 126 C34 58, 82 42, 132 18 C142 82, 126 126, 60 144 Z" fill="#cfead2" stroke="#75aa7b" stroke-width="4"/>
+    <path d="M62 136 C78 96, 98 70, 126 34" fill="none" stroke="#75aa7b" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="52" cy="78" r="18" fill="#fe667b" opacity=".9"/>
+    <text x="0" y="174" fill="#012f63" font-family="Arial, sans-serif" font-size="17" font-weight="700">Revitalization</text>
+  </g>
+  <g stroke="#fe667b" stroke-width="5" stroke-linecap="round" fill="none">
+    <path d="M262 222 H322"/>
+    <path d="M452 222 H512"/>
+  </g>
+  <text x="98" y="365" fill="#5b6f86" font-family="Arial, sans-serif" font-size="18">Land consolidation</text>
+  <text x="306" y="365" fill="#5b6f86" font-family="Arial, sans-serif" font-size="18">Value creation</text>
+  <text x="510" y="365" fill="#5b6f86" font-family="Arial, sans-serif" font-size="18">Rural outcomes</text>
+</svg>
