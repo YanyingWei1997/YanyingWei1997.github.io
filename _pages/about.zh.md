@@ -59,25 +59,100 @@ lang: zh
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">小修 · JCR Q1</div>
-    <img src="images/carbon-peak-uncertainty.png" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="碳达峰路径图示">
+    <div class="badge pulse-accent">Minor Revision · JCR Q1</div>
+    <img src="images/carbon-peak-uncertainty.png" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Carbon peak pathway illustration">
   </div>
   <div class='paper-box-text'>
-    <h3>不确定性下区域碳达峰路径优化</h3>
-    <div class="authors"><strong>韦艳莹</strong></div>
-    <div class="venue">基于Tapio-LMDI-机器学习综合框架，以广西为例。<em>Energy Conversion and Management: X</em>. 第三轮修改中。</div>
+    <h3>Optimizing regional carbon peak pathways under uncertainty</h3>
+    <div class="authors"><strong>Yanying Wei</strong></div>
+    <div class="venue">An integrated Tapio-LMDI-machine learning framework with evidence from Guangxi, China. <em>Energy Conversion and Management: X</em>. Third-round revision.</div>
   </div>
 </div>
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">同行评审 · JCR Q1</div>
-    <img src="images/energy-security-green-finance.png" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="能源安全与绿色金融">
+    <div class="badge pulse-accent">Peer Review · JCR Q1</div>
+    <img src="images/energy-security-green-finance.png" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Energy security and green finance illustration">
   </div>
   <div class='paper-box-text'>
-    <h3>电力改革对能源供应安全的影响：以绿色金融为政策视角</h3>
-    <div class="authors"><strong>韦艳莹</strong>，石琳，蒋玉红，何倩</div>
-    <div class="venue">审稿中，<em>Transportation Research Interdisciplinary Perspectives</em>。</div>
+    <h3>Analyzing the impact of electricity reforms on energy supply security: Green finance as a policy perspective</h3>
+    <div class="authors"><strong>Yanying Wei</strong>, Lin Shi, Yuhong Jiang, Qian He</div>
+    <div class="venue">Under review at <em>Transportation Research Interdisciplinary Perspectives</em>.</div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Published · ACM</div>
+    <img src="images/reits-network-lstm.png" alt="Infrastructure REITs Network-LSTM diagram">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Dynamic Network-LSTM model for quantitative analysis of infrastructure REITs' impact on urban rail transit debt ratios</h3>
+    <div class="authors">Lin Shi, <strong>Yanying Wei</strong></div>
+    <div class="venue"><em>Proceedings of the 2025 2nd International Conference on Economic Data Analytics and Artificial Intelligence (EDAI 2025)</em>. ACM.</div>
+    <div class="links">
+      <a href="https://doi.org/10.1145/3789297.3789298" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Published</div>
+    <img src="images/land-use-bibliometric.png" alt="Land use change bibliometric diagram">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Dynamic evolution and trend frontiers in land use change research: A bibliometric analysis based on the WoS core database (1990–2020)</h3>
+    <div class="authors">Duomin Wang, Haibo Yu, Yubin Huangfu, <strong>Yanying Wei</strong>, Zuoji Dong</div>
+    <div class="venue"><em>Management Review</em>, 2024, 36(1): 87.</div>
+    <div class="links">
+      <a href="https://doi.org/10.14120/j.cnki.cn11-5057/f.2024.01.022" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Published</div>
+    <img src="images/rural-land-improvement.png" alt="Rural revitalization land improvement diagram">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Comprehensive land improvement innovation for rural revitalization: Public value creation and realization</h3>
+    <div class="authors">Zuoji Dong, <strong>Yanying Wei</strong>, Conghui Ren, Saihong Wang</div>
+    <div class="venue"><em>Resources Science</em>, 2022, 44(7): 1305–1315.</div>
+    <div class="links">
+      <a href="https://kns.cnki.net/kcms2/article/abstract?v=VKFFl0Cm57bvSNP1VkbFoe3rFg5WF5TMpotqnc7bdcxls-i9ImmxZIZ0ueIOHh95zNL3B0-V8Sy1qdvZw0yTGiLjk3yeVQtJsbvpBYGRC34D-Ttv2iAZOgZrpouZz-rEiPh2bE-dywaS_KYCMGD38A==&uniplatform=NZKPT&language=CHS" class="btn-accent"><i class="fas fa-link"></i> CNKI</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Published</div>
+    <img src="images/stock-connect-tfp.png" alt="Stock Connect investment efficiency diagram">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Capital market opening, investment efficiency, and total factor productivity of enterprises: An empirical study based on the opening of the Shenzhen-Hong Kong Stock Connect</h3>
+    <div class="authors">Xi Huang, <strong>Yanying Wei</strong>, Duomin Wang</div>
+    <div class="venue"><em>Science & Technology for Development</em>, 2022, 18(3): 375–384.</div>
+    <div class="links">
+      <a href="https://kns.cnki.net/kcms2/article/abstract?v=VKFFl0Cm57ZCcHIEBO7qI6v1zAVcqm8yIkOhu-ku3AJB4EZBrGJt8rZQhdL0CRaHOfLR3hpyWuOVVyF4o0bwCj5OmtT_zt57RlY3mTqjmIdAfcwurIPZ12KVcTqIN3zHUMxOeAyID4tGinEcfdxazA==&uniplatform=NZKPT&language=CHS" class="btn-accent"><i class="fas fa-link"></i> CNKI</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Published</div>
+    <img src="images/bank-loan-security.png" alt="Digital bank loan security management diagram">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Commercial Bank Loan Digital Empowerment Security Management System V1.0</h3>
+    <div class="authors">Xie, X., Zai, D., Li, Y., <strong>Yanying Wei</strong>, & Wang, Y.</div>
+    <div class="venue">Software Copyright, 2024. Nanning College. Registration No. 2024SR1017636.</div>
+    <div class="links">
+      <a href="/images/sw1.png" class="btn-accent"><i class="fas fa-certificate"></i> Certificate</a>
+    </div>
   </div>
 </div>
 
