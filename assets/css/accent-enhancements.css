@@ -551,8 +551,7 @@ body {
 
 .paper-box-image img {
   max-width: 100%;
-  max-height: calc(100% - 28px);
-  margin-top: 28px;
+  max-height: 100%;
   object-fit: contain;
   transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
   border-radius: 8px;
@@ -560,6 +559,13 @@ body {
   position: relative;
   z-index: 2;
   background: #fff;
+}
+
+.paper-box-image img[src$=".svg"] {
+  max-height: calc(100% - 30px);
+  margin-top: 30px;
+  box-shadow: none;
+  background: transparent;
 }
 
 .paper-box:hover .paper-box-image img {

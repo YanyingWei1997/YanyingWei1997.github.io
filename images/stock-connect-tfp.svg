@@ -1,35 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">Stock Connect Investment Efficiency Diagram</title>
-  <desc id="desc">Simplified capital market opening, efficiency, and productivity diagram.</desc>
+  <desc id="desc">Clean abstract cover for capital market opening, investment efficiency, and productivity research.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#f7fbff"/>
       <stop offset="1" stop-color="#eef4fb"/>
     </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#012f63" flood-opacity=".11"/>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#012f63" flood-opacity=".10"/>
     </filter>
   </defs>
-  <rect width="720" height="420" rx="28" fill="url(#bg)"/>
-  <g filter="url(#shadow)">
-    <rect x="60" y="102" width="600" height="230" rx="22" fill="#fff" stroke="#dbe7f4"/>
+  <rect width="720" height="420" rx="30" fill="url(#bg)"/>
+  <rect x="70" y="88" width="580" height="256" rx="26" fill="#fff" stroke="#dbe7f4" filter="url(#soft)"/>
+  <g transform="translate(112 138)">
+    <rect x="0" y="70" width="170" height="94" rx="18" fill="#eef6ff" stroke="#82adcf" stroke-width="7"/>
+    <path d="M28 50 C66 16, 112 16, 150 50" fill="none" stroke="#fe667b" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="28" cy="50" r="15" fill="#fe667b"/>
+    <circle cx="150" cy="50" r="15" fill="#fe667b"/>
+    <path d="M42 118 H126" stroke="#012f63" stroke-width="9" stroke-linecap="round"/>
   </g>
-  <g transform="translate(108 156)">
-    <rect x="0" y="42" width="164" height="92" rx="16" fill="#eef6ff" stroke="#7aa6c8" stroke-width="5"/>
-    <path d="M30 28 C66 0, 106 0, 142 28" fill="none" stroke="#fe667b" stroke-width="8" stroke-linecap="round"/>
-    <circle cx="30" cy="28" r="12" fill="#fe667b"/>
-    <circle cx="142" cy="28" r="12" fill="#fe667b"/>
-    <text x="42" y="96" fill="#012f63" font-family="Arial, sans-serif" font-size="24" font-weight="700">SZ-HK</text>
+  <g transform="translate(330 132)">
+    <rect x="0" y="62" width="148" height="136" rx="20" fill="#fff7f8" stroke="#fe667b" stroke-width="7"/>
+    <path d="M36 154 V106 M74 154 V84 M112 154 V124" stroke="#fe667b" stroke-width="16" stroke-linecap="round"/>
   </g>
-  <g transform="translate(326 148)">
-    <rect x="0" y="50" width="142" height="132" rx="18" fill="#fff7f8" stroke="#fe667b" stroke-width="5"/>
-    <path d="M34 142 V92 M70 142 V72 M106 142 V110" stroke="#fe667b" stroke-width="14" stroke-linecap="round"/>
+  <g transform="translate(534 144)">
+    <rect x="0" y="54" width="126" height="126" rx="20" fill="#eef6ff" stroke="#82adcf" stroke-width="7"/>
+    <path d="M24 134 L54 98 L76 116 L106 76" fill="none" stroke="#012f63" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="106" cy="76" r="15" fill="#fe667b"/>
   </g>
-  <g transform="translate(528 156)">
-    <rect x="0" y="42" width="124" height="120" rx="18" fill="#eef6ff" stroke="#7aa6c8" stroke-width="5"/>
-    <path d="M24 122 L54 88 L74 104 L104 66" fill="none" stroke="#012f63" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="104" cy="66" r="12" fill="#fe667b"/>
-  </g>
-  <path d="M274 240 H326 M468 240 H528" stroke="#c9d7e7" stroke-width="8" stroke-linecap="round"/>
-  <text x="206" y="72" fill="#012f63" font-family="Arial, sans-serif" font-size="28" font-weight="700">Stock Connect & TFP</text>
+  <path d="M284 254 H330 M478 254 H534" stroke="#c9d7e7" stroke-width="10" stroke-linecap="round"/>
 </svg>

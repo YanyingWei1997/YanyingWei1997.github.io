@@ -1,35 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">Rural Revitalization Land Improvement Diagram</title>
-  <desc id="desc">Simplified land improvement and public value diagram for rural revitalization research.</desc>
+  <desc id="desc">Clean abstract cover for land improvement and rural revitalization research.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#fbfbf5"/>
       <stop offset="1" stop-color="#eef6ed"/>
     </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#012f63" flood-opacity=".10"/>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#012f63" flood-opacity=".09"/>
     </filter>
   </defs>
-  <rect width="720" height="420" rx="28" fill="url(#bg)"/>
-  <g filter="url(#shadow)">
-    <rect x="60" y="102" width="600" height="230" rx="22" fill="#fff" stroke="#d9e6dc"/>
+  <rect width="720" height="420" rx="30" fill="url(#bg)"/>
+  <rect x="70" y="88" width="580" height="256" rx="26" fill="#fff" stroke="#d9e6dc" filter="url(#soft)"/>
+  <g transform="translate(112 128)">
+    <rect x="0" y="116" width="184" height="86" rx="14" fill="#d9efd8" stroke="#87b783" stroke-width="6"/>
+    <path d="M24 146 H160 M24 176 H160 M64 118 V202 M122 118 V202" stroke="#a3c67a" stroke-width="5"/>
+    <path d="M32 110 L94 52 L156 110 Z" fill="#f6d7a7" stroke="#c8944e" stroke-width="6"/>
+    <rect x="64" y="110" width="62" height="62" rx="6" fill="#fff6e6" stroke="#c8944e" stroke-width="5"/>
   </g>
-  <g transform="translate(106 154)">
-    <rect x="0" y="78" width="166" height="76" rx="12" fill="#d9efd8" stroke="#87b783" stroke-width="4"/>
-    <path d="M22 104 H144 M22 132 H144 M58 80 V154 M112 80 V154" stroke="#a3c67a" stroke-width="4"/>
-    <path d="M28 72 L82 26 L138 72 Z" fill="#f6d7a7" stroke="#c8944e" stroke-width="4"/>
-    <rect x="54" y="72" width="60" height="54" rx="4" fill="#fff6e6" stroke="#c8944e" stroke-width="4"/>
+  <g transform="translate(334 132)">
+    <circle cx="80" cy="92" r="76" fill="#eef6ff" stroke="#82adcf" stroke-width="7"/>
+    <path d="M80 42 V142 M30 92 H130" stroke="#82adcf" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="80" cy="92" r="26" fill="#fe667b"/>
   </g>
-  <g transform="translate(310 150)">
-    <circle cx="78" cy="84" r="66" fill="#eef6ff" stroke="#7aa6c8" stroke-width="5"/>
-    <path d="M78 36 V132 M30 84 H126" stroke="#7aa6c8" stroke-width="7" stroke-linecap="round"/>
-    <circle cx="78" cy="84" r="22" fill="#fe667b"/>
+  <g transform="translate(532 136)">
+    <path d="M20 150 C38 74, 96 50, 152 20 C164 94, 142 154, 70 174 Z" fill="#cfead2" stroke="#75aa7b" stroke-width="7"/>
+    <path d="M74 160 C92 112, 116 76, 144 40" fill="none" stroke="#75aa7b" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="64" cy="96" r="24" fill="#fe667b" opacity=".92"/>
   </g>
-  <g transform="translate(520 158)">
-    <path d="M20 124 C38 58, 88 42, 136 18 C146 84, 126 132, 64 146 Z" fill="#cfead2" stroke="#75aa7b" stroke-width="5"/>
-    <path d="M66 136 C82 96, 102 70, 128 34" fill="none" stroke="#75aa7b" stroke-width="6" stroke-linecap="round"/>
-    <circle cx="56" cy="80" r="20" fill="#fe667b" opacity=".9"/>
-  </g>
-  <path d="M276 240 H324 M456 240 H516" stroke="#fe667b" stroke-width="7" stroke-linecap="round"/>
-  <text x="208" y="72" fill="#012f63" font-family="Arial, sans-serif" font-size="28" font-weight="700">Land Improvement</text>
+  <path d="M300 244 H350 M494 244 H538" stroke="#fe667b" stroke-width="9" stroke-linecap="round"/>
 </svg>

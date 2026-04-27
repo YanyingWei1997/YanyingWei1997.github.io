@@ -1,34 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">Commercial Bank Loan Security Management Diagram</title>
-  <desc id="desc">Simplified digital loan data, risk control, and security governance diagram.</desc>
+  <desc id="desc">Clean abstract cover for digital loan data, risk control, and security governance.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#f8fbff"/>
       <stop offset="1" stop-color="#f3f6fb"/>
     </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#012f63" flood-opacity=".11"/>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#012f63" flood-opacity=".10"/>
     </filter>
   </defs>
-  <rect width="720" height="420" rx="28" fill="url(#bg)"/>
-  <g filter="url(#shadow)">
-    <rect x="60" y="102" width="600" height="230" rx="22" fill="#fff" stroke="#dbe7f4"/>
+  <rect width="720" height="420" rx="30" fill="url(#bg)"/>
+  <rect x="70" y="88" width="580" height="256" rx="26" fill="#fff" stroke="#dbe7f4" filter="url(#soft)"/>
+  <g transform="translate(118 136)">
+    <rect x="0" y="38" width="148" height="148" rx="22" fill="#eef6ff" stroke="#82adcf" stroke-width="7"/>
+    <rect x="42" y="72" width="66" height="78" rx="9" fill="#fff" stroke="#82adcf" stroke-width="6"/>
+    <path d="M56 96 H94 M56 116 H94 M56 136 H80" stroke="#012f63" stroke-width="7" stroke-linecap="round"/>
   </g>
-  <g transform="translate(112 152)">
-    <rect x="0" y="12" width="142" height="142" rx="20" fill="#eef6ff" stroke="#7aa6c8" stroke-width="5"/>
-    <rect x="38" y="42" width="68" height="78" rx="8" fill="#fff" stroke="#7aa6c8" stroke-width="5"/>
-    <path d="M52 66 H92 M52 86 H92 M52 106 H78" stroke="#012f63" stroke-width="6" stroke-linecap="round"/>
+  <g transform="translate(318 118)">
+    <path d="M82 28 L154 58 V126 C154 182, 118 216, 82 236 C46 216, 10 182, 10 126 V58 Z" fill="#fff7f8" stroke="#fe667b" stroke-width="8"/>
+    <path d="M46 130 L72 156 L120 98" fill="none" stroke="#012f63" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
-  <g transform="translate(312 134)">
-    <path d="M82 20 L150 48 V112 C150 166, 116 198, 82 216 C48 198, 14 166, 14 112 V48 Z" fill="#fff7f8" stroke="#fe667b" stroke-width="6"/>
-    <path d="M48 116 L72 140 L118 86" fill="none" stroke="#012f63" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(530 144)">
+    <rect x="0" y="42" width="128" height="138" rx="20" fill="#eef6ff" stroke="#82adcf" stroke-width="7"/>
+    <circle cx="64" cy="100" r="34" fill="#fe667b" opacity=".94"/>
+    <path d="M64 78 V102 L84 114" stroke="#fff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M28 154 H100" stroke="#012f63" stroke-width="8" stroke-linecap="round"/>
   </g>
-  <g transform="translate(528 160)">
-    <rect x="0" y="0" width="124" height="132" rx="18" fill="#eef6ff" stroke="#7aa6c8" stroke-width="5"/>
-    <circle cx="62" cy="56" r="30" fill="#fe667b" opacity=".92"/>
-    <path d="M62 38 V58 L78 70" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M26 106 H98" stroke="#012f63" stroke-width="7" stroke-linecap="round"/>
-  </g>
-  <path d="M256 236 H320 M470 236 H528" stroke="#c9d7e7" stroke-width="8" stroke-linecap="round"/>
-  <text x="168" y="72" fill="#012f63" font-family="Arial, sans-serif" font-size="28" font-weight="700">Digital Loan Security</text>
+  <path d="M268 246 H326 M476 246 H530" stroke="#c9d7e7" stroke-width="10" stroke-linecap="round"/>
 </svg>
