@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-
 <span class='anchor' id='about-me'></span>
 
 My name is <span class="accent-text">Yanying Wei</span> (韦艳莹). I am a lecturer in Financial Technology at <i class="fas fa-university"></i> <a href="https://en.unn.edu.cn/" target="_blank">**Nanning University**</a>, School of Digital Economics. I received my M.Sc. in Finance from <i class="fas fa-university"></i> <a href="https://english.cas.cn/" target="_blank">**University of Chinese Academy of Sciences**</a> (Advisor: <a href="https://baike.baidu.com/item/%E8%91%A3%E7%A5%9A%E7%BB%A7/8711508" target="_blank">Prof. Zuoji Dong</a>) and my B.Sc. in Financial Mathematics from <i class="fas fa-university"></i> <a href="https://www.gxu.edu.cn/en/" target="_blank">**Guangxi University**</a>.
@@ -215,76 +213,68 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 
 # <i class="fas fa-award"></i> Funding & Honors
 
-<ul class="academic-cv-list">
-  <li>
-    <div class="cv-item-header">
-      <span class="cv-item-title">Value-capture challenges and incremental hub reconfiguration pathways for the Guangxi corridor economy under the New International Land-Sea Trade Corridor</span>
-      <span class="cv-item-date">Oct 2025 – Oct 2028</span>
-    </div>
-    <div class="cv-item-details"><strong>Principal Investigator (PI)</strong> | Supported by Guangxi Zhuang Autonomous Region (Grant No. 25JYF186)</div>
-  </li>
-  <li>
-    <div class="cv-item-header">
-      <span class="cv-item-title">Feixiangjia: A solid waste management platform tailored for SMEs</span>
-      <span class="cv-item-date">Jun 2024 – Dec 2027</span>
-    </div>
-    <div class="cv-item-details"><strong>Principal Investigator (PI)</strong> | Supported by Nanning University (Grant No. S2024-1154-9017X)</div>
-  </li>
-  <li>
-    <div class="cv-item-header">
-      <span class="cv-item-title">Research on the decoupling state and driving mechanism of carbon emissions in Guangxi under the dual-carbon target</span>
-      <span class="cv-item-date">Jan 2024 – Dec 2025</span>
-    </div>
-    <div class="cv-item-details"><strong>Principal Investigator (PI)</strong> | Supported by Bureau of Science & Technology of Guangxi (Grant No. 2024-KY-1871)</div>
-  </li>
-  <li>
-    <div class="cv-item-header">
-      <span class="cv-item-title">Digital empowerment for bank loans and regulatory innovation</span>
-      <span class="cv-item-date">Jan 2024 – Dec 2024</span>
-    </div>
-    <div class="cv-item-details"><strong>Principal Investigator (PI)</strong> | Supported by Nanning University (Grant No. S2023-1154-9126)</div>
-  </li>
-</ul>
+<div class="funding-honors-grid">
+  <section class="funding-honors-panel">
+    <h3><i class="fas fa-seedling"></i> Funding</h3>
+    <ul class="academic-cv-list compact">
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">Value-capture challenges and incremental hub reconfiguration pathways for the Guangxi corridor economy under the New International Land-Sea Trade Corridor</span>
+          <span class="cv-item-date">2025–2028</span>
+        </div>
+        <div class="cv-item-details"><strong>PI</strong> | Guangxi Zhuang Autonomous Region, Grant No. 25JYF186</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">Feixiangjia: A solid waste management platform tailored for SMEs</span>
+          <span class="cv-item-date">2024–2027</span>
+        </div>
+        <div class="cv-item-details"><strong>PI</strong> | Nanning University, Grant No. S2024-1154-9017X</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">Research on the decoupling state and driving mechanism of carbon emissions in Guangxi under the dual-carbon target</span>
+          <span class="cv-item-date">2024–2025</span>
+        </div>
+        <div class="cv-item-details"><strong>PI</strong> | Bureau of Science & Technology of Guangxi, Grant No. 2024-KY-1871</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">Digital empowerment for bank loans and regulatory innovation</span>
+          <span class="cv-item-date">2024</span>
+        </div>
+        <div class="cv-item-details"><strong>PI</strong> | Nanning University, Grant No. S2023-1154-9126</div>
+      </li>
+    </ul>
+  </section>
 
-# <i class="fas fa-medal"></i> Selected Honors & Awards
-
-<ul class="academic-cv-list">
-  <li>
-    <div class="cv-item-header">
-      <span class="cv-item-title">Outstanding Graduation Thesis Advisor</span>
-      <span class="cv-item-date">2024 & 2025</span>
-    </div>
-    <div class="cv-item-details">Nanning University</div>
-  </li>
-  <li>
-    <div class="cv-item-header">
-      <span class="cv-item-title">Outstanding Instructor Award</span>
-      <span class="cv-item-date">2022 & 2023</span>
-    </div>
-    <div class="cv-item-details">ICBC Cup National College Students Financial Technology Innovation Competition</div>
-  </li>
-  <li>
-    <div class="cv-item-header">
-      <span class="cv-item-title">Third Prize</span>
-      <span class="cv-item-date">2022</span>
-    </div>
-    <div class="cv-item-details">Nanning University Teaching Skills Competition</div>
-  </li>
-  <li>
-    <div class="cv-item-header">
-      <span class="cv-item-title">Second Prize</span>
-      <span class="cv-item-date">2019</span>
-    </div>
-    <div class="cv-item-details">National Undergraduate Mathematical Modeling Competition (Guangxi Region)</div>
-  </li>
-  <li>
-    <div class="cv-item-header">
-      <span class="cv-item-title">"S" Prize</span>
-      <span class="cv-item-date">2017</span>
-    </div>
-    <div class="cv-item-details">American Mathematical Contest in Modeling (MCM)</div>
-  </li>
-</ul>
+  <section class="funding-honors-panel">
+    <h3><i class="fas fa-medal"></i> Honors · Last 5 Years</h3>
+    <ul class="academic-cv-list compact">
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">Outstanding Graduation Thesis Advisor</span>
+          <span class="cv-item-date">2024 & 2025</span>
+        </div>
+        <div class="cv-item-details">Nanning University</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">Outstanding Instructor Award</span>
+          <span class="cv-item-date">2022 & 2023</span>
+        </div>
+        <div class="cv-item-details">ICBC Cup National College Students Financial Technology Innovation Competition</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">Third Prize</span>
+          <span class="cv-item-date">2022</span>
+        </div>
+        <div class="cv-item-details">Nanning University Teaching Skills Competition</div>
+      </li>
+    </ul>
+  </section>
+</div>
 
 # <i class="fas fa-blog"></i> Notes
 
@@ -322,16 +312,25 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 </div>
 
 <style>
-.funding-honors-container {
-  margin-top: 1em;
+.funding-honors-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.1rem;
+  margin: 1rem 0 2rem;
 }
-.funding-honors-container h3 {
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
-  color: var(--primary-color, #2a7ae2);
-  border-bottom: 2px solid var(--accent-color, #e83e8c);
-  padding-bottom: 0.3em;
-  display: inline-block;
+.funding-honors-panel {
+  background: #fff;
+  border: 1px solid rgba(1, 47, 99, 0.08);
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(1, 47, 99, 0.06);
+  padding: 1rem 1.1rem;
+}
+.funding-honors-panel h3 {
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+  color: var(--primary-color, #012F63);
+  border-bottom: 2px solid var(--accent-color, #FE667B);
+  padding-bottom: 0.35em;
 }
 .academic-cv-list {
   list-style: none;
@@ -340,9 +339,13 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   margin-bottom: 2em;
 }
 .academic-cv-list li {
-  margin-bottom: 1.5em;
-  padding-bottom: 1.5em;
+  margin-bottom: 1.1em;
+  padding-bottom: 1.1em;
   border-bottom: 1px dashed rgba(0,0,0,0.1);
+}
+.academic-cv-list.compact li {
+  margin-bottom: 1em;
+  padding-bottom: 1em;
 }
 .academic-cv-list li:last-child {
   border-bottom: none;
@@ -352,7 +355,8 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 .cv-item-header {
   display: flex;
   justify-content: space-between;
-  align-items: baseline;
+  align-items: flex-start;
+  gap: 0.8rem;
   margin-bottom: 0.4em;
 }
 .cv-item-title {
@@ -360,7 +364,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   font-size: 1.05em;
   color: var(--primary-color, #2a7ae2);
   flex: 1;
-  padding-right: 1.5em;
+  padding-right: 0;
   line-height: 1.4;
 }
 .cv-item-date {
@@ -376,5 +380,19 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   color: #555;
   font-size: 0.95em;
   line-height: 1.5;
+}
+@media (max-width: 900px) {
+  .funding-honors-grid {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 520px) {
+  .cv-item-header {
+    display: block;
+  }
+  .cv-item-date {
+    display: inline-block;
+    margin-top: 0.35rem;
+  }
 }
 </style>
