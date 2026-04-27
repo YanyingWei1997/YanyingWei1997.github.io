@@ -253,23 +253,20 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   padding-left: 0;
 }
 .styled-list li {
-  margin-bottom: 1.2em;
-  padding: 1em;
-  background-color: var(--bg-card, #ffffff);
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
-  border-left: 4px solid var(--accent-color, #e83e8c);
-  transition: transform 0.2s ease-in-out;
+  margin-bottom: 1.5em;
+  padding-left: 1em;
+  border-left: 3px solid var(--accent-color, #e83e8c);
+  transition: border-left-width 0.2s ease-in-out;
 }
 .styled-list li:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+  border-left-width: 6px;
 }
 .muted-text {
   color: #666;
   font-size: 0.9em;
   display: block;
-  margin-top: 0.3em;
+  margin-top: 0.4em;
+  line-height: 1.4;
 }
 .badge {
   display: inline-block;
