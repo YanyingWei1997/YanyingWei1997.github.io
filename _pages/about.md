@@ -139,7 +139,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   </div>
   <div class='paper-box-text'>
     <h3>Dynamic evolution and trend frontiers in land use change research: A bibliometric analysis based on the WoS core database (1990–2020)</h3>
-    <div class="authors">Di Wang, Hui Yu, Yuxiao Huangfu, <strong>Yanying Wei</strong>, Zuoji Dong</div>
+    <div class="authors">Duomin Wang, Haibo Yu, Yubin Huangfu, <strong>Yanying Wei</strong>, Zuoji Dong</div>
     <div class="venue"><em>Management Review</em>, 36(1), 87 (2024).</div>
     <div class="links">
       <a href="https://doi.org/10.14120/j.cnki.cn11-5057/f.2024.01.022" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
