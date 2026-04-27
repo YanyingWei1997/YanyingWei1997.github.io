@@ -34,7 +34,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   <h3><i class="fas fa-leaf"></i> Energy & Environmental Economics</h3>
   <ul>
       <li>Carbon emission pathways and decoupling analysis</li>
-      <li>Energy policy reform evaluation</li>
+      <li><span class="accent-text">Energy policy reform evaluation</span></li>
       <li>Green finance and environmental regulation</li>
     </ul>
   </div>
