@@ -64,11 +64,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Minor Revision · JCR Q1</div>
-    <div class="academic-image-card">
-      <i class="fas fa-mountain-sun"></i>
-      <div>Carbon Peak Pathways</div>
-      <span>Tapio · LMDI · Machine Learning</span>
-    </div>
+    <img src="images/Figure1_Methodology_Framework.png" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Methodology Framework">
   </div>
   <div class='paper-box-text'>
     <h3>Optimizing regional carbon peak pathways under uncertainty</h3>
