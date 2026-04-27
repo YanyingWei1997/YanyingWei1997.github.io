@@ -89,6 +89,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   </div>
 </div>
 
+<!-- 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Peer Review</div>
@@ -104,6 +105,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
     <div class="venue">Under review at <em>Journal of Systems Science and Mathematical Sciences</em>.</div>
   </div>
 </div>
+-->
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
