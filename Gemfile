@@ -31,4 +31,7 @@ group :jekyll_plugins do
   gem 'jemoji'
   gem 'jekyll-seo-tag'
   gem 'jekyll-include-cache'
+  gem 'kramdown-parser-gfm'
+  gem 'rouge'
+  gem 'webrick'
 end
