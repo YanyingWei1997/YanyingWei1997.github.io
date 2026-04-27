@@ -64,7 +64,7 @@ lang: zh
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Minor Revision · JCR Q1</div>
-    <img src="images/carbon-peak-uncertainty.png" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Carbon peak pathway illustration">
+    <img src="{{ '/images/carbon-peak-uncertainty.png' | relative_url }}" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Carbon peak pathway illustration">
   </div>
   <div class='paper-box-text'>
     <h3>Optimizing regional carbon peak pathways under uncertainty</h3>
@@ -76,7 +76,7 @@ lang: zh
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Peer Review · JCR Q1</div>
-    <img src="images/energy-security-green-finance.png" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Energy security and green finance illustration">
+    <img src="{{ '/images/energy-security-green-finance.png' | relative_url }}" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Energy security and green finance illustration">
   </div>
   <div class='paper-box-text'>
     <h3>Analyzing the impact of electricity reforms on energy supply security: Green finance as a policy perspective</h3>
@@ -88,7 +88,7 @@ lang: zh
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Published · ACM</div>
-    <img src="images/reits-network-lstm.png" alt="Infrastructure REITs Network-LSTM diagram">
+    <img src="{{ '/images/reits-network-lstm.png' | relative_url }}" alt="Infrastructure REITs Network-LSTM diagram">
   </div>
   <div class='paper-box-text'>
     <h3>Dynamic Network-LSTM model for quantitative analysis of infrastructure REITs' impact on urban rail transit debt ratios</h3>
@@ -103,7 +103,7 @@ lang: zh
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Published</div>
-    <img src="images/land-use-bibliometric.png" alt="Land use change bibliometric diagram">
+    <img src="{{ '/images/land-use-bibliometric.png' | relative_url }}" alt="Land use change bibliometric diagram">
   </div>
   <div class='paper-box-text'>
     <h3>Dynamic evolution and trend frontiers in land use change research: A bibliometric analysis based on the WoS core database (1990–2020)</h3>
@@ -118,7 +118,7 @@ lang: zh
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Published</div>
-    <img src="images/rural-land-improvement.png" alt="Rural revitalization land improvement diagram">
+    <img src="{{ '/images/rural-land-improvement.png' | relative_url }}" alt="Rural revitalization land improvement diagram">
   </div>
   <div class='paper-box-text'>
     <h3>Comprehensive land improvement innovation for rural revitalization: Public value creation and realization</h3>
@@ -133,7 +133,7 @@ lang: zh
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Published</div>
-    <img src="images/stock-connect-tfp.png" alt="Stock Connect investment efficiency diagram">
+    <img src="{{ '/images/stock-connect-tfp.png' | relative_url }}" alt="Stock Connect investment efficiency diagram">
   </div>
   <div class='paper-box-text'>
     <h3>Capital market opening, investment efficiency, and total factor productivity of enterprises: An empirical study based on the opening of the Shenzhen-Hong Kong Stock Connect</h3>
@@ -148,7 +148,7 @@ lang: zh
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Published</div>
-    <img src="images/bank-loan-security.png" alt="Digital bank loan security management diagram">
+    <img src="{{ '/images/bank-loan-security.png' | relative_url }}" alt="Digital bank loan security management diagram">
   </div>
   <div class='paper-box-text'>
     <h3>Commercial Bank Loan Digital Empowerment Security Management System V1.0</h3>
@@ -189,7 +189,7 @@ lang: zh
     </a>
   </div>
   <div class="blog-grid">
-    {% assign visible_posts = site.posts %}
+    {% assign visible_posts = site.posts | where: "lang", "zh" %}
     {% for post in visible_posts limit:6 %}
     <a href="{{ post.url | relative_url }}" class="blog-card-link">
       <div class="blog-card">
