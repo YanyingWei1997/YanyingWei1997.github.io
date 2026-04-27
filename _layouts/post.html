@@ -1,85 +1,69 @@
+---
+layout: default
+---
 
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
-<head>
-{% include head.html %}
+<article class="post-article" itemscope itemtype="http://schema.org/BlogPosting">
+  <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">
+  <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
 
-<script src="https://cdn.counter.dev/script.js" data-id="4c8f7caa-2b55-46cd-a995-2c4633303773" data-utcoffset="8"></script>
+  <!-- Post Header -->
+  <header class="post-header">
+    {% if page.cover_image %}
+    <div class="post-cover">
+      <img src="{{ page.cover_image | relative_url }}" alt="{{ page.title }}">
+    </div>
+    {% endif %}
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T5N5JY1E21"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
 
-  gtag('config', 'G-T5N5JY1E21');
-</script>
+    <div class="post-meta">
+      <span class="post-date post-meta-item">
+        <i class="fas fa-calendar-alt"></i>
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      </span>
 
-</head>
-
-
-<body class="article" itemscope itemtype="http://schema.org/WebPage">
-
-{% include chrome-frame.html %}
-
-{% include navigation.html %}
-
-{% if page.image.feature %}<div class="image-wrap">
-  <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
-</div><!-- /.image-wrap -->{% endif %}
-
-<div id="main" role="main" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
-  <div class="article-author-top">
-    {% include author-bio.html %}
-  </div>
-  <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-    <div class="headline-wrap">
-      <h1 itemprop="headline">{{ page.title }}</h1>
-      <h2>{{ page.tagline }}</h2>
-    </div><!--/ .headline-wrap -->
-    <div class="article-wrap" itemprop="text">
-      {{ content }}
-      <hr />
-      <footer role="contentinfo">
-        <div class="article-author-bottom">
-          {% include author-bio.html %}
-        </div>
-        <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %} by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="{{ site.url }}/about" title="About {{ site.owner.name }}" itemprop="url">{{ site.owner.name }}</a></span></span>.</p>
-      </footer>
-    </div><!-- /.article-wrap -->
-  </article>
-</div><!-- /#main -->
-
-
-<div class="footer-wrap">
-  {% if site.related_posts.size %}<div class="related-articles">
-  <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/articles">View all articles</a>)</small></h4>
-    <ul>
-    {% for post in site.related_posts limit:3 %}
-      {% assign match = false %}
-      {% for category in post.categories %}
-        {% if page.categories contains category %}
-          {% assign match = true %}
-        {% endif %}
-      {% endfor %}
-      {% if match %}
-      <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+      {% if page.original_url %}
+      <span class="post-meta-separator" aria-hidden="true">|</span>
+      <a href="{{ page.original_url }}" class="post-original-link post-meta-item" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-external-link-alt"></i>
+        Original Post
+      </a>
       {% endif %}
-    {% endfor %}
-    </ul>
-    <hr />
-  </div><!-- /.related-articles -->{% endif %}
-  <footer>
-    {% include footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
 
-{% include scripts.html %}	        
+      {% if page.categories and page.categories.size > 0 %}
+      <span class="post-meta-separator" aria-hidden="true">|</span>
+      <span class="post-categories post-meta-item">
+        <i class="fas fa-folder"></i>
+        <span class="post-categories-list">
+          {% for category in page.categories %}
+            <span class="post-category">{{ category }}</span>{% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+        </span>
+      </span>
+      {% endif %}
+    </div>
 
-</body>
-</html>
+  </header>
+
+  <!-- Post Content -->
+  {% assign image_root = '/images/' | relative_url %}
+  {% assign src_images_double = 'src="' | append: image_root %}
+  {% assign src_images_single = "src='" | append: image_root %}
+  {% assign href_images_double = 'href="' | append: image_root %}
+  {% assign href_images_single = "href='" | append: image_root %}
+  {% assign normalized_content = content
+    | replace: 'src="./images/', src_images_double
+    | replace: "src='./images/", src_images_single
+    | replace: 'src="images/', src_images_double
+    | replace: "src='images/", src_images_single
+    | replace: 'href="./images/', href_images_double
+    | replace: "href='./images/", href_images_single
+    | replace: 'href="images/', href_images_double
+    | replace: "href='images/", href_images_single
+  %}
+  <section class="post-content" itemprop="articleBody">
+    {{ normalized_content }}
+  </section>
+</article>

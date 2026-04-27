@@ -1,0 +1,794 @@
+/* ===================================================================
+   Scientific Research Skills — page styles
+   Loaded after project-page.css; only overrides via .srs-page namespace
+   =================================================================== */
+
+.srs-page {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+    "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+  color: #1f2937;
+  line-height: 1.6;
+}
+
+.srs-page * {
+  box-sizing: border-box;
+}
+
+/* ============== HERO ============== */
+.srs-hero {
+  text-align: center;
+  padding: 70px 20px 50px;
+  background: linear-gradient(135deg, #f8fafc 0%, #eff6ff 50%, #ecfeff 100%);
+  border-radius: 18px;
+  margin-bottom: 50px;
+  border: 1px solid #e2e8f0;
+}
+
+.srs-hero-badge {
+  display: inline-block;
+  font-size: 0.78em;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #475569;
+  background: #fff;
+  padding: 6px 14px;
+  border-radius: 999px;
+  border: 1px solid #cbd5e1;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+.srs-hero-title {
+  font-size: 2.6em;
+  margin: 0 0 16px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: #0f172a;
+}
+
+.srs-emoji {
+  display: inline-block;
+  margin-right: 6px;
+}
+
+.srs-hero-tagline {
+  font-size: 1.1em;
+  color: #475569;
+  max-width: 720px;
+  margin: 0 auto 28px;
+}
+
+.srs-hero-tagline em {
+  color: #1e40af;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.srs-hero-stats {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 28px;
+  align-items: center;
+}
+
+.srs-stat {
+  background: #fff;
+  padding: 6px 14px;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  font-size: 0.92em;
+  color: #334155;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+a.srs-stat:hover {
+  border-color: #3b82f6;
+  color: #1e40af;
+}
+
+.srs-stat img {
+  height: 20px;
+  display: block;
+}
+
+.srs-hero-cta {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.srs-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 0.95em;
+  text-decoration: none !important;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  border: 1.5px solid transparent;
+}
+
+.srs-btn-primary {
+  background: #1e40af;
+  color: #fff !important;
+}
+
+.srs-btn-primary:hover {
+  background: #1e3a8a;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(30, 64, 175, 0.25);
+}
+
+.srs-btn-ghost {
+  background: #fff;
+  color: #1e40af !important;
+  border-color: #cbd5e1;
+}
+
+.srs-btn-ghost:hover {
+  border-color: #1e40af;
+  transform: translateY(-1px);
+}
+
+/* ============== PHILOSOPHY ============== */
+.srs-philosophy {
+  background: #fffbeb;
+  border-left: 5px solid #f59e0b;
+  padding: 26px 30px;
+  border-radius: 0 14px 14px 0;
+  margin-bottom: 60px;
+}
+
+.srs-pull-quote {
+  font-size: 1.08em;
+  color: #57360e;
+  margin-bottom: 22px;
+  line-height: 1.65;
+}
+
+.srs-pull-quote i.fa-quote-left {
+  color: #f59e0b;
+  font-size: 1.3em;
+  margin-right: 8px;
+  vertical-align: top;
+}
+
+.srs-pull-quote strong {
+  color: #92400e;
+}
+
+.srs-principles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px 22px;
+}
+
+.srs-principle {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 0.95em;
+  color: #57360e;
+}
+
+.srs-principle i {
+  color: #d97706;
+  width: 22px;
+  text-align: center;
+}
+
+.srs-principle strong {
+  color: #1f2937;
+}
+
+/* ============== SECTION ============== */
+.srs-section {
+  margin-bottom: 70px;
+}
+
+.srs-section-title {
+  font-size: 1.85em;
+  font-weight: 700;
+  color: #0f172a;
+  margin: 0 0 8px;
+  padding-bottom: 12px;
+  border-bottom: 3px solid #1e40af;
+  display: inline-block;
+}
+
+.srs-section-title i {
+  color: #1e40af;
+  margin-right: 10px;
+}
+
+.srs-section-sub {
+  color: #64748b;
+  font-size: 0.98em;
+  margin: 0 0 28px;
+}
+
+/* ============== TAGS ============== */
+.srs-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.78em;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 999px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.srs-tag-tool {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+.srs-tag-method {
+  background: #dcfce7;
+  color: #14532d;
+}
+
+/* ============== SKILLS GRID ============== */
+.srs-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(310px, 1fr));
+  gap: 22px;
+}
+
+.srs-card {
+  display: block;
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  padding: 22px 22px 18px;
+  text-decoration: none !important;
+  color: inherit !important;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s;
+  position: relative;
+  overflow: hidden;
+}
+
+.srs-card::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 4px;
+  background: linear-gradient(90deg, #3b82f6, #8b5cf6);
+  opacity: 0;
+  transition: opacity 0.18s;
+}
+
+.srs-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 28px rgba(15, 23, 42, 0.08);
+  border-color: #cbd5e1;
+}
+
+.srs-card:hover::before {
+  opacity: 1;
+}
+
+.srs-card-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 14px;
+}
+
+.srs-card-icon {
+  width: 44px;
+  height: 44px;
+  border-radius: 11px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2em;
+}
+
+.srs-card-title {
+  font-family: ui-monospace, "SF Mono", "Menlo", monospace;
+  font-size: 1.12em;
+  margin: 0 0 10px;
+  color: #0f172a;
+  font-weight: 700;
+}
+
+.srs-card-desc {
+  font-size: 0.93em;
+  color: #475569;
+  margin: 0 0 14px;
+  line-height: 1.55;
+  min-height: 64px;
+}
+
+.srs-card-foot {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  border-top: 1px dashed #e2e8f0;
+  padding-top: 12px;
+}
+
+.srs-chip {
+  font-size: 0.74em;
+  background: #f1f5f9;
+  color: #475569;
+  padding: 3px 9px;
+  border-radius: 6px;
+  font-weight: 500;
+}
+
+/* ============== WORKFLOW DIAGRAM ============== */
+.srs-flow-wrap {
+  background: #fafbfc;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  padding: 24px;
+}
+
+.srs-flow {
+  width: 100%;
+  height: auto;
+  display: block;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.srs-stage-label {
+  font-size: 14px;
+  font-weight: 700;
+  fill: #475569;
+  letter-spacing: 0.08em;
+}
+
+.srs-node-title {
+  font-size: 14px;
+  font-weight: 700;
+  fill: #0f172a;
+  text-anchor: middle;
+  font-family: ui-monospace, "SF Mono", "Menlo", monospace;
+}
+
+.srs-node-sub {
+  font-size: 11.5px;
+  fill: #64748b;
+  text-anchor: middle;
+}
+
+.srs-node rect {
+  transition: filter 0.15s ease;
+}
+
+.srs-node:hover rect {
+  filter: drop-shadow(0 4px 10px rgba(15, 23, 42, 0.18));
+}
+
+.srs-edge-label {
+  font-size: 11px;
+  fill: #94a3b8;
+  text-anchor: middle;
+  font-style: italic;
+}
+
+.srs-flow-legend {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 18px;
+  margin-top: 18px;
+  font-size: 0.88em;
+  color: #475569;
+}
+
+.srs-dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 3px;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+/* ============== INSTALL TABS ============== */
+.srs-tabs {
+  background: #0f172a;
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.srs-tabbar {
+  display: flex;
+  background: #1e293b;
+}
+
+.srs-tab {
+  flex: 1;
+  padding: 14px;
+  background: transparent;
+  border: none;
+  color: #94a3b8;
+  font-size: 0.95em;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+  border-bottom: 3px solid transparent;
+}
+
+.srs-tab:hover {
+  color: #e2e8f0;
+}
+
+.srs-tab.is-active {
+  color: #fff;
+  background: #0f172a;
+  border-bottom-color: #3b82f6;
+}
+
+.srs-code {
+  display: none;
+  margin: 0;
+  padding: 22px 26px;
+  color: #e2e8f0;
+  background: #0f172a;
+  font-family: ui-monospace, "SF Mono", "Menlo", monospace;
+  font-size: 0.92em;
+  line-height: 1.7;
+  white-space: pre;
+  overflow-x: auto;
+}
+
+.srs-code.is-active {
+  display: block;
+}
+
+.srs-code code {
+  background: transparent !important;
+  color: inherit;
+  padding: 0;
+}
+
+/* ============== TABLE ============== */
+.srs-table-wrap {
+  overflow-x: auto;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+}
+
+.srs-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.94em;
+  background: #fff;
+}
+
+.srs-table th,
+.srs-table td {
+  padding: 14px 18px;
+  text-align: left;
+  border-bottom: 1px solid #f1f5f9;
+  vertical-align: top;
+}
+
+.srs-table thead th {
+  background: #f8fafc;
+  color: #1e293b;
+  font-weight: 700;
+  font-size: 0.86em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.srs-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.srs-table tbody tr:hover {
+  background: #f8fafc;
+}
+
+.srs-table code {
+  background: #f1f5f9;
+  padding: 2px 7px;
+  border-radius: 5px;
+  font-size: 0.92em;
+  color: #1e40af;
+}
+
+.srs-pill {
+  display: inline-block;
+  font-size: 0.78em;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: 999px;
+}
+
+.srs-pill-required {
+  background: #fee2e2;
+  color: #991b1b;
+}
+
+.srs-pill-recommend {
+  background: #dbeafe;
+  color: #1e40af;
+}
+
+.srs-pill-optional {
+  background: #f1f5f9;
+  color: #475569;
+}
+
+.srs-pill-none {
+  background: #dcfce7;
+  color: #14532d;
+}
+
+/* ============== CALLOUT ============== */
+.srs-callout {
+  margin-top: 22px;
+  display: flex;
+  gap: 14px;
+  background: #eff6ff;
+  border-left: 4px solid #3b82f6;
+  padding: 16px 20px;
+  border-radius: 0 10px 10px 0;
+  color: #1e3a8a;
+  font-size: 0.94em;
+  line-height: 1.6;
+}
+
+.srs-callout i {
+  font-size: 1.3em;
+  margin-top: 2px;
+  color: #2563eb;
+}
+
+.srs-callout code {
+  background: rgba(37, 99, 235, 0.1);
+  padding: 1px 6px;
+  border-radius: 4px;
+}
+
+/* ============== FOOTER CARD ============== */
+.srs-footer-section {
+  margin-bottom: 30px;
+}
+
+.srs-footer-card {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+  color: #e2e8f0;
+  padding: 36px 40px;
+  border-radius: 16px;
+  text-align: center;
+}
+
+.srs-footer-card h3 {
+  color: #fff;
+  margin: 0 0 14px;
+  font-size: 1.4em;
+}
+
+.srs-footer-card h3 i {
+  color: #60a5fa;
+  margin-right: 8px;
+}
+
+.srs-footer-card p {
+  color: #cbd5e1;
+  max-width: 720px;
+  margin: 0 auto 22px;
+  line-height: 1.65;
+}
+
+.srs-footer-card code {
+  background: rgba(255, 255, 255, 0.08);
+  padding: 1px 6px;
+  border-radius: 4px;
+  color: #93c5fd;
+}
+
+.srs-footer-card .srs-btn {
+  margin: 6px;
+}
+
+.srs-footer-card .srs-btn-ghost {
+  background: transparent;
+  color: #fff !important;
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.srs-footer-card .srs-btn-ghost:hover {
+  border-color: #fff;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+/* ============== MOBILE ============== */
+@media (max-width: 768px) {
+  .srs-hero {
+    padding: 50px 16px 35px;
+  }
+
+  .srs-hero-title {
+    font-size: 1.9em;
+  }
+
+  .srs-hero-tagline {
+    font-size: 1em;
+  }
+
+  .srs-section-title {
+    font-size: 1.45em;
+  }
+
+  .srs-philosophy {
+    padding: 20px 18px;
+  }
+
+  .srs-card-desc {
+    min-height: auto;
+  }
+
+  .srs-tab {
+    font-size: 0.86em;
+    padding: 12px 8px;
+  }
+
+  .srs-code {
+    font-size: 0.82em;
+    padding: 18px;
+  }
+
+  .srs-flow-wrap {
+    padding: 14px;
+  }
+}
+
+/* ==========================================================================
+   HERO VIDEO BACKGROUND (Remotion-rendered)
+   ========================================================================== */
+.srs-hero--video {
+  position: relative;
+  padding: 0;
+  background: #0f172a;
+  overflow: hidden;
+  border: 1px solid #1e293b;
+}
+
+.srs-hero-video-wrap {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1600 / 480;
+  overflow: hidden;
+}
+
+.srs-hero-video {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+.srs-hero-video-fade {
+  position: absolute;
+  inset: auto 0 0 0;
+  height: 60px;
+  background: linear-gradient(to bottom, transparent 0%, #0f172a 100%);
+  pointer-events: none;
+}
+
+.srs-hero-overlay {
+  background: #0f172a;
+  padding: 4px 28px 36px;
+  text-align: center;
+  color: #e2e8f0;
+}
+
+.srs-hero--video .srs-hero-tagline {
+  color: #cbd5e1;
+  margin: 8px auto 22px;
+  max-width: 760px;
+}
+
+.srs-hero--video .srs-hero-tagline em {
+  color: #93c5fd;
+}
+
+.srs-hero--video .srs-stat {
+  background: #1e293b;
+  border-color: #334155;
+  color: #cbd5e1;
+}
+
+.srs-hero--video a.srs-stat:hover {
+  border-color: #60a5fa;
+  color: #93c5fd;
+}
+
+.srs-hero--video .srs-btn-ghost {
+  background: transparent;
+  color: #93c5fd !important;
+  border-color: #334155;
+}
+
+.srs-hero--video .srs-btn-ghost:hover {
+  border-color: #60a5fa;
+  background: rgba(59, 130, 246, 0.08);
+}
+
+/* Respect prefers-reduced-motion (no video anymore, but keep cleanup) */
+@media (prefers-reduced-motion: reduce) {
+  .srs-fadeup,
+  .srs-fadeup-stagger > * {
+    transition: none !important;
+  }
+}
+
+/* ==========================================================================
+   SCROLL FADE-IN — modest motion using IntersectionObserver hook
+   ========================================================================== */
+.srs-fadeup {
+  opacity: 0;
+  transform: translateY(48px) scale(0.985);
+  filter: blur(2px);
+  transition: opacity 0.85s cubic-bezier(0.22, 0.7, 0.25, 1),
+              transform 0.85s cubic-bezier(0.22, 0.7, 0.25, 1),
+              filter 0.85s ease;
+}
+
+.srs-fadeup.is-visible {
+  opacity: 1;
+  transform: none;
+  filter: none;
+}
+
+.srs-fadeup-stagger > * {
+  opacity: 0;
+  transform: translateY(40px) scale(0.96);
+  filter: blur(1.5px);
+  transition: opacity 0.7s cubic-bezier(0.22, 0.7, 0.25, 1),
+              transform 0.7s cubic-bezier(0.22, 0.7, 0.25, 1),
+              filter 0.7s ease;
+}
+
+.srs-fadeup-stagger.is-visible > *:nth-child(1) { transition-delay: 0.00s; opacity: 1; transform: none; filter: none; }
+.srs-fadeup-stagger.is-visible > *:nth-child(2) { transition-delay: 0.10s; opacity: 1; transform: none; filter: none; }
+.srs-fadeup-stagger.is-visible > *:nth-child(3) { transition-delay: 0.20s; opacity: 1; transform: none; filter: none; }
+.srs-fadeup-stagger.is-visible > *:nth-child(4) { transition-delay: 0.30s; opacity: 1; transform: none; filter: none; }
+.srs-fadeup-stagger.is-visible > *:nth-child(5) { transition-delay: 0.40s; opacity: 1; transform: none; filter: none; }
+.srs-fadeup-stagger.is-visible > *:nth-child(6) { transition-delay: 0.50s; opacity: 1; transform: none; filter: none; }
+
+@media (prefers-reduced-motion: reduce) {
+  .srs-fadeup,
+  .srs-fadeup-stagger > * {
+    opacity: 1;
+    transform: none;
+    filter: none;
+    transition: none;
+  }
+}
+
+/* ==========================================================================
+   STATIC HERO IMAGE — subtle Ken Burns drift so it doesn't feel dead
+   ========================================================================== */
+img.srs-hero-video {
+  animation: srs-hero-breathe 22s ease-in-out infinite alternate;
+  transform-origin: center 55%;
+}
+
+@keyframes srs-hero-breathe {
+  from { transform: scale(1.00); }
+  to   { transform: scale(1.045); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  img.srs-hero-video { animation: none; }
+}

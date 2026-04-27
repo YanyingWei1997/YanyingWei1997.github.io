@@ -1,83 +1,171 @@
-title: Yanying Wei
-# tagline: Here is personal website of Yanying Wei. Powered by Jekyll, based on the Minimal Mistakes theme.
-# description: Two roads diverged in woods, I took the one less traveled by.
-#Comment out url when working locally to resolve base urls correctly
-url: https://yanyingwei1997.github.io/
+# Site Settings
+locale                   : "en-US"
+title                    : "Yanying Wei"
+title_separator          : "-"
+subtitle                 :
+name                     : "Yanying Wei"
+description              : "Lecturer in Financial Technology at Nanning University. Research on carbon emissions, energy policy, green finance, and regional economics."
+url                      : "https://yanyingwei1997.github.io"
+baseurl                  : ""
+repository               : "YanyingWei1997/YanyingWei1997.github.io"
+google_scholar_stats_use_cdn : true
 
-# Owner/author information
-owner:
-  name: Yanying Wei
-  avatar: yanying1.jpg
-  bio: Not all those who wander are lost — but all good research begins with a question.
-  email: weiyanying@unn.edu.cn
-  cv: https://raw.githubusercontent.com/YanyingWei1997/YanyingWei1997.github.io/main/file/CV-YanyingWEI.pdf
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # twitter: lancecai2002
-  github: YanyingWei1997
-  #linkedin: hanlincai
-  #scholar: https://scholar.google.com/citations?user=
-  bilibili: 219848534
-  #researchgate:
-  #zhihu:
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  # google_plus:
+# Google Analytics
+google_analytics_id      :
 
-# Analytics and webmaster tools stuff goes here
-# https://search.google.com/search-console/ownership
-#google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+baidu_site_verification  :
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# bing_verify: ""
+# Site Author
+author:
+  name             : "Yanying Wei"
+  avatar           : "images/yanyingwei3.png"
+  bio              : "Nanning University"
+  location         : "Nanning, China"
+  employer         : "School of Digital Economics, Nanning University"
+  pubmed           :
+  googlescholar    :
+  email            : "weiyanying@unn.edu.cn"
+  cv               : "/assets/CV-YanyingWEI.pdf"
+  researchgate     :
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "YanyingWei1997"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      :
+  lastfm           :
+  linkedin         :
+  dblp             :
+  orcid            :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    :
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: About Me
-    url: /
-  - title: Publications
-    url: /publications/
-  - title: Funding & Honors
-    url: /awards/
-  - title: Notes
-    url: /blogs/
+languages:
+  - en
+default_lang: "en"
+t:
+  en:
+    home: "Home"
+    about: "About Me"
+    news: "News"
+    publications: "Publications"
+    educations: "Education"
+    teaching: "Teaching"
+    honors: "Funding & Honors"
+    blogs: "Notes"
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
-future: true
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - docs
+  - google_scholar_crawler
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .github
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown: kramdown
 highlighter: rouge
-# markdown: kramdown
-# markdown: redcarpet
-# pygments: true
-
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
-
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
 kramdown:
+  input: GFM
+  hard_wrap: false
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-  # coderay:
-  #   coderay_line_numbers:
-  #   coderay_line_numbers_start: 1
-  #   coderay_tab_width: 4
-  #   coderay_bold_every: 10
-  #   coderay_css: class
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author_profile: true
 
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
 
-# disqus settings:
-disqus:
-  shortname: yanyingwei
+# Outputting
+permalink: /:categories/:title/
+timezone: Asia/Shanghai
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
-# Latest update in 2026/04/19.
+compress_html:
+  clippings: all
+  ignore:
+    envs: development

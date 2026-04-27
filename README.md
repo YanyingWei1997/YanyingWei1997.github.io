@@ -1,21 +1,21 @@
-# Yanying Wei — Personal Academic Website
+# Yanying Wei Academic Homepage
 
-Personal website of **Yanying Wei (韦艳莹)**, Lecturer in Financial Technology at the School of Digital Economics, Nanning University.
+This repository hosts the personal academic homepage of **Yanying Wei**.
 
-**Site:** [yanyingwei1997.github.io](https://yanyingwei1997.github.io/)
+The site is built with Jekyll and adapted from the AcadHomepage template used by [jxtse.github.io](https://github.com/jxtse/jxtse.github.io), originally based on [RayeRen/acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io).
 
-## About
+## Local Preview
 
-This site covers my research, publications, teaching, and academic background. Research interests include carbon emission dynamics, energy policy, regional corridor economics, and computational social science.
+```bash
+bash run_server.sh
+```
 
-## Tech Stack
+Then open <http://127.0.0.1:4000>.
 
-Built with [Jekyll](https://jekyllrb.com/), hosted on [GitHub Pages](https://pages.github.com/), using a customized academic theme.
+## Main Content
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=YanyingWei1997/YanyingWei1997.github.io&type=Date)](https://star-history.com/#YanyingWei1997/YanyingWei1997.github.io&Date)
-
-## License
-
-© 2025 Yanying Wei. Source available on [GitHub](https://github.com/YanyingWei1997/YanyingWei1997.github.io).
+- Homepage content: `_pages/about.md`
+- Site configuration: `_config.yml`
+- Navigation: `_data/navigation.yml`
+- Notes: `_posts/`
+- CV: `assets/CV-YanyingWEI.pdf`

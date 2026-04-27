@@ -1,0 +1,9 @@
+_site/
+/vendor/
+.bundle/
+.sass-cache/
+push.sh
+.DS_Store
+CLAUDE.md
+AGENTS.md
+.claude/settings.local.json

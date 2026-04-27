@@ -1,0 +1,63 @@
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/apple-touch-icon.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/images/favicon-32x32.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ '/images/favicon-16x16.png' | relative_url }}">
+<link rel="manifest" href="{{ '/images/site.webmanifest' | relative_url }}">
+
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileImage" content="{{ '/images/mstile-144x144.png' | relative_url }}?v=M44lzPylqQ">
+<meta name="msapplication-config" content="{{ '/images/browserconfig.xml' | relative_url }}?v=M44lzPylqQ">
+<meta name="theme-color" content="#ffffff">
+
+<!-- 学术图标和增强的强调色样式 -->
+<link rel="stylesheet" href="{{ '/assets/css/academicons.css' | relative_url }}"/>
+<link rel="stylesheet" href="{{ '/assets/css/accent-enhancements.css' | relative_url }}"/>
+
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+<!-- 强调色增强的JavaScript动效 -->
+<script>
+// 页面加载后的滚动动画
+document.addEventListener('DOMContentLoaded', function() {
+  // 滚动触发动画
+  const observerOptions = {
+    threshold: 0.1,
+    rootMargin: '0px 0px -50px 0px'
+  };
+  
+  const observer = new IntersectionObserver(function(entries) {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('animate');
+      }
+    });
+  }, observerOptions);
+  
+  // 为元素添加动画类
+  document.querySelectorAll('.paper-box, .highlight-block').forEach(el => {
+    el.classList.add('fade-in-up');
+    observer.observe(el);
+  });
+  
+  // 为重要链接添加强调色效果
+  document.querySelectorAll('a[href*="pdf"], a[href*="github"], a[href*="arxiv"]').forEach(link => {
+    link.classList.add('link-accent');
+  });
+});
+
+// 动态添加装饰条
+document.addEventListener('DOMContentLoaded', function() {
+  const body = document.body;
+  body.classList.add('accent-border-top');
+});
+</script>
+
+<!-- end custom head snippets -->
