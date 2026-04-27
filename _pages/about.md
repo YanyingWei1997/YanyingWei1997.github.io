@@ -76,11 +76,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Peer Review · JCR Q1</div>
-    <div class="academic-image-card blue">
-      <i class="fas fa-bolt"></i>
-      <div>Electricity Reform</div>
-      <span>Energy Security · Green Finance</span>
-    </div>
+    <img src="images/electricity_reform.jpeg" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Electricity Reform">
   </div>
   <div class='paper-box-text'>
     <h3>Analyzing the impact of electricity reforms on energy supply security: Green finance as a policy perspective</h3>
