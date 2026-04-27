@@ -221,35 +221,39 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 
 # <i class="fas fa-award"></i> Funding & Honors
 
-<div class="funding-honors-container">
-  <h3><i class="fas fa-coins"></i> Research Funding (Principal Investigator)</h3>
-  <ul class="styled-list">
-    <li>
-      <strong>Value-capture challenges and incremental hub reconfiguration pathways for the Guangxi corridor economy under the New International Land-Sea Trade Corridor.</strong><br>
-      <span class="muted-text">Supported by Guangxi Zhuang Autonomous Region (Grant No. 25JYF186) | <em>Oct 2025 – Oct 2028</em></span>
-    </li>
-    <li>
-      <strong>Feixiangjia: A solid waste management platform tailored for SMEs.</strong><br>
-      <span class="muted-text">Supported by Nanning University (Grant No. S2024-1154-9017X) | <em>Jun 2024 – Dec 2027</em></span>
-    </li>
-    <li>
-      <strong>Research on the decoupling state and driving mechanism of carbon emissions in Guangxi under the dual-carbon target.</strong><br>
-      <span class="muted-text">Supported by Bureau of Science and Technology of Guangxi Province (Grant No. 2024-KY-1871) | <em>Jan 2024 – Dec 2025</em></span>
-    </li>
-    <li>
-      <strong>Digital empowerment for bank loans and regulatory innovation.</strong><br>
-      <span class="muted-text">Supported by Nanning University (Grant No. S2023-1154-9126) | <em>Jan 2024 – Dec 2024</em></span>
-    </li>
-  </ul>
+<div class="highlight-blocks">
+  <div class="highlight-block floating-card" style="flex: 1.2;">
+    <h3><i class="fas fa-coins"></i> Research Funding</h3>
+    <ul class="styled-list">
+      <li>
+        <strong>Value-capture challenges and incremental hub reconfiguration pathways for the Guangxi corridor economy under the New International Land-Sea Trade Corridor.</strong><br>
+        <span class="muted-text"><strong>PI.</strong> Guangxi Zhuang Autonomous Region (Grant No. 25JYF186) | <em>Oct 2025–Oct 2028</em></span>
+      </li>
+      <li>
+        <strong>Feixiangjia: A solid waste management platform tailored for SMEs.</strong><br>
+        <span class="muted-text"><strong>PI.</strong> Nanning University (Grant No. S2024-1154-9017X) | <em>Jun 2024–Dec 2027</em></span>
+      </li>
+      <li>
+        <strong>Research on the decoupling state and driving mechanism of carbon emissions in Guangxi under the dual-carbon target.</strong><br>
+        <span class="muted-text"><strong>PI.</strong> Bureau of Science & Tech of Guangxi (Grant No. 2024-KY-1871) | <em>Jan 2024–Dec 2025</em></span>
+      </li>
+      <li>
+        <strong>Digital empowerment for bank loans and regulatory innovation.</strong><br>
+        <span class="muted-text"><strong>PI.</strong> Nanning University (Grant No. S2023-1154-9126) | <em>Jan 2024–Dec 2024</em></span>
+      </li>
+    </ul>
+  </div>
 
-  <h3><i class="fas fa-medal"></i> Selected Honors & Awards</h3>
-  <ul class="styled-list">
-    <li><span class="badge pulse-accent">2024 & 2025</span> <strong>Outstanding Graduation Thesis Advisor</strong> — Nanning University</li>
-    <li><span class="badge pulse-accent">2022 & 2023</span> <strong>Outstanding Instructor Award</strong> — ICBC Cup National College Students Financial Technology Innovation Competition</li>
-    <li><span class="badge pulse-accent">2022</span> <strong>Third Prize</strong> — Nanning University Teaching Skills Competition</li>
-    <li><span class="badge pulse-accent">2019</span> <strong>Second Prize</strong> — National Undergraduate Mathematical Modeling Competition (Guangxi Region)</li>
-    <li><span class="badge pulse-accent">2017</span> <strong>"S" Prize</strong> — American Mathematical Contest in Modeling (MCM)</li>
-  </ul>
+  <div class="highlight-block floating-card" style="flex: 0.8;">
+    <h3><i class="fas fa-medal"></i> Selected Honors</h3>
+    <ul class="styled-list">
+      <li><span class="badge pulse-accent" style="margin-bottom:0.3em;">2024 & 2025</span><br><strong>Outstanding Graduation Thesis Advisor</strong><br><span class="muted-text">Nanning University</span></li>
+      <li><span class="badge pulse-accent" style="margin-bottom:0.3em;">2022 & 2023</span><br><strong>Outstanding Instructor Award</strong><br><span class="muted-text">ICBC Cup FinTech Innovation Competition</span></li>
+      <li><span class="badge pulse-accent" style="margin-bottom:0.3em;">2022</span><br><strong>Third Prize</strong><br><span class="muted-text">Nanning Univ. Teaching Skills Competition</span></li>
+      <li><span class="badge pulse-accent" style="margin-bottom:0.3em;">2019</span><br><strong>Second Prize</strong><br><span class="muted-text">National Math Modeling Competition (Guangxi)</span></li>
+      <li><span class="badge pulse-accent" style="margin-bottom:0.3em;">2017</span><br><strong>"S" Prize</strong><br><span class="muted-text">American Math Contest in Modeling (MCM)</span></li>
+    </ul>
+  </div>
 </div>
 
 # <i class="fas fa-blog"></i> Notes
