@@ -158,10 +158,10 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   </div>
   <div class='paper-box-text'>
     <h3>Comprehensive land improvement innovation for rural revitalization: Public value creation and realization</h3>
-    <div class="authors">Zuoji Dong, <strong>Yanying Wei</strong>, C. Ren, S. Wang</div>
+    <div class="authors">Zuoji Dong, <strong>Yanying Wei</strong>, Conghui Ren, Saihong Wang</div>
     <div class="venue"><em>Resources Science</em>, 44(7), 1305–1315 (2022).</div>
     <div class="links">
-      <a href="https://doi.org/10.18402/resci.2022.07.01" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+      <a href="https://kns.cnki.net/kcms2/article/abstract?v=VKFFl0Cm57bvSNP1VkbFoe3rFg5WF5TMpotqnc7bdcxls-i9ImmxZIZ0ueIOHh95zNL3B0-V8Sy1qdvZw0yTGiLjk3yeVQtJsbvpBYGRC34D-Ttv2iAZOgZrpouZz-rEiPh2bE-dywaS_KYCMGD38A==&uniplatform=NZKPT&language=CHS" class="btn-accent"><i class="fas fa-link"></i> CNKI</a>
     </div>
   </div>
 </div>
@@ -177,10 +177,10 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   </div>
   <div class='paper-box-text'>
     <h3>Capital market opening, investment efficiency, and total factor productivity of enterprises: An empirical study based on the opening of the Shenzhen-Hong Kong Stock Connect</h3>
-    <div class="authors">Xiaoyan Huang, <strong>Yanying Wei</strong>, Di Wang</div>
+    <div class="authors">Xi Huang, <strong>Yanying Wei</strong>, Duomin Wang</div>
     <div class="venue"><em>Science & Technology for Development</em>, 18(3), 375–384 (2022).</div>
     <div class="links">
-      <a href="https://doi.org/10.11842/chips.20220214002" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+      <a href="https://kns.cnki.net/kcms2/article/abstract?v=VKFFl0Cm57ZCcHIEBO7qI6v1zAVcqm8yIkOhu-ku3AJB4EZBrGJt8rZQhdL0CRaHOfLR3hpyWuOVVyF4o0bwCj5OmtT_zt57RlY3mTqjmIdAfcwurIPZ12KVcTqIN3zHUMxOeAyID4tGinEcfdxazA==&uniplatform=NZKPT&language=CHS" class="btn-accent"><i class="fas fa-link"></i> CNKI</a>
     </div>
   </div>
 </div>
