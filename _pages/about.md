@@ -62,7 +62,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Minor Revision · JCR Q1</div>
-    <img src="images/Figure1_Methodology_Framework.png" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Methodology Framework">
+    <img src="images/carbon-peak-uncertainty.png" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Carbon peak pathway illustration">
   </div>
   <div class='paper-box-text'>
     <h3>Optimizing regional carbon peak pathways under uncertainty</h3>
@@ -74,7 +74,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Peer Review · JCR Q1</div>
-    <img src="images/electricity_reform.jpeg" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Electricity Reform">
+    <img src="images/energy-security-green-finance.png" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Energy security and green finance illustration">
   </div>
   <div class='paper-box-text'>
     <h3>Analyzing the impact of electricity reforms on energy supply security: Green finance as a policy perspective</h3>

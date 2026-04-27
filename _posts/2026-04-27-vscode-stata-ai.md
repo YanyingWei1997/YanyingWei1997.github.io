@@ -3,6 +3,7 @@ layout: post
 title: "VSCode + Stata 17 + AI：一个窗口跑完整个实证研究"
 date: 2026-04-27
 description: "适合完全零基础的小白，跟着做就能跑通，用 AI 代替繁琐的手工制表和解读。"
+cover_image: "/images/blog-stata-ai.png"
 ---
 
 # 🎯 VSCode + Stata 17 + AI：一个窗口跑完整个实证研究

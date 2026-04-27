@@ -2,7 +2,7 @@
 title: "Using ChatGPT to Support Literature Review Workflows"
 date: 2023-04-27
 description: "A note on using Python and ChatGPT to collect CNKI literature records, score papers, merge abstracts, and generate structured literature-review summaries."
-cover_image: "/images/default-blog-cover.svg"
+cover_image: "/images/blog-literature-review.png"
 ---
 
 This note summarizes a workflow for combining Python scripts with ChatGPT to support literature review tasks, including CNKI literature collection, paper scoring, abstract merging, and structured synthesis.
