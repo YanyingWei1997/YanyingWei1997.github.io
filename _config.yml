@@ -59,6 +59,19 @@ author:
   youtube          :
   wikipedia        :
 
+languages:
+  - en
+default_lang: "en"
+t:
+  en:
+    home: "Home"
+    about: "About Me"
+    news: "News"
+    publications: "Publications"
+    educations: "Education"
+    teaching: "Teaching"
+    honors: "Funding & Honors"
+    blogs: "Notes"
 
 # Reading Files
 include:

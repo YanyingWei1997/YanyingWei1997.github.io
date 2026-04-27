@@ -1,51 +1,55 @@
 name: Deploy Jekyll with Polyglot to GitHub Pages
 
 on:
+  # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
+    branches: ["main", "i18n-polyglot-experiment"]
+
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
+  # Build job
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
-          bundler-cache: true
-
+          bundler-cache: false
+      - name: Install dependencies
+        run: bundle install
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
-
       - name: Build with Jekyll
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        run: bundle exec jekyll build --trace --verbose --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-
-      - name: Verify zh output
+      - name: Debug Directory
         run: |
-          echo "=== _site root ==="
-          ls -la _site/
-          echo "=== checking /zh/ ==="
-          ls -la _site/zh/ || echo "WARNING: _site/zh/ not found!"
-
+          ls -la
+          ls -la _site/ || echo "_site not found"
       - name: Upload artifact
+        # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
 
+  # Deployment job
   deploy:
     environment:
       name: github-pages
