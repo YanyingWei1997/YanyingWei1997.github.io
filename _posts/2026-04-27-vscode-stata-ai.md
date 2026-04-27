@@ -9,6 +9,8 @@ cover_image: "/images/blog-stata-ai.png"
 # 🎯 VSCode + Stata 17 + AI：一个窗口跑完整个实证研究
 （适合完全零基础的小白，跟着做就能跑通）
 
+🌐 👉 [**Click here to read the English Version**]({% post_url 2026-04-27-vscode-stata-ai-en %})
+
 你是不是也有过这种经历——
 
 坐在电脑前，打开 Stata，看着满屏的代码和结果，不知道从哪里下手。想问老师，又怕问题太"小白"。想用 AI 帮忙，AI 说的你听不懂，你想问的又不知道怎么说。
