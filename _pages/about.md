@@ -130,11 +130,62 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 
 
 
-- Wang, D., Yu, H., Huangfu, Y., **Wei, Y.**, & Dong, Z. (2024). Dynamic evolution and trend frontiers in land use change research: A bibliometric analysis based on the WoS core database (1990–2020). *Management Review*, 36(1), 87. [DOI](https://doi.org/10.14120/j.cnki.cn11-5057/f.2024.01.022)
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Published</div>
+    <div class="academic-image-card">
+      <i class="fas fa-map"></i>
+      <div>Land Use Change</div>
+      <span>Bibliometric · WoS</span>
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <h3>Dynamic evolution and trend frontiers in land use change research: A bibliometric analysis based on the WoS core database (1990–2020)</h3>
+    <div class="authors">Di Wang, Hui Yu, Yuxiao Huangfu, <strong>Yanying Wei</strong>, Zuoji Dong</div>
+    <div class="venue"><em>Management Review</em>, 36(1), 87 (2024).</div>
+    <div class="links">
+      <a href="https://doi.org/10.14120/j.cnki.cn11-5057/f.2024.01.022" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+    </div>
+  </div>
+</div>
 
-- Dong, Z., **Wei, Y.**, Ren, C., & Wang, S. (2022). Comprehensive land improvement innovation for rural revitalization: Public value creation and realization. *Resources Science*, 44(7), 1305–1315. [DOI](https://doi.org/10.18402/resci.2022.07.01)
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Published</div>
+    <div class="academic-image-card green">
+      <i class="fas fa-tractor"></i>
+      <div>Rural Revitalization</div>
+      <span>Land Improvement · Public Value</span>
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <h3>Comprehensive land improvement innovation for rural revitalization: Public value creation and realization</h3>
+    <div class="authors">Zuoji Dong, <strong>Yanying Wei</strong>, C. Ren, S. Wang</div>
+    <div class="venue"><em>Resources Science</em>, 44(7), 1305–1315 (2022).</div>
+    <div class="links">
+      <a href="https://doi.org/10.18402/resci.2022.07.01" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+    </div>
+  </div>
+</div>
 
-- Huang, X., **Wei, Y.**, & Wang, D. (2022). Capital market opening, investment efficiency, and total factor productivity of enterprises: An empirical study based on the opening of the Shenzhen-Hong Kong Stock Connect. *Science & Technology for Development*, 18(3), 375–384. [DOI](https://doi.org/10.11842/chips.20220214002)
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Published</div>
+    <div class="academic-image-card blue">
+      <i class="fas fa-chart-line"></i>
+      <div>Capital Market</div>
+      <span>Stock Connect · TFP</span>
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <h3>Capital market opening, investment efficiency, and total factor productivity of enterprises: An empirical study based on the opening of the Shenzhen-Hong Kong Stock Connect</h3>
+    <div class="authors">Xiaoyan Huang, <strong>Yanying Wei</strong>, Di Wang</div>
+    <div class="venue"><em>Science & Technology for Development</em>, 18(3), 375–384 (2022).</div>
+    <div class="links">
+      <a href="https://doi.org/10.11842/chips.20220214002" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+    </div>
+  </div>
+</div>
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
