@@ -29,4 +29,8 @@
     <circle cx="106" cy="76" r="15" fill="#fe667b"/>
   </g>
   <path d="M284 254 H330 M478 254 H534" stroke="#c9d7e7" stroke-width="10" stroke-linecap="round"/>
+  <text x="360" y="72" text-anchor="middle" fill="#012f63" font-family="Arial, sans-serif" font-size="28" font-weight="700">Stock Connect &amp; TFP</text>
+  <text x="196" y="322" text-anchor="middle" fill="#50627a" font-family="Arial, sans-serif" font-size="20">opening</text>
+  <text x="404" y="322" text-anchor="middle" fill="#50627a" font-family="Arial, sans-serif" font-size="20">efficiency</text>
+  <text x="596" y="322" text-anchor="middle" fill="#50627a" font-family="Arial, sans-serif" font-size="20">productivity</text>
 </svg>

@@ -37,4 +37,7 @@
   </g>
   <path d="M154 374 H566" stroke="#d5e2ee" stroke-width="10" stroke-linecap="round"/>
   <circle cx="360" cy="374" r="17" fill="#fe667b"/>
+  <text x="360" y="72" text-anchor="middle" fill="#012f63" font-family="Arial, sans-serif" font-size="28" font-weight="700">Network-LSTM</text>
+  <text x="224" y="322" text-anchor="middle" fill="#50627a" font-family="Arial, sans-serif" font-size="20">rail network</text>
+  <text x="528" y="322" text-anchor="middle" fill="#50627a" font-family="Arial, sans-serif" font-size="20">debt dynamics</text>
 </svg>

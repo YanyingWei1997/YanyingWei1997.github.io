@@ -38,4 +38,7 @@
     <circle cx="500" cy="374" r="14"/>
     <circle cx="584" cy="374" r="14"/>
   </g>
+  <text x="360" y="72" text-anchor="middle" fill="#012f63" font-family="Arial, sans-serif" font-size="28" font-weight="700">Land Use Trends</text>
+  <text x="218" y="322" text-anchor="middle" fill="#50627a" font-family="Arial, sans-serif" font-size="20">land change</text>
+  <text x="520" y="322" text-anchor="middle" fill="#50627a" font-family="Arial, sans-serif" font-size="20">keyword network</text>
 </svg>

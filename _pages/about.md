@@ -104,7 +104,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Published · ACM</div>
-    <img src="images/reits-network-lstm.svg" alt="Infrastructure REITs Network-LSTM diagram">
+    <img src="images/reits-network-lstm.png" alt="Infrastructure REITs Network-LSTM diagram">
   </div>
   <div class='paper-box-text'>
     <h3>Dynamic Network-LSTM model for quantitative analysis of infrastructure REITs' impact on urban rail transit debt ratios</h3>
@@ -121,12 +121,12 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Published</div>
-    <img src="images/land-use-bibliometric.svg" alt="Land use change bibliometric diagram">
+    <img src="images/land-use-bibliometric.png" alt="Land use change bibliometric diagram">
   </div>
   <div class='paper-box-text'>
     <h3>Dynamic evolution and trend frontiers in land use change research: A bibliometric analysis based on the WoS core database (1990–2020)</h3>
     <div class="authors">Duomin Wang, Haibo Yu, Yubin Huangfu, <strong>Yanying Wei</strong>, Zuoji Dong</div>
-    <div class="venue"><em>Management Review</em>, 36(1), 87 (2024).</div>
+    <div class="venue"><em>Management Review</em>, 2024, 36(1): 87.</div>
     <div class="links">
       <a href="https://doi.org/10.14120/j.cnki.cn11-5057/f.2024.01.022" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
     </div>
@@ -136,12 +136,12 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Published</div>
-    <img src="images/rural-land-improvement.svg" alt="Rural revitalization land improvement diagram">
+    <img src="images/rural-land-improvement.png" alt="Rural revitalization land improvement diagram">
   </div>
   <div class='paper-box-text'>
     <h3>Comprehensive land improvement innovation for rural revitalization: Public value creation and realization</h3>
     <div class="authors">Zuoji Dong, <strong>Yanying Wei</strong>, Conghui Ren, Saihong Wang</div>
-    <div class="venue"><em>Resources Science</em>, 44(7), 1305–1315 (2022).</div>
+    <div class="venue"><em>Resources Science</em>, 2022, 44(7): 1305–1315.</div>
     <div class="links">
       <a href="https://kns.cnki.net/kcms2/article/abstract?v=VKFFl0Cm57bvSNP1VkbFoe3rFg5WF5TMpotqnc7bdcxls-i9ImmxZIZ0ueIOHh95zNL3B0-V8Sy1qdvZw0yTGiLjk3yeVQtJsbvpBYGRC34D-Ttv2iAZOgZrpouZz-rEiPh2bE-dywaS_KYCMGD38A==&uniplatform=NZKPT&language=CHS" class="btn-accent"><i class="fas fa-link"></i> CNKI</a>
     </div>
@@ -151,12 +151,12 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Published</div>
-    <img src="images/stock-connect-tfp.svg" alt="Stock Connect investment efficiency diagram">
+    <img src="images/stock-connect-tfp.png" alt="Stock Connect investment efficiency diagram">
   </div>
   <div class='paper-box-text'>
     <h3>Capital market opening, investment efficiency, and total factor productivity of enterprises: An empirical study based on the opening of the Shenzhen-Hong Kong Stock Connect</h3>
     <div class="authors">Xi Huang, <strong>Yanying Wei</strong>, Duomin Wang</div>
-    <div class="venue"><em>Science & Technology for Development</em>, 18(3), 375–384 (2022).</div>
+    <div class="venue"><em>Science & Technology for Development</em>, 2022, 18(3): 375–384.</div>
     <div class="links">
       <a href="https://kns.cnki.net/kcms2/article/abstract?v=VKFFl0Cm57ZCcHIEBO7qI6v1zAVcqm8yIkOhu-ku3AJB4EZBrGJt8rZQhdL0CRaHOfLR3hpyWuOVVyF4o0bwCj5OmtT_zt57RlY3mTqjmIdAfcwurIPZ12KVcTqIN3zHUMxOeAyID4tGinEcfdxazA==&uniplatform=NZKPT&language=CHS" class="btn-accent"><i class="fas fa-link"></i> CNKI</a>
     </div>
@@ -166,12 +166,12 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Published</div>
-    <img src="images/bank-loan-security.svg" alt="Digital bank loan security management diagram">
+    <img src="images/bank-loan-security.png" alt="Digital bank loan security management diagram">
   </div>
   <div class='paper-box-text'>
     <h3>Commercial Bank Loan Digital Empowerment Security Management System V1.0</h3>
     <div class="authors">Xie, X., Zai, D., Li, Y., <strong>Yanying Wei</strong>, & Wang, Y.</div>
-    <div class="venue">Software Copyright. Nanning University. Registration No. 2024SR1017636 (2024).</div>
+    <div class="venue">Software Copyright, 2024. Nanning University. Registration No. 2024SR1017636.</div>
     <div class="links">
       <a href="/images/sw1.png" class="btn-accent"><i class="fas fa-certificate"></i> Certificate</a>
     </div>
