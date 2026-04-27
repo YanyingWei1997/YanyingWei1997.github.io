@@ -12,7 +12,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Yanying Wei</span> (韦艳莹). I am a lecturer in Financial Technology at <i class="fas fa-university"></i> <a href="https://www.nnxy.edu.cn/" target="_blank">**Nanning University**</a>, School of Digital Economics. I received my M.Sc. in Finance from <i class="fas fa-university"></i> <a href="https://english.ucas.ac.cn/" target="_blank">**University of Chinese Academy of Sciences**</a> (Advisor: <a href="https://people.ucas.ac.cn/~dongzuoji" target="_blank">Prof. Zuoji Dong</a>) and my B.Sc. in Financial Mathematics from <i class="fas fa-university"></i> <a href="https://english.gxu.edu.cn/" target="_blank">**Guangxi University**</a>.
+My name is <span class="accent-text">Yanying Wei</span> (韦艳莹). I am a lecturer in Financial Technology at <i class="fas fa-university"></i> <a href="https://www.nnxy.edu.cn/" target="_blank">**Nanning University**</a>, School of Digital Economics. I received my M.Sc. in Finance from <i class="fas fa-university"></i> <a href="https://english.ucas.ac.cn/" target="_blank">**University of Chinese Academy of Sciences**</a> (Advisor: <a href="https://baike.baidu.com/item/%E8%91%A3%E7%A5%9A%E7%BB%A7/8711508" target="_blank">Prof. Zuoji Dong</a>) and my B.Sc. in Financial Mathematics from <i class="fas fa-university"></i> <a href="https://english.gxu.edu.cn/" target="_blank">**Guangxi University**</a>.
 
 My research interests include <span class="accent-text">computational social science</span>, <span class="accent-text">policy simulation and agent-based modeling</span>, industrial economics, regional economics, and machine learning applications in socioeconomic systems.
 
@@ -159,7 +159,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 
 # <i class="fas fa-graduation-cap"></i> Education
 
-- *2019.09 - 2022.06*: &nbsp;M.Sc. in Finance, <a href="https://english.ucas.ac.cn/" target="_blank"><span class="primary-gradient-text">University of Chinese Academy of Sciences</span></a>. Advisor: <a href="https://people.ucas.ac.cn/~dongzuoji" target="_blank">Prof. Zuoji Dong</a>. Research areas: applied economics, natural resource management, industrial economics.
+- *2019.09 - 2022.06*: &nbsp;M.Sc. in Finance, <a href="https://english.ucas.ac.cn/" target="_blank"><span class="primary-gradient-text">University of Chinese Academy of Sciences</span></a>. Advisor: <a href="https://baike.baidu.com/item/%E8%91%A3%E7%A5%9A%E7%BB%A7/8711508" target="_blank">Prof. Zuoji Dong</a>. Research areas: applied economics, natural resource management, industrial economics.
 - *2015.09 - 2019.06*: &nbsp;B.Sc. in Financial Mathematics, <a href="https://english.gxu.edu.cn/" target="_blank"><span class="primary-gradient-text">Guangxi University</span></a> (Project 211).
 
 # <i class="fas fa-chalkboard-teacher"></i> Teaching
