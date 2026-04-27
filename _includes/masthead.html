@@ -9,9 +9,16 @@
           </li>
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item">
-              <a href="{{ link.url | relative_url }}">{{ site.t.en[link.title] | default: link.title }}</a>
+              <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
+          <li class="masthead__menu-item masthead__menu-item--lg">
+            {% if site.active_lang == 'zh' %}
+              <a href="/en{{ page.url }}" style="font-weight: 700; color: var(--accent-color, #e83e8c);"><i class="fas fa-globe"></i> EN</a>
+            {% else %}
+              <a href="{{ page.url }}" style="font-weight: 700; color: var(--accent-color, #e83e8c);"><i class="fas fa-globe"></i> 中文</a>
+            {% endif %}
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
