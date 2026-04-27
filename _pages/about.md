@@ -12,7 +12,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Yanying Wei</span> (韦艳莹). I am a lecturer in Financial Technology at <i class="fas fa-university"></i> <a href="https://www.nnxy.edu.cn/" target="_blank">**Nanning University**</a>, School of Digital Economics. I received my M.Sc. in Finance from <i class="fas fa-university"></i> <a href="https://english.ucas.ac.cn/" target="_blank">**University of Chinese Academy of Sciences**</a> (Advisor: <a href="https://baike.baidu.com/item/%E8%91%A3%E7%A5%9A%E7%BB%A7/8711508" target="_blank">Prof. Zuoji Dong</a>) and my B.Sc. in Financial Mathematics from <i class="fas fa-university"></i> <a href="https://english.gxu.edu.cn/" target="_blank">**Guangxi University**</a>.
+My name is <span class="accent-text">Yanying Wei</span> (韦艳莹). I am a lecturer in Financial Technology at <i class="fas fa-university"></i> <a href="https://en.unn.edu.cn/" target="_blank">**Nanning University**</a>, School of Digital Economics. I received my M.Sc. in Finance from <i class="fas fa-university"></i> <a href="https://english.cas.cn/" target="_blank">**University of Chinese Academy of Sciences**</a> (Advisor: <a href="https://baike.baidu.com/item/%E8%91%A3%E7%A5%9A%E7%BB%A7/8711508" target="_blank">Prof. Zuoji Dong</a>) and my B.Sc. in Financial Mathematics from <i class="fas fa-university"></i> <a href="https://www.gxu.edu.cn/en/" target="_blank">**Guangxi University**</a>.
 
 My research interests include <span class="accent-text">computational social science</span>, <span class="accent-text">policy simulation and agent-based modeling</span>, industrial economics, regional economics, and machine learning applications in socioeconomic systems.
 
@@ -128,9 +128,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   </div>
 </div>
 
-- **Wei, Y.**, Quan, L., Wei, Z., & Deng, L. (2024). Analysis on efficiency and influencing factors of Guangxi technology and finance based on DEA model. *Journal of Innovations in Economics & Management*, 5(1), 72. [DOI](https://doi.org/10.69610/j.iem.202406242)
 
-- Deng, L., Deng, Z., & **Wei, Y.** (2024). Research on the influence of ESG performance on BYD's innovation ability. *Journal of Innovations in Economics & Management*, 5(1), 73. [DOI](https://doi.org/10.69610/j.iem.202406243)
 
 - Wang, D., Yu, H., Huangfu, Y., **Wei, Y.**, & Dong, Z. (2024). Dynamic evolution and trend frontiers in land use change research: A bibliometric analysis based on the WoS core database (1990–2020). *Management Review*, 36(1), 87. [DOI](https://doi.org/10.14120/j.cnki.cn11-5057/f.2024.01.022)
 
@@ -159,8 +157,8 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 
 # <i class="fas fa-graduation-cap"></i> Education
 
-- *2019.09 - 2022.06*: &nbsp;M.Sc. in Finance, <a href="https://english.ucas.ac.cn/" target="_blank"><span class="primary-gradient-text">University of Chinese Academy of Sciences</span></a>. Advisor: <a href="https://baike.baidu.com/item/%E8%91%A3%E7%A5%9A%E7%BB%A7/8711508" target="_blank">Prof. Zuoji Dong</a>. Research areas: applied economics, natural resource management, industrial economics.
-- *2015.09 - 2019.06*: &nbsp;B.Sc. in Financial Mathematics, <a href="https://english.gxu.edu.cn/" target="_blank"><span class="primary-gradient-text">Guangxi University</span></a> (Project 211).
+- *2019.09 - 2022.06*: &nbsp;M.Sc. in Finance, <a href="https://english.cas.cn/" target="_blank"><span class="primary-gradient-text">University of Chinese Academy of Sciences</span></a>. Advisor: <a href="https://baike.baidu.com/item/%E8%91%A3%E7%A5%9A%E7%BB%A7/8711508" target="_blank">Prof. Zuoji Dong</a>. Research areas: applied economics, natural resource management, industrial economics.
+- *2015.09 - 2019.06*: &nbsp;B.Sc. in Financial Mathematics, <a href="https://www.gxu.edu.cn/en/" target="_blank"><span class="primary-gradient-text">Guangxi University</span></a> (Project 211).
 
 # <i class="fas fa-chalkboard-teacher"></i> Teaching
 
@@ -172,26 +170,35 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 
 # <i class="fas fa-award"></i> Funding & Honors
 
-<div class="highlight-blocks">
-  <div class="highlight-block floating-card">
-    <h3><i class="fas fa-coins"></i> Research Funding</h3>
-    <ul>
-      <li><strong>PI.</strong> Value-capture challenges and incremental hub reconfiguration pathways for the Guangxi corridor economy under the New International Land-Sea Trade Corridor. Guangxi Zhuang Autonomous Region (Grant No. 25JYF186), 2025–2028.</li>
-      <li><strong>PI.</strong> Feixiangjia: A solid waste management platform tailored for SMEs. Nanning University (Grant No. S2024-1154-9017X), 2024–2027.</li>
-      <li><strong>PI.</strong> Research on the decoupling state and driving mechanism of carbon emissions in Guangxi under the dual-carbon target. Bureau of Science and Technology of Guangxi Province (Grant No. 2024-KY-1871), 2024–2025.</li>
-      <li><strong>PI.</strong> Digital empowerment for bank loans and regulatory innovation. Nanning University (Grant No. S2023-1154-9126), 2024.</li>
-    </ul>
-  </div>
-  <div class="highlight-block floating-card">
-    <h3><i class="fas fa-medal"></i> Awards</h3>
-    <ul>
-      <li>Outstanding Graduation Thesis Advisor, Nanning University, 2024 & 2025</li>
-      <li>Outstanding Instructor Award, ICBC Cup National College Students Financial Technology Innovation Competition, 2022 & 2023</li>
-      <li>Third Prize, Nanning University Teaching Skills Competition, 2022</li>
-      <li>Second Prize, National Undergraduate Mathematical Modeling Competition, Guangxi Region, 2019</li>
-      <li>"S" Prize, American Mathematical Contest in Modeling (MCM), 2017</li>
-    </ul>
-  </div>
+<div class="funding-honors-container">
+  <h3><i class="fas fa-coins"></i> Research Funding (Principal Investigator)</h3>
+  <ul class="styled-list">
+    <li>
+      <strong>Value-capture challenges and incremental hub reconfiguration pathways for the Guangxi corridor economy under the New International Land-Sea Trade Corridor.</strong><br>
+      <span class="muted-text">Supported by Guangxi Zhuang Autonomous Region (Grant No. 25JYF186) | <em>Oct 2025 – Oct 2028</em></span>
+    </li>
+    <li>
+      <strong>Feixiangjia: A solid waste management platform tailored for SMEs.</strong><br>
+      <span class="muted-text">Supported by Nanning University (Grant No. S2024-1154-9017X) | <em>Jun 2024 – Dec 2027</em></span>
+    </li>
+    <li>
+      <strong>Research on the decoupling state and driving mechanism of carbon emissions in Guangxi under the dual-carbon target.</strong><br>
+      <span class="muted-text">Supported by Bureau of Science and Technology of Guangxi Province (Grant No. 2024-KY-1871) | <em>Jan 2024 – Dec 2025</em></span>
+    </li>
+    <li>
+      <strong>Digital empowerment for bank loans and regulatory innovation.</strong><br>
+      <span class="muted-text">Supported by Nanning University (Grant No. S2023-1154-9126) | <em>Jan 2024 – Dec 2024</em></span>
+    </li>
+  </ul>
+
+  <h3><i class="fas fa-medal"></i> Selected Honors & Awards</h3>
+  <ul class="styled-list">
+    <li><span class="badge pulse-accent">2024 & 2025</span> <strong>Outstanding Graduation Thesis Advisor</strong> — Nanning University</li>
+    <li><span class="badge pulse-accent">2022 & 2023</span> <strong>Outstanding Instructor Award</strong> — ICBC Cup National College Students Financial Technology Innovation Competition</li>
+    <li><span class="badge pulse-accent">2022</span> <strong>Third Prize</strong> — Nanning University Teaching Skills Competition</li>
+    <li><span class="badge pulse-accent">2019</span> <strong>Second Prize</strong> — National Undergraduate Mathematical Modeling Competition (Guangxi Region)</li>
+    <li><span class="badge pulse-accent">2017</span> <strong>"S" Prize</strong> — American Mathematical Contest in Modeling (MCM)</li>
+  </ul>
 </div>
 
 # <i class="fas fa-blog"></i> Notes
@@ -228,3 +235,50 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
     {% endfor %}
   </div>
 </div>
+
+<style>
+.funding-honors-container {
+  margin-top: 1em;
+}
+.funding-honors-container h3 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  color: var(--primary-color, #2a7ae2);
+  border-bottom: 2px solid var(--accent-color, #e83e8c);
+  padding-bottom: 0.3em;
+  display: inline-block;
+}
+.styled-list {
+  list-style: none;
+  padding-left: 0;
+}
+.styled-list li {
+  margin-bottom: 1.2em;
+  padding: 1em;
+  background-color: var(--bg-card, #ffffff);
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+  border-left: 4px solid var(--accent-color, #e83e8c);
+  transition: transform 0.2s ease-in-out;
+}
+.styled-list li:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+}
+.muted-text {
+  color: #666;
+  font-size: 0.9em;
+  display: block;
+  margin-top: 0.3em;
+}
+.badge {
+  display: inline-block;
+  padding: 0.2em 0.6em;
+  font-size: 0.85em;
+  font-weight: 600;
+  color: #fff;
+  background-color: var(--accent-color, #e83e8c);
+  border-radius: 4px;
+  margin-right: 0.5em;
+}
+</style>
