@@ -25,4 +25,10 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem 'jekyll-polyglot'
+  gem 'jekyll-paginate'
+  gem 'jekyll-gist'
+  gem 'jekyll-redirect-from'
+  gem 'jemoji'
+  gem 'jekyll-seo-tag'
+  gem 'jekyll-include-cache'
 end
