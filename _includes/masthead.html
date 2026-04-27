@@ -12,11 +12,15 @@
               <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
-          <li class="masthead__menu-item masthead__menu-item--lg">
+          <li class="masthead__menu-item masthead__menu-item--lg" style="display:flex;gap:4px;align-items:center;">
             {% if site.active_lang == 'zh' %}
-              <a href="{{ page.url | remove_first: '/zh' }}" style="font-weight: 700; color: var(--accent-color, #e83e8c);"><i class="fas fa-globe"></i> EN</a>
+              <a href="{{ page.url | remove_first: '/zh' }}" style="font-weight:500;opacity:0.5;color:var(--accent-color,#e83e8c);">EN</a>
+              <span style="color:#ccc;">|</span>
+              <span style="font-weight:700;color:var(--accent-color,#e83e8c);"><i class="fas fa-globe"></i> 中文</span>
             {% else %}
-              <a href="/zh{{ page.url }}" style="font-weight: 700; color: var(--accent-color, #e83e8c);"><i class="fas fa-globe"></i> 中文</a>
+              <span style="font-weight:700;color:var(--accent-color,#e83e8c);"><i class="fas fa-globe"></i> EN</span>
+              <span style="color:#ccc;">|</span>
+              <a href="/zh{{ page.url }}" style="font-weight:500;opacity:0.5;color:var(--accent-color,#e83e8c);">中文</a>
             {% endif %}
           </li>
         </ul>
