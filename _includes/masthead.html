@@ -4,14 +4,25 @@
       <nav id="site-nav" class="greedy-nav">
         <button class="hidden" aria-label="Toggle navigation menu"><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <a href="{{ '/#about-me' | relative_url }}">Homepage</a>
-          </li>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item">
-              <a href="{{ link.url }}">{{ link.title }}</a>
+          {% if site.active_lang == 'zh' %}
+            <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+              <a href="{{ '/zh/#about-me' | relative_url }}">首页</a>
             </li>
-          {% endfor %}
+            {% for link in site.data.navigation.zh.main %}
+              <li class="masthead__menu-item">
+                <a href="{{ link.url }}">{{ link.title }}</a>
+              </li>
+            {% endfor %}
+          {% else %}
+            <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+              <a href="{{ '/#about-me' | relative_url }}">Homepage</a>
+            </li>
+            {% for link in site.data.navigation.main %}
+              <li class="masthead__menu-item">
+                <a href="{{ link.url }}">{{ link.title }}</a>
+              </li>
+            {% endfor %}
+          {% endif %}
           <li class="masthead__menu-item masthead__menu-item--lg" style="display:flex;gap:4px;align-items:center;">
             {% if site.active_lang == 'zh' %}
               <a href="/" style="font-weight:500;opacity:0.6;color:var(--accent-color,#e83e8c);">EN</a>

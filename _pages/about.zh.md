@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /zh/
 title: ""
 excerpt: ""
 author_profile: true
@@ -47,6 +47,8 @@ lang: zh
   </div>
 </div>
 
+<span class='anchor' id='news'></span>
+
 # <i class="fas fa-fire"></i> 动态
 
 - *2025*: &nbsp;晋升为南宁学院数字经济学院<span class="primary-gradient-text">讲师</span>。
@@ -54,6 +56,8 @@ lang: zh
 - *2025*: &nbsp;论文发表于ACM EDAI 2025，研究基础设施REITs的动态网络-LSTM分析模型。
 - *2024*: &nbsp;多篇论文发表，涵盖科技金融效率、ESG与创新、土地利用变化研究等领域。
 - *2022*: &nbsp;完成中国科学院大学金融学硕士学业后，加入南宁学院。
+
+<span class='anchor' id='publications'></span>
 
 # <i class="fas fa-file-alt"></i> 代表性成果
 
@@ -156,10 +160,14 @@ lang: zh
   </div>
 </div>
 
+<span class='anchor' id='education'></span>
+
 # <i class="fas fa-graduation-cap"></i> 教育背景
 
 - *2019.09 - 2022.06*: &nbsp;金融学硕士，<a href="https://www.ucas.ac.cn/" target="_blank"><span class="primary-gradient-text">中国科学院大学</span></a>。导师：<a href="https://baike.baidu.com/item/%E8%91%A3%E7%A5%9A%E7%BB%A7/8711508" target="_blank">董祚继教授</a>。研究方向：应用经济学、自然资源管理、产业经济学。
 - *2015.09 - 2019.06*: &nbsp;金融数学学士，<a href="https://www.gxu.edu.cn/" target="_blank"><span class="primary-gradient-text">广西大学</span></a>（211工程高校）。
+
+<span class='anchor' id='teaching'></span>
 
 # <i class="fas fa-chalkboard-teacher"></i> 教学
 
@@ -168,6 +176,8 @@ lang: zh
 - 金融大数据技术与应用
 - 大数据在金融中的应用
 - 计量经济学
+
+<span class='anchor' id='notes'></span>
 
 # <i class="fas fa-blog"></i> 笔记
 

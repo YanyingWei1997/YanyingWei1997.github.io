@@ -1,0 +1,19 @@
+# 中文导航菜单
+main:
+  - title: "关于我"
+    url: "/zh/#about-me"
+
+  - title: "动态"
+    url: "/zh/#news"
+
+  - title: "代表性成果"
+    url: "/zh/#publications"
+
+  - title: "教育背景"
+    url: "/zh/#education"
+
+  - title: "教学"
+    url: "/zh/#teaching"
+
+  - title: "笔记"
+    url: "/zh/#notes"
