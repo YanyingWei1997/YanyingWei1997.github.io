@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">Commercial Bank Loan Security Management Diagram</title>
-  <desc id="desc">A schematic showing digital bank loan data, risk control, and security management.</desc>
+  <desc id="desc">Simplified digital loan data, risk control, and security governance diagram.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#f8fbff"/>
@@ -10,31 +10,25 @@
       <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#012f63" flood-opacity=".11"/>
     </filter>
   </defs>
-  <rect width="720" height="420" rx="26" fill="url(#bg)"/>
+  <rect width="720" height="420" rx="28" fill="url(#bg)"/>
   <g filter="url(#shadow)">
-    <rect x="58" y="64" width="604" height="270" rx="20" fill="#fff" stroke="#dbe7f4"/>
+    <rect x="60" y="102" width="600" height="230" rx="22" fill="#fff" stroke="#dbe7f4"/>
   </g>
-  <text x="86" y="104" fill="#012f63" font-family="Arial, sans-serif" font-size="23" font-weight="700">Digital Loan Security Management</text>
-  <g transform="translate(104 140)">
-    <rect x="0" y="0" width="142" height="142" rx="18" fill="#eef6ff" stroke="#7aa6c8" stroke-width="4"/>
-    <rect x="35" y="32" width="72" height="80" rx="8" fill="#fff" stroke="#7aa6c8" stroke-width="4"/>
-    <path d="M50 56 H92 M50 76 H92 M50 96 H80" stroke="#012f63" stroke-width="5" stroke-linecap="round"/>
-    <text x="22" y="178" fill="#012f63" font-family="Arial, sans-serif" font-size="17" font-weight="700">Loan Data</text>
+  <g transform="translate(112 152)">
+    <rect x="0" y="12" width="142" height="142" rx="20" fill="#eef6ff" stroke="#7aa6c8" stroke-width="5"/>
+    <rect x="38" y="42" width="68" height="78" rx="8" fill="#fff" stroke="#7aa6c8" stroke-width="5"/>
+    <path d="M52 66 H92 M52 86 H92 M52 106 H78" stroke="#012f63" stroke-width="6" stroke-linecap="round"/>
   </g>
-  <g transform="translate(300 126)">
-    <path d="M72 18 L132 42 V100 C132 148, 102 176, 72 192 C42 176, 12 148, 12 100 V42 Z" fill="#fff7f8" stroke="#fe667b" stroke-width="5"/>
-    <path d="M42 100 L64 122 L106 72" fill="none" stroke="#012f63" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="19" y="230" fill="#012f63" font-family="Arial, sans-serif" font-size="17" font-weight="700">Risk Control</text>
+  <g transform="translate(312 134)">
+    <path d="M82 20 L150 48 V112 C150 166, 116 198, 82 216 C48 198, 14 166, 14 112 V48 Z" fill="#fff7f8" stroke="#fe667b" stroke-width="6"/>
+    <path d="M48 116 L72 140 L118 86" fill="none" stroke="#012f63" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
-  <g transform="translate(500 144)">
-    <rect x="0" y="0" width="128" height="132" rx="16" fill="#eef6ff" stroke="#7aa6c8" stroke-width="4"/>
-    <circle cx="64" cy="58" r="28" fill="#fe667b" opacity=".9"/>
-    <path d="M64 40 V60 L80 70" stroke="#fff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M26 104 H102" stroke="#012f63" stroke-width="6" stroke-linecap="round"/>
-    <text x="4" y="176" fill="#012f63" font-family="Arial, sans-serif" font-size="17" font-weight="700">Audit Trail</text>
+  <g transform="translate(528 160)">
+    <rect x="0" y="0" width="124" height="132" rx="18" fill="#eef6ff" stroke="#7aa6c8" stroke-width="5"/>
+    <circle cx="62" cy="56" r="30" fill="#fe667b" opacity=".92"/>
+    <path d="M62 38 V58 L78 70" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M26 106 H98" stroke="#012f63" stroke-width="7" stroke-linecap="round"/>
   </g>
-  <path d="M248 210 H300 M444 210 H500" stroke="#c9d7e7" stroke-width="7" stroke-linecap="round"/>
-  <text x="108" y="364" fill="#5b6f86" font-family="Arial, sans-serif" font-size="18">Digital empowerment</text>
-  <text x="336" y="364" fill="#5b6f86" font-family="Arial, sans-serif" font-size="18">Security</text>
-  <text x="510" y="364" fill="#5b6f86" font-family="Arial, sans-serif" font-size="18">Governance</text>
+  <path d="M256 236 H320 M470 236 H528" stroke="#c9d7e7" stroke-width="8" stroke-linecap="round"/>
+  <text x="168" y="72" fill="#012f63" font-family="Arial, sans-serif" font-size="28" font-weight="700">Digital Loan Security</text>
 </svg>

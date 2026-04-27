@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">Stock Connect Investment Efficiency Diagram</title>
-  <desc id="desc">A schematic showing capital market opening, investment efficiency, and total factor productivity.</desc>
+  <desc id="desc">Simplified capital market opening, efficiency, and productivity diagram.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#f7fbff"/>
@@ -10,32 +10,26 @@
       <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#012f63" flood-opacity=".11"/>
     </filter>
   </defs>
-  <rect width="720" height="420" rx="26" fill="url(#bg)"/>
+  <rect width="720" height="420" rx="28" fill="url(#bg)"/>
   <g filter="url(#shadow)">
-    <rect x="54" y="64" width="612" height="270" rx="20" fill="#fff" stroke="#dbe7f4"/>
+    <rect x="60" y="102" width="600" height="230" rx="22" fill="#fff" stroke="#dbe7f4"/>
   </g>
-  <text x="82" y="104" fill="#012f63" font-family="Arial, sans-serif" font-size="23" font-weight="700">Capital Market Opening</text>
-  <g transform="translate(92 138)">
-    <rect x="0" y="70" width="178" height="88" rx="14" fill="#eef6ff" stroke="#7aa6c8" stroke-width="4"/>
-    <text x="28" y="106" fill="#012f63" font-family="Arial, sans-serif" font-size="20" font-weight="700">SZ-HK</text>
-    <text x="26" y="132" fill="#012f63" font-family="Arial, sans-serif" font-size="18">Stock Connect</text>
-    <path d="M28 42 C64 12, 110 12, 146 42" fill="none" stroke="#fe667b" stroke-width="6" stroke-linecap="round"/>
-    <circle cx="28" cy="42" r="10" fill="#fe667b"/>
-    <circle cx="146" cy="42" r="10" fill="#fe667b"/>
+  <g transform="translate(108 156)">
+    <rect x="0" y="42" width="164" height="92" rx="16" fill="#eef6ff" stroke="#7aa6c8" stroke-width="5"/>
+    <path d="M30 28 C66 0, 106 0, 142 28" fill="none" stroke="#fe667b" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="30" cy="28" r="12" fill="#fe667b"/>
+    <circle cx="142" cy="28" r="12" fill="#fe667b"/>
+    <text x="42" y="96" fill="#012f63" font-family="Arial, sans-serif" font-size="24" font-weight="700">SZ-HK</text>
   </g>
-  <g transform="translate(314 125)">
-    <rect x="0" y="50" width="150" height="136" rx="16" fill="#fff7f8" stroke="#fe667b" stroke-width="4"/>
-    <path d="M35 148 V98 M74 148 V78 M113 148 V116" stroke="#fe667b" stroke-width="12" stroke-linecap="round"/>
-    <text x="18" y="218" fill="#012f63" font-family="Arial, sans-serif" font-size="17" font-weight="700">Efficiency</text>
+  <g transform="translate(326 148)">
+    <rect x="0" y="50" width="142" height="132" rx="18" fill="#fff7f8" stroke="#fe667b" stroke-width="5"/>
+    <path d="M34 142 V92 M70 142 V72 M106 142 V110" stroke="#fe667b" stroke-width="14" stroke-linecap="round"/>
   </g>
-  <g transform="translate(510 140)">
-    <rect x="0" y="50" width="130" height="118" rx="16" fill="#eef6ff" stroke="#7aa6c8" stroke-width="4"/>
-    <path d="M26 128 L58 96 L76 110 L108 72" fill="none" stroke="#012f63" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="108" cy="72" r="10" fill="#fe667b"/>
-    <text x="31" y="202" fill="#012f63" font-family="Arial, sans-serif" font-size="18" font-weight="700">TFP</text>
+  <g transform="translate(528 156)">
+    <rect x="0" y="42" width="124" height="120" rx="18" fill="#eef6ff" stroke="#7aa6c8" stroke-width="5"/>
+    <path d="M24 122 L54 88 L74 104 L104 66" fill="none" stroke="#012f63" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="104" cy="66" r="12" fill="#fe667b"/>
   </g>
-  <path d="M272 248 H314 M464 248 H510" stroke="#c9d7e7" stroke-width="7" stroke-linecap="round"/>
-  <text x="102" y="366" fill="#5b6f86" font-family="Arial, sans-serif" font-size="18">Opening</text>
-  <text x="310" y="366" fill="#5b6f86" font-family="Arial, sans-serif" font-size="18">Investment allocation</text>
-  <text x="520" y="366" fill="#5b6f86" font-family="Arial, sans-serif" font-size="18">Productivity</text>
+  <path d="M274 240 H326 M468 240 H528" stroke="#c9d7e7" stroke-width="8" stroke-linecap="round"/>
+  <text x="206" y="72" fill="#012f63" font-family="Arial, sans-serif" font-size="28" font-weight="700">Stock Connect & TFP</text>
 </svg>
