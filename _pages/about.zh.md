@@ -6,6 +6,8 @@ author_profile: true
 lang: zh
 ---
 
+<span class='anchor' id='about-me'></span>
+
 我叫<span class="accent-text">韦艳莹</span>（Yanying Wei），现任<i class="fas fa-university"></i> <a href="https://www.unn.edu.cn/" target="_blank">**南宁学院**</a>数字经济学院金融科技系讲师。我在<i class="fas fa-university"></i> <a href="https://www.ucas.ac.cn/" target="_blank">**中国科学院大学**</a>获得金融学硕士学位（导师：<a href="https://baike.baidu.com/item/%E8%91%A3%E7%A5%9A%E7%BB%A7/8711508" target="_blank">董祚继教授</a>），在<i class="fas fa-university"></i> <a href="https://www.gxu.edu.cn/" target="_blank">**广西大学**</a>获得金融数学学士学位。
 
 我的研究兴趣包括<span class="accent-text">计算社会科学</span>、<span class="accent-text">政策仿真与基于主体的建模</span>、产业经济学、区域经济学以及机器学习在社会经济系统中的应用。

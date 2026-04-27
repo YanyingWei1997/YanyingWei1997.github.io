@@ -59,8 +59,6 @@ author:
   youtube          :
   wikipedia        :
 
-languages:
-  - en
 default_lang: "en"
 t:
   en:
@@ -159,13 +157,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-polyglot
-
-# Polyglot configuration
-languages: ["en", "zh"]
-default_lang: "en"
-exclude_from_localization: ["assets", "images", "css", "js", "_site"]
-parallel_localization: false
 
 whitelist:
   - jekyll-paginate
@@ -173,7 +164,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-polyglot
 
 compress_html:
   clippings: all
