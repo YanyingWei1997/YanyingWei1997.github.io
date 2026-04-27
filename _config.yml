@@ -165,6 +165,7 @@ plugins:
 languages: ["zh", "en"]
 default_lang: "zh"
 exclude_from_localization: ["assets", "images", "css", "js", "_site"]
+parallel_localization: false
 
 whitelist:
   - jekyll-paginate
