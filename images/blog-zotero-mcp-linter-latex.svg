@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Claude Codex Zotero MCP Linter LaTeX reference workflow</title>
+  <desc id="desc">A clean workflow diagram showing AI candidate search, Zotero metadata cleaning, verification, Better BibTeX export, and LaTeX citation use.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7fbff"/>
+      <stop offset="0.55" stop-color="#eef6f7"/>
+      <stop offset="1" stop-color="#fff5f6"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#012f63"/>
+      <stop offset="1" stop-color="#fe667b"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#012f63" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="84" y="78" width="1432" height="744" rx="28" fill="#ffffff" opacity="0.88" filter="url(#shadow)"/>
+
+  <text x="128" y="164" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800" fill="#012f63">
+    AI 核查参考文献流程
+  </text>
+  <text x="128" y="216" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600" fill="#526070">
+    Claude / Codex + Zotero MCP + Linter + Better BibTeX + LaTeX
+  </text>
+
+  <g transform="translate(128 300)" font-family="Inter, Arial, sans-serif">
+    <g filter="url(#shadow)">
+      <rect x="0" y="0" width="235" height="138" rx="18" fill="#f3f8ff" stroke="#b9d6f7"/>
+      <text x="28" y="48" font-size="28" font-weight="800" fill="#012f63">AI 候选</text>
+      <text x="28" y="88" font-size="22" fill="#526070">找文献 / 生成</text>
+      <text x="28" y="118" font-size="22" fill="#526070">candidate bib</text>
+    </g>
+
+    <path d="M255 69 H330" stroke="#8ba4bd" stroke-width="7" stroke-linecap="round"/>
+    <path d="M330 69 l-20 -14 v28 z" fill="#8ba4bd"/>
+
+    <g transform="translate(360 0)" filter="url(#shadow)">
+      <rect x="0" y="0" width="235" height="138" rx="18" fill="#f6fbf3" stroke="#c5dfba"/>
+      <text x="28" y="48" font-size="28" font-weight="800" fill="#1d5d3a">Zotero</text>
+      <text x="28" y="88" font-size="22" fill="#526070">00_AI_Candidates</text>
+      <text x="28" y="118" font-size="22" fill="#526070">文献入库</text>
+    </g>
+
+    <path d="M615 69 H690" stroke="#8ba4bd" stroke-width="7" stroke-linecap="round"/>
+    <path d="M690 69 l-20 -14 v28 z" fill="#8ba4bd"/>
+
+    <g transform="translate(720 0)" filter="url(#shadow)">
+      <rect x="0" y="0" width="235" height="138" rx="18" fill="#fff9ec" stroke="#efd193"/>
+      <text x="28" y="48" font-size="28" font-weight="800" fill="#8a5a00">Linter</text>
+      <text x="28" y="88" font-size="22" fill="#526070">清洗 DOI / 标题</text>
+      <text x="28" y="118" font-size="22" fill="#526070">作者 / 年份</text>
+    </g>
+
+    <path d="M975 69 H1050" stroke="#8ba4bd" stroke-width="7" stroke-linecap="round"/>
+    <path d="M1050 69 l-20 -14 v28 z" fill="#8ba4bd"/>
+
+    <g transform="translate(1080 0)" filter="url(#shadow)">
+      <rect x="0" y="0" width="235" height="138" rx="18" fill="#fff3f5" stroke="#f2b3bf"/>
+      <text x="28" y="48" font-size="28" font-weight="800" fill="#b9284c">MCP 回读</text>
+      <text x="28" y="88" font-size="22" fill="#526070">核查 DOI</text>
+      <text x="28" y="118" font-size="22" fill="#526070">abstract / metadata</text>
+    </g>
+  </g>
+
+  <g transform="translate(278 548)" font-family="Inter, Arial, sans-serif">
+    <g filter="url(#shadow)">
+      <rect x="0" y="0" width="310" height="132" rx="18" fill="#f8f4ff" stroke="#cab8ee"/>
+      <text x="30" y="50" font-size="28" font-weight="800" fill="#4f2e84">02_Verified</text>
+      <text x="30" y="90" font-size="22" fill="#526070">只保留核查通过条目</text>
+    </g>
+
+    <path d="M332 66 H440" stroke="#8ba4bd" stroke-width="7" stroke-linecap="round"/>
+    <path d="M440 66 l-20 -14 v28 z" fill="#8ba4bd"/>
+
+    <g transform="translate(470 0)" filter="url(#shadow)">
+      <rect x="0" y="0" width="310" height="132" rx="18" fill="#eefafa" stroke="#aee1e1"/>
+      <text x="30" y="50" font-size="28" font-weight="800" fill="#00616b">Better BibTeX</text>
+      <text x="30" y="90" font-size="22" fill="#526070">导出 verified.bib</text>
+    </g>
+
+    <path d="M802 66 H910" stroke="#8ba4bd" stroke-width="7" stroke-linecap="round"/>
+    <path d="M910 66 l-20 -14 v28 z" fill="#8ba4bd"/>
+
+    <g transform="translate(940 0)" filter="url(#shadow)">
+      <rect x="0" y="0" width="310" height="132" rx="18" fill="#f3f8ff" stroke="#b9d6f7"/>
+      <text x="30" y="50" font-size="28" font-weight="800" fill="#012f63">LaTeX / Word</text>
+      <text x="30" y="90" font-size="22" fill="#526070">正文只引用 verified.bib</text>
+    </g>
+  </g>
+
+  <rect x="128" y="760" width="1344" height="10" rx="5" fill="url(#accent)"/>
+  <text x="128" y="814" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700" fill="#012f63">
+    核心原则：AI 负责候选，Zotero 负责管理，最终引用只来自 verified.bib
+  </text>
+</svg>
