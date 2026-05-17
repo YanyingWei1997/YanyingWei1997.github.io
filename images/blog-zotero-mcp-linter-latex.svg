@@ -1,98 +1,137 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
-  <title id="title">Claude Codex Zotero MCP Linter LaTeX reference workflow</title>
-  <desc id="desc">A clean workflow diagram showing AI candidate search, Zotero metadata cleaning, verification, Better BibTeX export, and LaTeX citation use.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Verified references workflow</title>
+  <desc id="desc">A soft academic illustration showing AI-assisted literature candidates being checked through Zotero, metadata cleanup, and verified BibTeX export.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#f7fbff"/>
-      <stop offset="0.55" stop-color="#eef6f7"/>
-      <stop offset="1" stop-color="#fff5f6"/>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eef5ff"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#012f63"/>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff7b86"/>
       <stop offset="1" stop-color="#fe667b"/>
     </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#012f63" flood-opacity="0.16"/>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#012f63" flood-opacity="0.12"/>
     </filter>
   </defs>
 
-  <rect width="1600" height="900" fill="url(#bg)"/>
-  <rect x="84" y="78" width="1432" height="744" rx="28" fill="#ffffff" opacity="0.88" filter="url(#shadow)"/>
+  <rect width="1200" height="675" fill="#ffffff"/>
+  <path d="M65 495 C120 365, 180 210, 350 190 C515 170, 565 80, 735 95 C910 110, 945 230, 1095 250 C1210 266, 1240 395, 1138 525 C1040 648, 790 620, 610 600 C410 578, 205 632, 65 495 Z" fill="#f0f6ff" opacity="0.86"/>
+  <path d="M915 552 C980 505, 1035 527, 1088 575" fill="none" stroke="#d8e5f7" stroke-width="6" stroke-linecap="round"/>
 
-  <text x="128" y="164" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800" fill="#012f63">
-    AI 核查参考文献流程
-  </text>
-  <text x="128" y="216" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600" fill="#526070">
-    Claude / Codex + Zotero MCP + Linter + Better BibTeX + LaTeX
-  </text>
-
-  <g transform="translate(128 300)" font-family="Inter, Arial, sans-serif">
-    <g filter="url(#shadow)">
-      <rect x="0" y="0" width="235" height="138" rx="18" fill="#f3f8ff" stroke="#b9d6f7"/>
-      <text x="28" y="48" font-size="28" font-weight="800" fill="#012f63">AI 候选</text>
-      <text x="28" y="88" font-size="22" fill="#526070">找文献 / 生成</text>
-      <text x="28" y="118" font-size="22" fill="#526070">candidate bib</text>
-    </g>
-
-    <path d="M255 69 H330" stroke="#8ba4bd" stroke-width="7" stroke-linecap="round"/>
-    <path d="M330 69 l-20 -14 v28 z" fill="#8ba4bd"/>
-
-    <g transform="translate(360 0)" filter="url(#shadow)">
-      <rect x="0" y="0" width="235" height="138" rx="18" fill="#f6fbf3" stroke="#c5dfba"/>
-      <text x="28" y="48" font-size="28" font-weight="800" fill="#1d5d3a">Zotero</text>
-      <text x="28" y="88" font-size="22" fill="#526070">00_AI_Candidates</text>
-      <text x="28" y="118" font-size="22" fill="#526070">文献入库</text>
-    </g>
-
-    <path d="M615 69 H690" stroke="#8ba4bd" stroke-width="7" stroke-linecap="round"/>
-    <path d="M690 69 l-20 -14 v28 z" fill="#8ba4bd"/>
-
-    <g transform="translate(720 0)" filter="url(#shadow)">
-      <rect x="0" y="0" width="235" height="138" rx="18" fill="#fff9ec" stroke="#efd193"/>
-      <text x="28" y="48" font-size="28" font-weight="800" fill="#8a5a00">Linter</text>
-      <text x="28" y="88" font-size="22" fill="#526070">清洗 DOI / 标题</text>
-      <text x="28" y="118" font-size="22" fill="#526070">作者 / 年份</text>
-    </g>
-
-    <path d="M975 69 H1050" stroke="#8ba4bd" stroke-width="7" stroke-linecap="round"/>
-    <path d="M1050 69 l-20 -14 v28 z" fill="#8ba4bd"/>
-
-    <g transform="translate(1080 0)" filter="url(#shadow)">
-      <rect x="0" y="0" width="235" height="138" rx="18" fill="#fff3f5" stroke="#f2b3bf"/>
-      <text x="28" y="48" font-size="28" font-weight="800" fill="#b9284c">MCP 回读</text>
-      <text x="28" y="88" font-size="22" fill="#526070">核查 DOI</text>
-      <text x="28" y="118" font-size="22" fill="#526070">abstract / metadata</text>
-    </g>
+  <g opacity="0.75">
+    <circle cx="1010" cy="48" r="3" fill="#9dbce5"/>
+    <circle cx="1028" cy="48" r="3" fill="#9dbce5"/>
+    <circle cx="1046" cy="48" r="3" fill="#9dbce5"/>
+    <circle cx="1064" cy="48" r="3" fill="#9dbce5"/>
+    <circle cx="1082" cy="48" r="3" fill="#9dbce5"/>
+    <circle cx="1100" cy="48" r="3" fill="#9dbce5"/>
+    <circle cx="1010" cy="66" r="3" fill="#9dbce5"/>
+    <circle cx="1028" cy="66" r="3" fill="#9dbce5"/>
+    <circle cx="1046" cy="66" r="3" fill="#9dbce5"/>
+    <circle cx="1064" cy="66" r="3" fill="#9dbce5"/>
+    <circle cx="1082" cy="66" r="3" fill="#9dbce5"/>
+    <circle cx="1100" cy="66" r="3" fill="#9dbce5"/>
+    <circle cx="1010" cy="84" r="3" fill="#9dbce5"/>
+    <circle cx="1028" cy="84" r="3" fill="#9dbce5"/>
+    <circle cx="1046" cy="84" r="3" fill="#9dbce5"/>
+    <circle cx="1064" cy="84" r="3" fill="#9dbce5"/>
+    <circle cx="1082" cy="84" r="3" fill="#9dbce5"/>
+    <circle cx="1100" cy="84" r="3" fill="#9dbce5"/>
   </g>
 
-  <g transform="translate(278 548)" font-family="Inter, Arial, sans-serif">
-    <g filter="url(#shadow)">
-      <rect x="0" y="0" width="310" height="132" rx="18" fill="#f8f4ff" stroke="#cab8ee"/>
-      <text x="30" y="50" font-size="28" font-weight="800" fill="#4f2e84">02_Verified</text>
-      <text x="30" y="90" font-size="22" fill="#526070">只保留核查通过条目</text>
-    </g>
-
-    <path d="M332 66 H440" stroke="#8ba4bd" stroke-width="7" stroke-linecap="round"/>
-    <path d="M440 66 l-20 -14 v28 z" fill="#8ba4bd"/>
-
-    <g transform="translate(470 0)" filter="url(#shadow)">
-      <rect x="0" y="0" width="310" height="132" rx="18" fill="#eefafa" stroke="#aee1e1"/>
-      <text x="30" y="50" font-size="28" font-weight="800" fill="#00616b">Better BibTeX</text>
-      <text x="30" y="90" font-size="22" fill="#526070">导出 verified.bib</text>
-    </g>
-
-    <path d="M802 66 H910" stroke="#8ba4bd" stroke-width="7" stroke-linecap="round"/>
-    <path d="M910 66 l-20 -14 v28 z" fill="#8ba4bd"/>
-
-    <g transform="translate(940 0)" filter="url(#shadow)">
-      <rect x="0" y="0" width="310" height="132" rx="18" fill="#f3f8ff" stroke="#b9d6f7"/>
-      <text x="30" y="50" font-size="28" font-weight="800" fill="#012f63">LaTeX / Word</text>
-      <text x="30" y="90" font-size="22" fill="#526070">正文只引用 verified.bib</text>
-    </g>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="84" y="105" font-size="44" font-weight="800" fill="#012f63">Reference Check</text>
+    <rect x="84" y="125" width="74" height="7" rx="4" fill="#fe667b"/>
+    <circle cx="174" cy="128" r="4" fill="#fe667b"/>
   </g>
 
-  <rect x="128" y="760" width="1344" height="10" rx="5" fill="url(#accent)"/>
-  <text x="128" y="814" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700" fill="#012f63">
-    核心原则：AI 负责候选，Zotero 负责管理，最终引用只来自 verified.bib
-  </text>
+  <g transform="translate(355 166)" filter="url(#softShadow)">
+    <rect x="0" y="0" width="505" height="306" rx="18" fill="#082c62"/>
+    <rect x="12" y="28" width="481" height="260" rx="8" fill="url(#screen)"/>
+    <circle cx="34" cy="14" r="6" fill="#ff7b86"/>
+    <circle cx="54" cy="14" r="6" fill="#ffd36a"/>
+    <circle cx="74" cy="14" r="6" fill="#8bd3bf"/>
+
+    <rect x="42" y="64" width="118" height="178" rx="10" fill="#ffffff" stroke="#c8d8ee"/>
+    <rect x="64" y="88" width="74" height="8" rx="4" fill="#b8c9df"/>
+    <rect x="64" y="112" width="58" height="7" rx="4" fill="#d3deed"/>
+    <rect x="64" y="135" width="78" height="7" rx="4" fill="#d3deed"/>
+    <rect x="64" y="158" width="48" height="7" rx="4" fill="#d3deed"/>
+    <rect x="64" y="181" width="70" height="7" rx="4" fill="#d3deed"/>
+    <rect x="64" y="204" width="54" height="7" rx="4" fill="#d3deed"/>
+
+    <rect x="195" y="62" width="242" height="46" rx="12" fill="#ffffff" stroke="#c8d8ee"/>
+    <rect x="214" y="82" width="34" height="20" rx="5" fill="url(#pink)"/>
+    <rect x="267" y="78" width="120" height="7" rx="4" fill="#082c62"/>
+    <rect x="267" y="94" width="86" height="6" rx="3" fill="#b8c9df"/>
+
+    <rect x="195" y="130" width="242" height="46" rx="12" fill="#ffffff" stroke="#c8d8ee"/>
+    <rect x="214" y="150" width="34" height="20" rx="5" fill="#9bb6d8"/>
+    <rect x="267" y="146" width="102" height="7" rx="4" fill="#082c62"/>
+    <rect x="267" y="162" width="128" height="6" rx="3" fill="#b8c9df"/>
+
+    <rect x="195" y="198" width="242" height="46" rx="12" fill="#ffffff" stroke="#c8d8ee"/>
+    <rect x="214" y="218" width="34" height="20" rx="5" fill="#c8d8ee"/>
+    <rect x="267" y="214" width="96" height="7" rx="4" fill="#082c62"/>
+    <rect x="267" y="230" width="116" height="6" rx="3" fill="#b8c9df"/>
+  </g>
+
+  <g transform="translate(176 316)" filter="url(#softShadow)">
+    <path d="M0 0 L238 0 L238 162 L0 162 Z" fill="#ffffff" stroke="#b8c9df" stroke-width="2"/>
+    <path d="M0 0 L238 0 L238 34 L0 34 Z" fill="#f5f9ff"/>
+    <text x="24" y="88" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="800" fill="#012f63">candidate.bib</text>
+    <rect x="24" y="112" width="138" height="7" rx="4" fill="#b8c9df"/>
+    <rect x="24" y="132" width="180" height="7" rx="4" fill="#d3deed"/>
+    <circle cx="212" cy="31" r="31" fill="url(#pink)"/>
+    <path d="M198 30 l10 10 l20 -24" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g transform="translate(805 350)" filter="url(#softShadow)">
+    <rect x="0" y="0" width="232" height="134" rx="18" fill="#ffffff" stroke="#b8c9df" stroke-width="2"/>
+    <text x="28" y="54" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="800" fill="#012f63">verified.bib</text>
+    <rect x="28" y="78" width="112" height="7" rx="4" fill="#fe667b"/>
+    <rect x="28" y="99" width="160" height="7" rx="4" fill="#c8d8ee"/>
+    <circle cx="203" cy="103" r="27" fill="#ffffff" stroke="#fe667b" stroke-width="4"/>
+    <path d="M190 102 l9 9 l18 -24" fill="none" stroke="#fe667b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g transform="translate(130 454)">
+    <path d="M0 100 C25 63, 55 35, 98 21" fill="none" stroke="#afc9c4" stroke-width="7" stroke-linecap="round"/>
+    <path d="M58 54 C33 42, 18 31, 8 10 C36 9, 58 22, 70 43 Z" fill="#b7d2cc" opacity="0.9"/>
+    <path d="M88 33 C67 16, 60 -3, 64 -30 C91 -17, 103 6, 99 30 Z" fill="#c6d8f0"/>
+    <path d="M35 80 C12 78,-6 67,-22 47 C7 39, 31 45, 49 66 Z" fill="#b7d2cc" opacity="0.9"/>
+  </g>
+
+  <g transform="translate(165 198)" fill="none" stroke="#012f63" stroke-width="3" stroke-dasharray="7 8" opacity="0.9">
+    <path d="M110 126 C160 68, 234 42, 320 67"/>
+    <path d="M665 98 C755 82, 828 115, 874 171"/>
+    <path d="M330 286 C470 342, 585 338, 710 283"/>
+  </g>
+
+  <g transform="translate(250 168)">
+    <circle cx="0" cy="0" r="44" fill="#ffffff" stroke="#012f63" stroke-width="7"/>
+    <path d="M33 34 L72 73" stroke="#012f63" stroke-width="14" stroke-linecap="round"/>
+    <rect x="-18" y="-12" width="38" height="8" rx="4" fill="#c8d8ee"/>
+    <rect x="-18" y="8" width="28" height="8" rx="4" fill="#fe667b"/>
+  </g>
+
+  <g transform="translate(930 165)">
+    <circle cx="0" cy="0" r="42" fill="#ffffff" stroke="#012f63" stroke-width="4"/>
+    <path d="M-15 -18 H10 L24 -4 V23 H-15 Z" fill="#f8fbff" stroke="#012f63" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M10 -18 V-4 H24" fill="none" stroke="#012f63" stroke-width="3"/>
+    <rect x="-6" y="3" width="22" height="4" rx="2" fill="#b8c9df"/>
+    <rect x="-6" y="14" width="16" height="4" rx="2" fill="#fe667b"/>
+  </g>
+
+  <g transform="translate(1005 526)">
+    <rect x="0" y="0" width="62" height="62" rx="16" fill="#ffffff" stroke="#012f63" stroke-width="3"/>
+    <text x="31" y="40" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#012f63">LaTeX</text>
+  </g>
+
+  <g opacity="0.95">
+    <circle cx="1085" cy="562" r="8" fill="#fe667b"/>
+    <circle cx="1114" cy="534" r="6" fill="#012f63"/>
+    <path d="M1085 562 L1114 534 L1142 552" fill="none" stroke="#fe667b" stroke-width="4" stroke-linecap="round"/>
+  </g>
 </svg>

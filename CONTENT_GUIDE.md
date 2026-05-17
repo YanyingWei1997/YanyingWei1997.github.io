@@ -128,11 +128,18 @@ Recommended dimensions:
 
 Visual style:
 
-- Covers should reveal the topic directly, not just use abstract decoration.
-- For technical tutorials, use a clear workflow, tool interface, or concept diagram.
+- Covers must match the existing site style used by `blog-stata-ai.png`, `blog-literature-review.png`, and the publication cards.
+- Use a clean white or very pale blue background with soft abstract waves, not a dark dashboard or dense flowchart.
+- Use the site palette: deep navy `#012F63` / `#082C62`, coral `#FE667B`, pale blue `#F0F6FF`, soft blue-gray strokes.
+- Use thin navy outlines, rounded cards/windows, soft shadows, dotted connector lines, small document/chart icons, and a few subtle dotted decorations.
+- Put one short English title in the upper-left only when useful, for example `Reference Check`; avoid long Chinese titles inside the image because the card already shows the article title.
+- Use topic-specific objects: laptop, documents, magnifying glass, Zotero/library panel, verified checkmark, `verified.bib`, LaTeX icon.
+- Keep the composition airy: one main object in the center, two or three supporting objects, generous whitespace.
+- For technical tutorials, use a clear workflow or tool interface, but keep it illustrative rather than a rigid process diagram.
 - For academic outputs, use a clean research-style diagram or topic-relevant visual.
 - Avoid overly dark, blurry, cropped, or generic stock-like images.
-- Avoid one-note decorative gradients, random blobs, or purely atmospheric backgrounds.
+- Avoid saturated gradients, large boxed flowcharts, heavy shadows, random blobs, and purely atmospheric backgrounds.
+- Before accepting a cover, compare it side by side with `images/blog-stata-ai.png` and `images/blog-literature-review.png`.
 
 Front matter example:
 
