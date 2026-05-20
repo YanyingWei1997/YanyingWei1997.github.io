@@ -153,7 +153,7 @@ lang: zh
   <div class='paper-box-text'>
     <h3>Commercial Bank Loan Digital Empowerment Security Management System V1.0</h3>
     <div class="authors">Xie, X., Zai, D., Li, Y., <strong>Yanying Wei</strong>, & Wang, Y.</div>
-    <div class="venue">Software Copyright, 2024. Nanning College. Registration No. 2024SR1017636.</div>
+    <div class="venue">Software Copyright, 2024. Nanning University. Registration No. 2024SR1017636.</div>
     <div class="links">
       <a href="/images/sw1.png" class="btn-accent"><i class="fas fa-certificate"></i> Certificate</a>
     </div>

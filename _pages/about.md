@@ -11,7 +11,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Yanying Wei</span> (韦艳莹). I am a lecturer in Financial Technology at <i class="fas fa-university"></i> <a href="https://en.unn.edu.cn/" target="_blank">**Nanning College**</a>, School of Digital Economics. I received my M.Sc. in Finance from <i class="fas fa-university"></i> <a href="https://english.cas.cn/" target="_blank">**University of Chinese Academy of Sciences**</a> (Advisor: <a href="https://baike.baidu.com/item/%E8%91%A3%E7%A5%9A%E7%BB%A7/8711508" target="_blank">Prof. Zuoji Dong</a>) and my B.Sc. in Financial Mathematics from <i class="fas fa-university"></i> <a href="https://www.gxu.edu.cn/en/" target="_blank">**Guangxi University**</a>.
+My name is <span class="accent-text">Yanying Wei</span> (韦艳莹). I am a lecturer in Financial Technology at <i class="fas fa-university"></i> <a href="https://en.unn.edu.cn/" target="_blank">**Nanning University**</a>, School of Digital Economics. I received my M.Sc. in Finance from <i class="fas fa-university"></i> <a href="https://english.cas.cn/" target="_blank">**University of Chinese Academy of Sciences**</a> (Advisor: <a href="https://baike.baidu.com/item/%E8%91%A3%E7%A5%9A%E7%BB%A7/8711508" target="_blank">Prof. Zuoji Dong</a>) and my B.Sc. in Financial Mathematics from <i class="fas fa-university"></i> <a href="https://www.gxu.edu.cn/en/" target="_blank">**Guangxi University**</a>.
 
 My research interests include <span class="accent-text">computational social science</span>, <span class="accent-text">policy simulation and agent-based modeling</span>, industrial economics, regional economics, and machine learning applications in socioeconomic systems.
 
@@ -52,11 +52,11 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 
 # <i class="fas fa-fire"></i> News
 
-- *2025*: &nbsp;Promoted to Lecturer at the School of Digital Economics, <span class="primary-gradient-text">Nanning College</span>.
+- *2025*: &nbsp;Promoted to Lecturer at the School of Digital Economics, <span class="primary-gradient-text">Nanning University</span>.
 - *2025*: &nbsp;Awarded provincial research funding for value-capture challenges and hub reconfiguration pathways in the Guangxi corridor economy.
 - *2025*: &nbsp;Paper published in ACM EDAI 2025 on Dynamic Network-LSTM Model for Infrastructure REITs analysis.
 - *2024*: &nbsp;Published journal papers on technology finance efficiency, ESG and innovation, and land use change research.
-- *2022*: &nbsp;Joined Nanning College after completing the M.Sc. in Finance at the University of Chinese Academy of Sciences.
+- *2022*: &nbsp;Joined Nanning University after completing the M.Sc. in Finance at the University of Chinese Academy of Sciences.
 
 # <i class="fas fa-file-alt"></i> Publications
 
@@ -172,7 +172,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   <div class='paper-box-text'>
     <h3>Commercial Bank Loan Digital Empowerment Security Management System V1.0</h3>
     <div class="authors">Xie, X., Zai, D., Li, Y., <strong>Yanying Wei</strong>, & Wang, Y.</div>
-    <div class="venue">Software Copyright, 2024. Nanning College. Registration No. 2024SR1017636.</div>
+    <div class="venue">Software Copyright, 2024. Nanning University. Registration No. 2024SR1017636.</div>
     <div class="links">
       <a href="/images/sw1.png" class="btn-accent"><i class="fas fa-certificate"></i> Certificate</a>
     </div>
@@ -210,7 +210,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
           <span class="cv-item-title">Feixiangjia: A solid waste management platform tailored for SMEs</span>
           <span class="cv-item-date">2024–2027</span>
         </div>
-        <div class="cv-item-details"><strong>PI</strong> | Nanning College, Grant No. S2024-1154-9017X</div>
+        <div class="cv-item-details"><strong>PI</strong> | Nanning University, Grant No. S2024-1154-9017X</div>
       </li>
       <li>
         <div class="cv-item-header">
@@ -224,7 +224,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
           <span class="cv-item-title">Digital empowerment for bank loans and regulatory innovation</span>
           <span class="cv-item-date">2024</span>
         </div>
-        <div class="cv-item-details"><strong>PI</strong> | Nanning College, Grant No. S2023-1154-9126</div>
+        <div class="cv-item-details"><strong>PI</strong> | Nanning University, Grant No. S2023-1154-9126</div>
       </li>
     </ul>
   </section>
@@ -237,7 +237,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
           <span class="cv-item-title">Outstanding Graduation Thesis Advisor</span>
           <span class="cv-item-date">2024 & 2025</span>
         </div>
-        <div class="cv-item-details">Nanning College</div>
+        <div class="cv-item-details">Nanning University</div>
       </li>
       <li>
         <div class="cv-item-header">
@@ -251,7 +251,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
           <span class="cv-item-title">Third Prize</span>
           <span class="cv-item-date">2022</span>
         </div>
-        <div class="cv-item-details">Nanning College Teaching Skills Competition</div>
+        <div class="cv-item-details">Nanning University Teaching Skills Competition</div>
       </li>
     </ul>
   </section>
