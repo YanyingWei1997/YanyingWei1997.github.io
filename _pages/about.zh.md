@@ -231,7 +231,7 @@ lang: zh
           <span class="cv-item-title">优秀指导教师奖</span>
           <span class="cv-item-date">2022 & 2023</span>
         </div>
-        <div class="cv-item-details">“工商银行杯”全国大学生金融科技创新大赛</div>
+        <div class="cv-item-details">“工行杯”全国大学生金融科技创新大赛</div>
       </li>
       <li>
         <div class="cv-item-header">
