@@ -177,6 +177,73 @@ lang: zh
 - 大数据在金融中的应用
 - 计量经济学
 
+<span class='anchor' id='funding'></span>
+
+# <i class="fas fa-award"></i> 科研项目与荣誉
+
+<div class="funding-honors-grid">
+  <section class="funding-honors-panel">
+    <h3><i class="fas fa-seedling"></i> 科研项目</h3>
+    <ul class="academic-cv-list compact">
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">西部陆海新通道下广西通道经济价值获取困境与增量枢纽重塑路径研究</span>
+          <span class="cv-item-date">2025–2028</span>
+        </div>
+        <div class="cv-item-details"><strong>主持</strong> | 广西壮族自治区社科规划课题，项目编号：25JYF186</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">“废享家”面向中小微企业的固废管理平台</span>
+          <span class="cv-item-date">2024–2027</span>
+        </div>
+        <div class="cv-item-details"><strong>主持</strong> | 南宁学院，项目编号：S2024-1154-9017X</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">“双碳”目标下广西碳排放脱钩状态及驱动机制研究</span>
+          <span class="cv-item-date">2024–2025</span>
+        </div>
+        <div class="cv-item-details"><strong>主持</strong> | 广西科技厅，项目编号：2024-KY-1871</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">银行贷款数字赋能与监管创新研究</span>
+          <span class="cv-item-date">2024</span>
+        </div>
+        <div class="cv-item-details"><strong>主持</strong> | 南宁学院，项目编号：S2023-1154-9126</div>
+      </li>
+    </ul>
+  </section>
+
+  <section class="funding-honors-panel">
+    <h3><i class="fas fa-medal"></i> 荣誉 · 近五年</h3>
+    <ul class="academic-cv-list compact">
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">优秀毕业论文指导教师</span>
+          <span class="cv-item-date">2024 & 2025</span>
+        </div>
+        <div class="cv-item-details">南宁学院</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">优秀指导教师奖</span>
+          <span class="cv-item-date">2022 & 2023</span>
+        </div>
+        <div class="cv-item-details">“工商银行杯”全国大学生金融科技创新大赛</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">教学技能比赛三等奖</span>
+          <span class="cv-item-date">2022</span>
+        </div>
+        <div class="cv-item-details">南宁学院</div>
+      </li>
+    </ul>
+  </section>
+</div>
+
 <span class='anchor' id='notes'></span>
 
 # <i class="fas fa-blog"></i> 笔记
@@ -210,3 +277,89 @@ lang: zh
     {% endfor %}
   </div>
 </div>
+
+<style>
+.funding-honors-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.1rem;
+  margin: 1rem 0 2rem;
+}
+.funding-honors-panel {
+  background: #fff;
+  border: 1px solid rgba(1, 47, 99, 0.08);
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(1, 47, 99, 0.06);
+  padding: 1rem 1.1rem;
+}
+.funding-honors-panel h3 {
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+  color: var(--primary-color, #012F63);
+  border-bottom: 2px solid var(--accent-color, #FE667B);
+  padding-bottom: 0.35em;
+}
+.academic-cv-list {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0.5em;
+  margin-bottom: 2em;
+}
+.academic-cv-list li {
+  margin-bottom: 1.1em;
+  padding-bottom: 1.1em;
+  border-bottom: 1px dashed rgba(0,0,0,0.1);
+}
+.academic-cv-list.compact li {
+  margin-bottom: 1em;
+  padding-bottom: 1em;
+}
+.academic-cv-list li:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.cv-item-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 0.8rem;
+  margin-bottom: 0.4em;
+}
+.cv-item-title {
+  font-weight: 600;
+  font-size: 1.05em;
+  color: var(--primary-color, #2a7ae2);
+  flex: 1;
+  padding-right: 0;
+  line-height: 1.4;
+}
+.cv-item-date {
+  font-size: 0.9em;
+  color: #666;
+  white-space: nowrap;
+  font-weight: 500;
+  background-color: rgba(0,0,0,0.04);
+  padding: 0.2em 0.8em;
+  border-radius: 20px;
+}
+.cv-item-details {
+  color: #555;
+  font-size: 0.95em;
+  line-height: 1.5;
+}
+@media (max-width: 900px) {
+  .funding-honors-grid {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 520px) {
+  .cv-item-header {
+    display: block;
+  }
+  .cv-item-date {
+    display: inline-block;
+    margin-top: 0.35rem;
+  }
+}
+</style>

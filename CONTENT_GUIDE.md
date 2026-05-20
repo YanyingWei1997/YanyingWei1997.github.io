@@ -60,7 +60,7 @@ When adding major homepage content, update both language pages deliberately:
 Current important anchors:
 
 - English: `about-me`, generated heading anchors for `News`, `Publications`, `Education`, `Teaching`, `Funding & Honors`, `Notes`
-- Chinese: `about-me`, `news`, `publications`, `education`, `teaching`, `notes`
+- Chinese: `about-me`, `news`, `publications`, `education`, `teaching`, `funding`, `notes`
 
 Useful homepage classes:
 

@@ -15,5 +15,8 @@ main:
   - title: "教学"
     url: "/zh/#teaching"
 
+  - title: "项目荣誉"
+    url: "/zh/#funding"
+
   - title: "笔记"
     url: "/zh/#notes"
