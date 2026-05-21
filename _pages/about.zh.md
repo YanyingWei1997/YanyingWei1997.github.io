@@ -229,14 +229,14 @@ lang: zh
       <li>
         <div class="cv-item-header">
           <span class="cv-item-title">优秀毕业论文指导教师</span>
-          <span class="cv-item-date">2025</span>
+          <span class="cv-item-date">2024 & 2025</span>
         </div>
         <div class="cv-item-details">南宁学院</div>
       </li>
       <li>
         <div class="cv-item-header">
           <span class="cv-item-title">工行杯优秀指导教师</span>
-          <span class="cv-item-date">2025</span>
+          <span class="cv-item-date">2022, 2023 & 2025</span>
         </div>
         <div class="cv-item-details">中国工商银行股份有限公司广西壮族自治区分行</div>
       </li>
@@ -249,31 +249,10 @@ lang: zh
       </li>
       <li>
         <div class="cv-item-header">
-          <span class="cv-item-title">优秀毕业论文指导教师</span>
-          <span class="cv-item-date">2024</span>
-        </div>
-        <div class="cv-item-details">南宁学院</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
           <span class="cv-item-title">中国精品科技期刊顶尖学术论文</span>
           <span class="cv-item-date">2023</span>
         </div>
         <div class="cv-item-details">中国科学技术信息研究所</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">工行杯优秀指导教师</span>
-          <span class="cv-item-date">2023</span>
-        </div>
-        <div class="cv-item-details">中国工商银行股份有限公司广西壮族自治区分行</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">工行杯优秀指导教师</span>
-          <span class="cv-item-date">2022</span>
-        </div>
-        <div class="cv-item-details">中国工商银行股份有限公司广西壮族自治区分行</div>
       </li>
       <li>
         <div class="cv-item-header">
