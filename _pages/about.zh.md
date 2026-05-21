@@ -190,7 +190,7 @@ lang: zh
           <span class="cv-item-title">西部陆海新通道下广西通道经济价值获取困境与增量枢纽重塑路径研究</span>
           <span class="cv-item-date">2025–2028</span>
         </div>
-        <div class="cv-item-details"><strong>主持</strong> | 广西壮族自治区社科规划课题，项目编号：25JYF186</div>
+        <div class="cv-item-details"><strong>主持</strong> | 广西壮族自治区哲学社会科学工作办公室，项目编号：25JYF186</div>
       </li>
       <li>
         <div class="cv-item-header">
@@ -204,7 +204,7 @@ lang: zh
           <span class="cv-item-title">“双碳”目标下广西碳排放脱钩状态及驱动机制研究</span>
           <span class="cv-item-date">2024–2025</span>
         </div>
-        <div class="cv-item-details"><strong>主持</strong> | 广西科技厅，项目编号：2024-KY-1871</div>
+        <div class="cv-item-details"><strong>主持</strong> | 广西壮族自治区教育厅，项目编号：2024-KY-1871</div>
       </li>
       <li>
         <div class="cv-item-header">
@@ -212,6 +212,13 @@ lang: zh
           <span class="cv-item-date">2024</span>
         </div>
         <div class="cv-item-details"><strong>主持</strong> | 南宁学院，项目编号：S2023-1154-9126</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">Python 与 AI 编程智慧课程立项</span>
+          <span class="cv-item-date">2025</span>
+        </div>
+        <div class="cv-item-details"><strong>立项</strong> | 南宁学院</div>
       </li>
     </ul>
   </section>
@@ -221,6 +228,13 @@ lang: zh
     <ul class="academic-cv-list compact">
       <li>
         <div class="cv-item-header">
+          <span class="cv-item-title">中国精品科技期刊顶尖学术论文</span>
+          <span class="cv-item-date">2023</span>
+        </div>
+        <div class="cv-item-details">中国科学技术信息研究所</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
           <span class="cv-item-title">优秀毕业论文指导教师</span>
           <span class="cv-item-date">2024 & 2025</span>
         </div>
@@ -228,10 +242,17 @@ lang: zh
       </li>
       <li>
         <div class="cv-item-header">
-          <span class="cv-item-title">优秀指导教师奖</span>
-          <span class="cv-item-date">2022 & 2023</span>
+          <span class="cv-item-title">工行杯优秀指导教师</span>
+          <span class="cv-item-date">2022, 2023 & 2025</span>
         </div>
-        <div class="cv-item-details">“工行杯”全国大学生金融科技创新大赛</div>
+        <div class="cv-item-details">中国工商银行股份有限公司广西壮族自治区分行</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">2024-2025 南宁学院科研反哺一般典型案例</span>
+          <span class="cv-item-date">2025</span>
+        </div>
+        <div class="cv-item-details">南宁学院</div>
       </li>
       <li>
         <div class="cv-item-header">

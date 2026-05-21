@@ -203,7 +203,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
           <span class="cv-item-title">Value-capture challenges and incremental hub reconfiguration pathways for the Guangxi corridor economy under the New International Land-Sea Trade Corridor</span>
           <span class="cv-item-date">2025–2028</span>
         </div>
-        <div class="cv-item-details"><strong>PI</strong> | Guangxi Zhuang Autonomous Region, Grant No. 25JYF186</div>
+        <div class="cv-item-details"><strong>PI</strong> | Guangxi Zhuang Autonomous Region Philosophy and Social Sciences Office, Grant No. 25JYF186</div>
       </li>
       <li>
         <div class="cv-item-header">
@@ -217,7 +217,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
           <span class="cv-item-title">Research on the decoupling state and driving mechanism of carbon emissions in Guangxi under the dual-carbon target</span>
           <span class="cv-item-date">2024–2025</span>
         </div>
-        <div class="cv-item-details"><strong>PI</strong> | Bureau of Science & Technology of Guangxi, Grant No. 2024-KY-1871</div>
+        <div class="cv-item-details"><strong>PI</strong> | Department of Education of Guangxi Zhuang Autonomous Region, Grant No. 2024-KY-1871</div>
       </li>
       <li>
         <div class="cv-item-header">
@@ -225,6 +225,13 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
           <span class="cv-item-date">2024</span>
         </div>
         <div class="cv-item-details"><strong>PI</strong> | Nanning University, Grant No. S2023-1154-9126</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">Python and AI Programming Smart Course Initiative</span>
+          <span class="cv-item-date">2025</span>
+        </div>
+        <div class="cv-item-details"><strong>Approved project</strong> | Nanning University</div>
       </li>
     </ul>
   </section>
@@ -234,6 +241,13 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
     <ul class="academic-cv-list compact">
       <li>
         <div class="cv-item-header">
+          <span class="cv-item-title">Top Academic Paper in China's Excellent Scientific and Technical Journals</span>
+          <span class="cv-item-date">2023</span>
+        </div>
+        <div class="cv-item-details">Institute of Scientific and Technical Information of China</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
           <span class="cv-item-title">Outstanding Graduation Thesis Advisor</span>
           <span class="cv-item-date">2024 & 2025</span>
         </div>
@@ -241,10 +255,17 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
       </li>
       <li>
         <div class="cv-item-header">
-          <span class="cv-item-title">Outstanding Instructor Award</span>
-          <span class="cv-item-date">2022 & 2023</span>
+          <span class="cv-item-title">ICBC Cup Outstanding Instructor Award</span>
+          <span class="cv-item-date">2022, 2023 & 2025</span>
         </div>
-        <div class="cv-item-details">ICBC Cup National College Students Financial Technology Innovation Competition</div>
+        <div class="cv-item-details">Industrial and Commercial Bank of China Guangxi Branch</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">General Typical Case of Research-Informed Teaching, 2024-2025</span>
+          <span class="cv-item-date">2025</span>
+        </div>
+        <div class="cv-item-details">Nanning University</div>
       </li>
       <li>
         <div class="cv-item-header">
