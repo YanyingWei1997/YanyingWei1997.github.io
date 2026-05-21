@@ -241,22 +241,15 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
     <ul class="academic-cv-list compact">
       <li>
         <div class="cv-item-header">
-          <span class="cv-item-title">Top Academic Paper in China's Excellent Scientific and Technical Journals</span>
-          <span class="cv-item-date">2023</span>
-        </div>
-        <div class="cv-item-details">Institute of Scientific and Technical Information of China</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
           <span class="cv-item-title">Outstanding Graduation Thesis Advisor</span>
-          <span class="cv-item-date">2024 & 2025</span>
+          <span class="cv-item-date">2025</span>
         </div>
         <div class="cv-item-details">Nanning University</div>
       </li>
       <li>
         <div class="cv-item-header">
           <span class="cv-item-title">ICBC Cup Outstanding Instructor Award</span>
-          <span class="cv-item-date">2022, 2023 & 2025</span>
+          <span class="cv-item-date">2025</span>
         </div>
         <div class="cv-item-details">Industrial and Commercial Bank of China Guangxi Branch</div>
       </li>
@@ -266,6 +259,34 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
           <span class="cv-item-date">2025</span>
         </div>
         <div class="cv-item-details">Nanning University</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">Outstanding Graduation Thesis Advisor</span>
+          <span class="cv-item-date">2024</span>
+        </div>
+        <div class="cv-item-details">Nanning University</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">Top Academic Paper in China's Excellent Scientific and Technical Journals</span>
+          <span class="cv-item-date">2023</span>
+        </div>
+        <div class="cv-item-details">Institute of Scientific and Technical Information of China</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">ICBC Cup Outstanding Instructor Award</span>
+          <span class="cv-item-date">2023</span>
+        </div>
+        <div class="cv-item-details">Industrial and Commercial Bank of China Guangxi Branch</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
+          <span class="cv-item-title">ICBC Cup Outstanding Instructor Award</span>
+          <span class="cv-item-date">2022</span>
+        </div>
+        <div class="cv-item-details">Industrial and Commercial Bank of China Guangxi Branch</div>
       </li>
       <li>
         <div class="cv-item-header">
