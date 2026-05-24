@@ -62,7 +62,7 @@ lang: zh
 
 # <i class="fas fa-file-alt"></i> 代表性成果
 
-<div class="publications-grid">
+<div class="publications-list" data-visible-count="4" data-more-label="更多成果" data-less-label="收起">
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>

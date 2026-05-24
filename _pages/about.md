@@ -61,7 +61,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 
 # <i class="fas fa-file-alt"></i> Publications
 
-<div class="publications-grid">
+<div class="publications-list" data-visible-count="4" data-more-label="More" data-less-label="Show Less">
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>

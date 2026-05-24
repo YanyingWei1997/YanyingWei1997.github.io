@@ -11,7 +11,7 @@
 <!-- 学术图标和增强的强调色样式 -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 <link rel="stylesheet" href="{{ '/assets/css/academicons.css' | relative_url }}"/>
-<link rel="stylesheet" href="{{ '/assets/css/accent-enhancements.css' | relative_url }}?v=20260524-4"/>
+<link rel="stylesheet" href="{{ '/assets/css/accent-enhancements.css' | relative_url }}?v=20260524-7"/>
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
@@ -51,6 +51,51 @@ document.addEventListener('DOMContentLoaded', function() {
   // 为重要链接添加强调色效果
   document.querySelectorAll('a[href*="pdf"], a[href*="github"], a[href*="arxiv"]').forEach(link => {
     link.classList.add('link-accent');
+  });
+
+  // 折叠较长的代表性成果列表
+  document.querySelectorAll('.publications-list').forEach(list => {
+    const visibleCount = Number(list.dataset.visibleCount || 4);
+    const cards = Array.from(list.querySelectorAll(':scope > .paper-box'));
+
+    if (cards.length <= visibleCount) {
+      return;
+    }
+
+    const moreLabel = list.dataset.moreLabel || 'More';
+    const lessLabel = list.dataset.lessLabel || 'Show Less';
+    const hiddenCards = cards.slice(visibleCount);
+    const buttonWrap = document.createElement('div');
+    const button = document.createElement('button');
+    const icon = document.createElement('i');
+    const label = document.createElement('span');
+
+    buttonWrap.className = 'publications-more-wrap';
+    button.className = 'publications-more-btn';
+    button.type = 'button';
+    button.setAttribute('aria-expanded', 'false');
+    icon.className = 'fas fa-chevron-down';
+    label.textContent = moreLabel;
+
+    hiddenCards.forEach(card => card.classList.add('publication-hidden'));
+    button.append(icon, label);
+    buttonWrap.append(button);
+    list.after(buttonWrap);
+
+    button.addEventListener('click', () => {
+      const expanded = button.getAttribute('aria-expanded') === 'true';
+      hiddenCards.forEach(card => card.classList.toggle('publication-hidden', expanded));
+      if (!expanded) {
+        hiddenCards.forEach(card => card.classList.add('animate'));
+      }
+      button.setAttribute('aria-expanded', String(!expanded));
+      icon.className = expanded ? 'fas fa-chevron-down' : 'fas fa-chevron-up';
+      label.textContent = expanded ? moreLabel : lessLabel;
+
+      if (expanded) {
+        list.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    });
   });
 });
 
