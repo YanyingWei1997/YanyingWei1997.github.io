@@ -51,6 +51,7 @@ lang: zh
 
 # <i class="fas fa-fire"></i> 动态
 
+- *2026*: &nbsp;论文发表于<span class="primary-gradient-text">Sustainability</span>，研究省直管县改革中的财政中介、转移支付传导与县域可持续增长。
 - *2025*: &nbsp;晋升为南宁学院数字经济学院<span class="primary-gradient-text">讲师</span>。
 - *2025*: &nbsp;获广西壮族自治区社科规划课题立项，研究西部陆海新通道下广西通道经济价值获取困境与枢纽重塑路径。
 - *2025*: &nbsp;论文发表于ACM EDAI 2025，研究基础设施REITs的动态网络-LSTM分析模型。
@@ -60,6 +61,23 @@ lang: zh
 <span class='anchor' id='publications'></span>
 
 # <i class="fas fa-file-alt"></i> 代表性成果
+
+<div class="publications-grid">
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Published · MDPI</div>
+    <img src="{{ '/images/fiscal-transfer-reform.png' | relative_url }}" alt="Fiscal transfer reform diagram">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Fiscal Intermediaries, Transfer Delivery, and Sustainable Local Growth: Evidence from China’s Province-Managed-County Reform</h3>
+    <div class="authors">Jianfeng Liu, <strong>Yanying Wei</strong>, Saihong Wang, Zuoji Dong</div>
+    <div class="venue"><em>Sustainability</em>, 2026, 18(11): 5276. Published 24 May 2026.</div>
+    <div class="links">
+      <a href="https://www.mdpi.com/2071-1050/18/11/5276" class="btn-accent"><i class="fas fa-link"></i> Article</a>
+    </div>
+  </div>
+</div>
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
@@ -158,6 +176,8 @@ lang: zh
       <a href="/images/sw1.png" class="btn-accent"><i class="fas fa-certificate"></i> Certificate</a>
     </div>
   </div>
+</div>
+
 </div>
 
 <span class='anchor' id='education'></span>

@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Fiscal Reform Illustration</title>
+  <desc id="desc">A clean academic illustration for fiscal intermediaries, transfer delivery, and province-managed-county reform.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbfdff"/>
+      <stop offset="1" stop-color="#eef5ff"/>
+    </linearGradient>
+    <linearGradient id="blue-fill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4f8ff"/>
+      <stop offset="1" stop-color="#dce9f8"/>
+    </linearGradient>
+    <linearGradient id="coral-fill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff7f8"/>
+      <stop offset="1" stop-color="#ffe4e8"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#012f63" flood-opacity=".10"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="700" rx="30" fill="url(#bg)"/>
+  <path d="M92 454 C184 238, 360 220, 522 250 C704 284, 760 146, 934 162 C1062 174, 1110 262, 1126 344 C957 298, 866 356, 742 426 C580 518, 390 534, 214 508 C156 500, 116 484, 92 454Z" fill="#eaf2fb" opacity=".9"/>
+  <path d="M0 618 C170 552, 330 586, 492 610 C682 638, 850 626, 1200 548 V700 H0Z" fill="#e8f2fc" opacity=".72"/>
+
+  <g fill="#c7d9eb" opacity=".9">
+    <circle cx="1058" cy="50" r="4"/>
+    <circle cx="1080" cy="50" r="4"/>
+    <circle cx="1102" cy="50" r="4"/>
+    <circle cx="1124" cy="50" r="4"/>
+    <circle cx="1146" cy="50" r="4"/>
+    <circle cx="1058" cy="72" r="4"/>
+    <circle cx="1080" cy="72" r="4"/>
+    <circle cx="1102" cy="72" r="4"/>
+    <circle cx="1124" cy="72" r="4"/>
+    <circle cx="1146" cy="72" r="4"/>
+    <circle cx="1058" cy="94" r="4"/>
+    <circle cx="1080" cy="94" r="4"/>
+    <circle cx="1102" cy="94" r="4"/>
+    <circle cx="1124" cy="94" r="4"/>
+    <circle cx="1146" cy="94" r="4"/>
+  </g>
+
+  <text x="62" y="94" fill="#012f63" font-family="Arial, sans-serif" font-size="54" font-weight="700">Fiscal Reform</text>
+  <path d="M66 126 H136" stroke="#fe667b" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="154" cy="126" r="6" fill="#fe667b"/>
+
+  <g transform="translate(82 248)" filter="url(#soft)">
+    <rect x="0" y="116" width="284" height="92" rx="18" fill="#edf5ff" stroke="#82adcf" stroke-width="4"/>
+    <path d="M38 112 L142 34 L246 112 Z" fill="#fff" stroke="#012f63" stroke-width="5" stroke-linejoin="round"/>
+    <rect x="66" y="112" width="36" height="70" rx="6" fill="#82adcf"/>
+    <rect x="124" y="112" width="36" height="70" rx="6" fill="#82adcf"/>
+    <rect x="182" y="112" width="36" height="70" rx="6" fill="#82adcf"/>
+    <path d="M44 188 H240" stroke="#012f63" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="232" cy="42" r="28" fill="#fff" stroke="#fe667b" stroke-width="5"/>
+    <path d="M222 42 H242 M232 31 V53" stroke="#fe667b" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(500 176)" filter="url(#soft)">
+    <rect x="0" y="0" width="210" height="258" rx="24" fill="#fff" stroke="#dbe7f4" stroke-width="3"/>
+    <rect x="28" y="34" width="154" height="36" rx="10" fill="#eef6ff"/>
+    <path d="M42 108 H168 M42 142 H150 M42 176 H128" stroke="#82adcf" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="156" cy="194" r="42" fill="url(#coral-fill)" stroke="#fe667b" stroke-width="5"/>
+    <path d="M136 194 L152 211 L180 174" fill="none" stroke="#012f63" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="42" y="208" width="68" height="16" rx="8" fill="#dbe7f4"/>
+  </g>
+
+  <g transform="translate(834 230)" filter="url(#soft)">
+    <rect x="0" y="158" width="254" height="82" rx="18" fill="#edf5ff" stroke="#82adcf" stroke-width="4"/>
+    <path d="M28 158 L86 104 L144 158 V228 H28Z" fill="#fff" stroke="#012f63" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M126 158 L192 92 L238 158 V228 H126Z" fill="#fff" stroke="#82adcf" stroke-width="6" stroke-linejoin="round"/>
+    <rect x="72" y="190" width="26" height="38" rx="7" fill="#fe667b"/>
+    <rect x="176" y="186" width="26" height="42" rx="7" fill="#fe667b"/>
+    <circle cx="214" cy="44" r="42" fill="#fff" stroke="#fe667b" stroke-width="5"/>
+    <path d="M190 52 L210 30 L230 52 M210 32 V68" fill="none" stroke="#fe667b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M352 366 C420 284, 472 270, 506 286" stroke="#82adcf" stroke-width="7" stroke-dasharray="12 15"/>
+    <path d="M712 304 C768 280, 820 294, 854 356" stroke="#82adcf" stroke-width="7" stroke-dasharray="12 15"/>
+    <path d="M336 300 C454 178, 692 130, 858 252" stroke="#fe667b" stroke-width="7"/>
+    <path d="M846 244 L890 250 L866 288Z" fill="#fe667b"/>
+    <circle cx="372" cy="270" r="13" fill="#fe667b" stroke="#fff" stroke-width="5"/>
+    <circle cx="742" cy="182" r="13" fill="#fe667b" stroke="#fff" stroke-width="5"/>
+  </g>
+
+  <g transform="translate(386 500)">
+    <rect x="0" y="0" width="442" height="86" rx="24" fill="#fff" stroke="#dbe7f4" stroke-width="3" filter="url(#soft)"/>
+    <g transform="translate(42 22)">
+      <circle cx="22" cy="22" r="22" fill="#eef6ff" stroke="#82adcf" stroke-width="4"/>
+      <path d="M12 28 H32 M16 20 H28 L24 12 H20Z" stroke="#012f63" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    </g>
+    <g transform="translate(146 22)">
+      <circle cx="22" cy="22" r="22" fill="#fff7f8" stroke="#fe667b" stroke-width="4"/>
+      <path d="M12 22 H32 M22 12 V32" stroke="#fe667b" stroke-width="5" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(250 22)">
+      <circle cx="22" cy="22" r="22" fill="#eef6ff" stroke="#82adcf" stroke-width="4"/>
+      <path d="M12 28 L22 18 L32 28 V34 H12Z" stroke="#012f63" stroke-width="4" stroke-linejoin="round" fill="none"/>
+    </g>
+    <g transform="translate(354 22)">
+      <circle cx="22" cy="22" r="22" fill="#fff7f8" stroke="#fe667b" stroke-width="4"/>
+      <path d="M10 32 H34 M14 28 V22 M22 28 V14 M30 28 V18" stroke="#012f63" stroke-width="5" stroke-linecap="round"/>
+    </g>
+    <path d="M92 44 H142 M196 44 H246 M300 44 H350" stroke="#c9d7e7" stroke-width="5" stroke-linecap="round" stroke-dasharray="7 9"/>
+  </g>
+
+  <g transform="translate(940 472)">
+    <rect x="0" y="78" width="28" height="46" rx="6" fill="#b8cde4"/>
+    <rect x="48" y="50" width="28" height="74" rx="6" fill="#b8cde4"/>
+    <rect x="96" y="22" width="28" height="102" rx="6" fill="#82adcf"/>
+    <path d="M0 128 H152" stroke="#012f63" stroke-width="5" stroke-linecap="round"/>
+    <path d="M4 74 L44 46 L76 54 L124 10" fill="none" stroke="#fe667b" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M116 12 L142 0 L136 28" fill="none" stroke="#fe667b" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

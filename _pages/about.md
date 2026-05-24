@@ -52,6 +52,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 
 # <i class="fas fa-fire"></i> News
 
+- *2026*: &nbsp;Paper published in <span class="primary-gradient-text">Sustainability</span> on fiscal intermediaries, transfer delivery, and sustainable local growth in China's province-managed-county reform.
 - *2025*: &nbsp;Promoted to Lecturer at the School of Digital Economics, <span class="primary-gradient-text">Nanning University</span>.
 - *2025*: &nbsp;Awarded provincial research funding for value-capture challenges and hub reconfiguration pathways in the Guangxi corridor economy.
 - *2025*: &nbsp;Paper published in ACM EDAI 2025 on Dynamic Network-LSTM Model for Infrastructure REITs analysis.
@@ -59,6 +60,23 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 - *2022*: &nbsp;Joined Nanning University after completing the M.Sc. in Finance at the University of Chinese Academy of Sciences.
 
 # <i class="fas fa-file-alt"></i> Publications
+
+<div class="publications-grid">
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Published · MDPI</div>
+    <img src="{{ '/images/fiscal-transfer-reform.png' | relative_url }}" alt="Fiscal transfer reform diagram">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Fiscal Intermediaries, Transfer Delivery, and Sustainable Local Growth: Evidence from China’s Province-Managed-County Reform</h3>
+    <div class="authors">Jianfeng Liu, <strong>Yanying Wei</strong>, Saihong Wang, Zuoji Dong</div>
+    <div class="venue"><em>Sustainability</em>, 2026, 18(11): 5276. Published 24 May 2026.</div>
+    <div class="links">
+      <a href="https://www.mdpi.com/2071-1050/18/11/5276" class="btn-accent"><i class="fas fa-link"></i> Article</a>
+    </div>
+  </div>
+</div>
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
@@ -177,6 +195,8 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
       <a href="/images/sw1.png" class="btn-accent"><i class="fas fa-certificate"></i> Certificate</a>
     </div>
   </div>
+</div>
+
 </div>
 
 # <i class="fas fa-graduation-cap"></i> Education
