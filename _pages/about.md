@@ -52,7 +52,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 
 # <i class="fas fa-fire"></i> News
 
-- *2026*: &nbsp;Paper published in <span class="primary-gradient-text">Sustainability</span> on fiscal intermediaries, transfer delivery, and sustainable local growth in China's province-managed-county reform.
+- *2026*: &nbsp;Papers published in <span class="primary-gradient-text">Land</span> and <span class="primary-gradient-text">Sustainability</span> on low-carbon city policy, fiscal transfers, and sustainable local growth.
 - *2025*: &nbsp;Promoted to Lecturer at the School of Digital Economics, <span class="primary-gradient-text">Nanning University</span>.
 - *2025*: &nbsp;Awarded provincial research funding for value-capture challenges and hub reconfiguration pathways in the Guangxi corridor economy.
 - *2025*: &nbsp;Paper published in ACM EDAI 2025 on Dynamic Network-LSTM Model for Infrastructure REITs analysis.
@@ -62,6 +62,21 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 # <i class="fas fa-file-alt"></i> Publications
 
 <div class="publications-list" data-visible-count="4" data-more-label="More" data-less-label="Show Less">
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Published · MDPI</div>
+    <img src="{{ '/images/low-carbon-city-energy-intensity.png?v=20260529' | relative_url }}" alt="Low-carbon city energy intensity diagram">
+  </div>
+  <div class='paper-box-text'>
+    <h3>The Impact of the Low-Carbon City Pilot Policy on Energy Intensity: Evidence from a Staggered Difference-in-Differences Design</h3>
+    <div class="authors">Tianyu Wang, <strong>Yanying Wei</strong></div>
+    <div class="venue"><em>Land</em>, 2026, 15(6): 913. Published 25 May 2026.</div>
+    <div class="links">
+      <a href="https://www.mdpi.com/2073-445X/15/6/913" class="btn-accent"><i class="fas fa-link"></i> Article</a>
+    </div>
+  </div>
+</div>
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
