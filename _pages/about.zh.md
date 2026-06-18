@@ -81,7 +81,7 @@ lang: zh
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Published · MDPI</div>
+    <div class="badge pulse-accent">Published · JCR Q2</div>
     <img src="{{ '/images/low-carbon-city-energy-intensity.png?v=20260529' | relative_url }}" alt="Low-carbon city energy intensity diagram">
   </div>
   <div class='paper-box-text'>
@@ -96,7 +96,7 @@ lang: zh
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Published · MDPI</div>
+    <div class="badge pulse-accent">Published · JCR Q2</div>
     <img src="{{ '/images/fiscal-transfer-reform.png' | relative_url }}" alt="Fiscal transfer reform diagram">
   </div>
   <div class='paper-box-text'>
