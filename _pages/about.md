@@ -73,7 +73,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
     <div class="authors">Tianyu Wang, <strong>Yanying Wei</strong></div>
     <div class="venue"><em>Land</em>, 2026, 15(6): 913. Published 25 May 2026.</div>
     <div class="links">
-      <a href="https://www.mdpi.com/2073-445X/15/6/913" class="btn-accent"><i class="fas fa-link"></i> Article</a>
+      <a href="https://doi.org/10.3390/land15060913" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
     </div>
   </div>
 </div>
@@ -88,7 +88,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
     <div class="authors">Jianfeng Liu, <strong>Yanying Wei</strong>, Saihong Wang, Zuoji Dong</div>
     <div class="venue"><em>Sustainability</em>, 2026, 18(11): 5276. Published 24 May 2026.</div>
     <div class="links">
-      <a href="https://www.mdpi.com/2071-1050/18/11/5276" class="btn-accent"><i class="fas fa-link"></i> Article</a>
+      <a href="https://doi.org/10.3390/su18115276" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
     </div>
   </div>
 </div>
