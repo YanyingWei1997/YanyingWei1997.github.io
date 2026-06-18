@@ -96,13 +96,17 @@ lang: zh
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Minor Revision · JCR Q1</div>
+    <div class="badge pulse-accent">Published · CAS Q2 · EI</div>
     <img src="{{ '/images/carbon-peak-uncertainty.png' | relative_url }}" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Carbon peak pathway illustration">
   </div>
   <div class='paper-box-text'>
-    <h3>Optimizing regional carbon peak pathways under uncertainty</h3>
+    <h3>Optimizing regional carbon peak pathways under uncertainty: An integrated Tapio-LMDI-robust optimization framework with evidence from Guangxi, China</h3>
     <div class="authors"><strong>Yanying Wei</strong></div>
-    <div class="venue">An integrated Tapio-LMDI-machine learning framework with evidence from Guangxi, China. <em>Energy Conversion and Management: X</em>. Third-round revision.</div>
+    <div class="venue"><em>Energy Conversion and Management: X</em>, 2026, 31: 102058. IF 8.8. Open access.</div>
+    <div class="links">
+      <a href="https://doi.org/10.1016/j.ecmx.2026.102058" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S2590174526005416" class="btn-accent"><i class="fas fa-external-link-alt"></i> Article</a>
+    </div>
   </div>
 </div>
 
