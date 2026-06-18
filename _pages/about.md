@@ -104,7 +104,6 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
     <div class="venue"><em>Energy Conversion and Management: X</em>, 2026, 31: 102058. IF 8.8. Open access.</div>
     <div class="links">
       <a href="https://doi.org/10.1016/j.ecmx.2026.102058" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
-      <a href="https://www.sciencedirect.com/science/article/pii/S2590174526005416" class="btn-accent"><i class="fas fa-external-link-alt"></i> Article</a>
     </div>
   </div>
 </div>
