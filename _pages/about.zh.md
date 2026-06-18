@@ -66,7 +66,7 @@ lang: zh
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Published · JCR Q1</div>
+    <div class="badge pulse-accent">Published</div>
     <img src="{{ '/images/carbon-peak-uncertainty.png' | relative_url }}" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Carbon peak pathway illustration">
   </div>
   <div class='paper-box-text'>
@@ -81,7 +81,7 @@ lang: zh
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Published · JCR Q2</div>
+    <div class="badge pulse-accent">Published</div>
     <img src="{{ '/images/low-carbon-city-energy-intensity.png?v=20260529' | relative_url }}" alt="Low-carbon city energy intensity diagram">
   </div>
   <div class='paper-box-text'>
@@ -96,7 +96,7 @@ lang: zh
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Published · JCR Q2</div>
+    <div class="badge pulse-accent">Published</div>
     <img src="{{ '/images/fiscal-transfer-reform.png' | relative_url }}" alt="Fiscal transfer reform diagram">
   </div>
   <div class='paper-box-text'>
@@ -111,7 +111,7 @@ lang: zh
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Peer Review · JCR Q1</div>
+    <div class="badge pulse-accent">Peer Review</div>
     <img src="{{ '/images/energy-security-green-finance.png' | relative_url }}" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Energy security and green finance illustration">
   </div>
   <div class='paper-box-text'>
@@ -123,7 +123,7 @@ lang: zh
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Published · ACM</div>
+    <div class="badge pulse-accent">Published</div>
     <img src="{{ '/images/reits-network-lstm.png' | relative_url }}" alt="Infrastructure REITs Network-LSTM diagram">
   </div>
   <div class='paper-box-text'>
