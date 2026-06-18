@@ -66,6 +66,21 @@ lang: zh
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
+    <div class="badge pulse-accent">Published · JCR Q1</div>
+    <img src="{{ '/images/carbon-peak-uncertainty.png' | relative_url }}" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Carbon peak pathway illustration">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Optimizing regional carbon peak pathways under uncertainty: An integrated Tapio-LMDI-robust optimization framework with evidence from Guangxi, China</h3>
+    <div class="authors"><strong>Yanying Wei</strong></div>
+    <div class="venue"><em>Energy Conversion and Management: X</em>, 2026, 31: 102058. IF 8.8. Open access.</div>
+    <div class="links">
+      <a href="https://doi.org/10.1016/j.ecmx.2026.102058" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
     <div class="badge pulse-accent">Published · MDPI</div>
     <img src="{{ '/images/low-carbon-city-energy-intensity.png?v=20260529' | relative_url }}" alt="Low-carbon city energy intensity diagram">
   </div>
@@ -90,21 +105,6 @@ lang: zh
     <div class="venue"><em>Sustainability</em>, 2026, 18(11): 5276. Published 24 May 2026.</div>
     <div class="links">
       <a href="https://doi.org/10.3390/su18115276" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
-    </div>
-  </div>
-</div>
-
-<div class='paper-box floating-card'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Published · CAS Q2 · EI</div>
-    <img src="{{ '/images/carbon-peak-uncertainty.png' | relative_url }}" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Carbon peak pathway illustration">
-  </div>
-  <div class='paper-box-text'>
-    <h3>Optimizing regional carbon peak pathways under uncertainty: An integrated Tapio-LMDI-robust optimization framework with evidence from Guangxi, China</h3>
-    <div class="authors"><strong>Yanying Wei</strong></div>
-    <div class="venue"><em>Energy Conversion and Management: X</em>, 2026, 31: 102058. IF 8.8. Open access.</div>
-    <div class="links">
-      <a href="https://doi.org/10.1016/j.ecmx.2026.102058" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
     </div>
   </div>
 </div>
