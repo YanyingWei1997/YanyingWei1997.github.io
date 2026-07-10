@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function() {
   }, observerOptions);
   
   // 为元素添加动画类
-  document.querySelectorAll('.paper-box, .highlight-block').forEach(el => {
+  document.querySelectorAll('.paper-box, .publication-entry, .highlight-block').forEach(el => {
     el.classList.add('fade-in-up');
     observer.observe(el);
   });
@@ -56,15 +56,19 @@ document.addEventListener('DOMContentLoaded', function() {
   // 折叠较长的代表性成果列表
   document.querySelectorAll('.publications-list').forEach(list => {
     const visibleCount = Number(list.dataset.visibleCount || 4);
-    const cards = Array.from(list.querySelectorAll(':scope > .paper-box'));
+    const cards = Array.from(list.querySelectorAll(':scope > .paper-box, :scope > .publication-entry'));
+    const filter = list.previousElementSibling && list.previousElementSibling.classList.contains('publication-filter')
+      ? list.previousElementSibling
+      : null;
+    const filterButtons = filter ? Array.from(filter.querySelectorAll('[data-publication-filter]')) : [];
 
-    if (cards.length <= visibleCount) {
+    if (!cards.length) {
       return;
     }
 
     const moreLabel = list.dataset.moreLabel || 'More';
     const lessLabel = list.dataset.lessLabel || 'Show Less';
-    const hiddenCards = cards.slice(visibleCount);
+    let expanded = false;
     const buttonWrap = document.createElement('div');
     const button = document.createElement('button');
     const icon = document.createElement('i');
@@ -77,25 +81,51 @@ document.addEventListener('DOMContentLoaded', function() {
     icon.className = 'fas fa-chevron-down';
     label.textContent = moreLabel;
 
-    hiddenCards.forEach(card => card.classList.add('publication-hidden'));
     button.append(icon, label);
     buttonWrap.append(button);
     list.after(buttonWrap);
 
-    button.addEventListener('click', () => {
-      const expanded = button.getAttribute('aria-expanded') === 'true';
-      hiddenCards.forEach(card => card.classList.toggle('publication-hidden', expanded));
-      if (!expanded) {
-        hiddenCards.forEach(card => card.classList.add('animate'));
-      }
-      button.setAttribute('aria-expanded', String(!expanded));
-      icon.className = expanded ? 'fas fa-chevron-down' : 'fas fa-chevron-up';
-      label.textContent = expanded ? moreLabel : lessLabel;
+    const getActiveFilter = () => {
+      const activeButton = filterButtons.find(item => item.classList.contains('is-active'));
+      return activeButton ? activeButton.dataset.publicationFilter : 'all';
+    };
 
-      if (expanded) {
+    const updatePublications = () => {
+      const activeFilter = getActiveFilter();
+      const matchingCards = cards.filter(card => activeFilter === 'all' || card.dataset.year === activeFilter);
+
+      cards.forEach(card => {
+        const matchIndex = matchingCards.indexOf(card);
+        const matchesFilter = matchIndex !== -1;
+        const hiddenByLimit = matchesFilter && !expanded && matchIndex >= visibleCount;
+        card.classList.toggle('publication-hidden', !matchesFilter || hiddenByLimit);
+      });
+
+      const hasOverflow = matchingCards.length > visibleCount;
+      buttonWrap.style.display = hasOverflow ? 'flex' : 'none';
+      button.setAttribute('aria-expanded', String(expanded && hasOverflow));
+      icon.className = expanded && hasOverflow ? 'fas fa-chevron-up' : 'fas fa-chevron-down';
+      label.textContent = expanded && hasOverflow ? lessLabel : moreLabel;
+    };
+
+    filterButtons.forEach(filterButton => {
+      filterButton.addEventListener('click', () => {
+        filterButtons.forEach(item => item.classList.remove('is-active'));
+        filterButton.classList.add('is-active');
+        expanded = false;
+        updatePublications();
+      });
+    });
+
+    button.addEventListener('click', () => {
+      expanded = !expanded;
+      updatePublications();
+      if (!expanded) {
         list.scrollIntoView({ behavior: 'smooth', block: 'start' });
       }
     });
+
+    updatePublications();
   });
 });
 

@@ -52,120 +52,196 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 
 # <i class="fas fa-fire"></i> News
 
-- *2026*: &nbsp;Papers published in <span class="primary-gradient-text">Systems</span>, <span class="primary-gradient-text">Land</span>, and <span class="primary-gradient-text">Sustainability</span>; carbon peak pathway research accepted by <span class="primary-gradient-text">Energy Conversion and Management: X</span>.
+- *2026*: &nbsp;Research outputs include fiscal governance, carbon peak pathways, low-carbon city policy, and sustainable local growth in <span class="primary-gradient-text">Systems</span>, <span class="primary-gradient-text">Energy Conversion and Management: X</span>, <span class="primary-gradient-text">Land</span>, and <span class="primary-gradient-text">Sustainability</span>.
 - *2025*: &nbsp;Promoted to Lecturer at the School of Digital Economics, <span class="primary-gradient-text">Nanning University</span>.
 - *2025*: &nbsp;Awarded provincial research funding for value-capture challenges and hub reconfiguration pathways in the Guangxi corridor economy.
-- *2025*: &nbsp;Paper published in ACM EDAI 2025 on Dynamic Network-LSTM Model for Infrastructure REITs analysis.
+- *2025*: &nbsp;ACM EDAI 2025 paper on Dynamic Network-LSTM Model for Infrastructure REITs analysis.
+- *2024*: &nbsp;Research outputs include technology finance efficiency, ESG and innovation, and land use change research.
 - *2022*: &nbsp;Joined Nanning University after completing the M.Sc. in Finance at the University of Chinese Academy of Sciences.
 
 # <i class="fas fa-file-alt"></i> Publications
 
-<div class="publications-list" data-visible-count="4" data-more-label="More" data-less-label="Show Less">
+<div class="publication-filter" role="group" aria-label="Filter publications by year">
+  <button type="button" class="publication-filter-btn is-active" data-publication-filter="all">All</button>
+  <button type="button" class="publication-filter-btn" data-publication-filter="2026">2026</button>
+  <button type="button" class="publication-filter-btn" data-publication-filter="2025">2025</button>
+  <button type="button" class="publication-filter-btn" data-publication-filter="2024">2024</button>
+  <button type="button" class="publication-filter-btn" data-publication-filter="2022">2022</button>
+  <button type="button" class="publication-filter-btn" data-publication-filter="review">Under Review</button>
+</div>
 
-<div class='paper-box floating-card'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Published</div>
-    <img src="{{ '/images/fiscal-transfer-reform.png' | relative_url }}" alt="County fiscal expenditure systems diagram">
-  </div>
-  <div class='paper-box-text'>
+<div class="publications-list compact-publications" data-visible-count="10" data-more-label="More" data-less-label="Show Less">
+
+<article class="publication-entry" data-year="2026">
+  <div class="publication-year">2026</div>
+  <div class="publication-body">
     <h3>Decision Rights, Fiscal Flows, and County Fiscal Expenditure: A Systems Perspective on China's Province-Managing-County Reform</h3>
-    <div class="authors">Jianfeng Liu, <strong>Yanying Wei</strong>, Saihong Wang, Zuoji Dong</div>
-    <div class="venue"><em>Systems</em>, 2026, 14(7): 819.</div>
-    <div class="links">
-      <a href="https://doi.org/10.3390/systems14070819" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+    <div class="publication-authors">Jianfeng Liu, <strong>Yanying Wei</strong>, Saihong Wang, Zuoji Dong</div>
+    <div class="publication-venue"><em>Systems</em>, 14(7), 819.</div>
+    <div class="publication-footer">
+      <div class="publication-tags">
+        <span class="publication-tag">Journal</span>
+      </div>
+      <div class="publication-links">
+        <a href="https://doi.org/10.3390/systems14070819" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+      </div>
     </div>
   </div>
-</div>
+</article>
 
-<div class='paper-box floating-card'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Accepted</div>
-    <img src="{{ '/images/carbon-peak-uncertainty.png' | relative_url }}" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Carbon peak pathway illustration">
-  </div>
-  <div class='paper-box-text'>
+<article class="publication-entry" data-year="2026">
+  <div class="publication-year">2026</div>
+  <div class="publication-body">
     <h3>Optimizing regional carbon peak pathways under uncertainty: An integrated Tapio-LMDI-robust optimization framework with evidence from Guangxi, China</h3>
-    <div class="authors"><strong>Yanying Wei</strong></div>
-    <div class="venue"><em>Energy Conversion and Management: X</em>, 2026, 31: 102058. JCR: Q1.</div>
-    <div class="links">
-      <a href="https://doi.org/10.1016/j.ecmx.2026.102058" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+    <div class="publication-authors"><strong>Yanying Wei</strong></div>
+    <div class="publication-venue"><em>Energy Conversion and Management: X</em>, 31, 102058. JCR: Q1.</div>
+    <div class="publication-footer">
+      <div class="publication-tags">
+        <span class="publication-tag">Journal</span>
+        <span class="publication-tag">JCR Q1</span>
+      </div>
+      <div class="publication-links">
+        <a href="https://doi.org/10.1016/j.ecmx.2026.102058" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+      </div>
     </div>
   </div>
-</div>
+</article>
 
-<div class='paper-box floating-card'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Published</div>
-    <img src="{{ '/images/low-carbon-city-energy-intensity.png?v=20260529' | relative_url }}" alt="Low-carbon city energy intensity diagram">
-  </div>
-  <div class='paper-box-text'>
+<article class="publication-entry" data-year="2026">
+  <div class="publication-year">2026</div>
+  <div class="publication-body">
     <h3>The Impact of the Low-Carbon City Pilot Policy on Energy Intensity: Evidence from a Staggered Difference-in-Differences Design</h3>
-    <div class="authors">Tianyu Wang, <strong>Yanying Wei</strong></div>
-    <div class="venue"><em>Land</em>, 2026, 15(6): 913.</div>
-    <div class="links">
-      <a href="https://doi.org/10.3390/land15060913" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+    <div class="publication-authors">Tianyu Wang, <strong>Yanying Wei</strong></div>
+    <div class="publication-venue"><em>Land</em>, 15(6), 913.</div>
+    <div class="publication-footer">
+      <div class="publication-tags">
+        <span class="publication-tag">Journal</span>
+      </div>
+      <div class="publication-links">
+        <a href="https://doi.org/10.3390/land15060913" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+      </div>
     </div>
   </div>
-</div>
+</article>
 
-<div class='paper-box floating-card'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Published</div>
-    <img src="{{ '/images/fiscal-transfer-reform.png' | relative_url }}" alt="Fiscal transfer reform diagram">
-  </div>
-  <div class='paper-box-text'>
+<article class="publication-entry" data-year="2026">
+  <div class="publication-year">2026</div>
+  <div class="publication-body">
     <h3>Fiscal Intermediaries, Transfer Delivery, and Sustainable Local Growth: Evidence from China’s Province-Managed-County Reform</h3>
-    <div class="authors">Jianfeng Liu, <strong>Yanying Wei</strong>, Saihong Wang, Zuoji Dong</div>
-    <div class="venue"><em>Sustainability</em>, 2026, 18(11): 5276.</div>
-    <div class="links">
-      <a href="https://doi.org/10.3390/su18115276" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+    <div class="publication-authors">Jianfeng Liu, <strong>Yanying Wei</strong>, Saihong Wang, Zuoji Dong</div>
+    <div class="publication-venue"><em>Sustainability</em>, 18(11), 5276.</div>
+    <div class="publication-footer">
+      <div class="publication-tags">
+        <span class="publication-tag">Journal</span>
+      </div>
+      <div class="publication-links">
+        <a href="https://doi.org/10.3390/su18115276" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+      </div>
     </div>
   </div>
-</div>
+</article>
 
-<div class='paper-box floating-card'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Peer Review</div>
-    <img src="images/energy-security-green-finance.png" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Energy security and green finance illustration">
-  </div>
-  <div class='paper-box-text'>
+<article class="publication-entry" data-year="review">
+  <div class="publication-year">Review</div>
+  <div class="publication-body">
     <h3>Analyzing the impact of electricity reforms on energy supply security: Green finance as a policy perspective</h3>
-    <div class="authors"><strong>Yanying Wei</strong>, Lin Shi, Yuhong Jiang, Qian He</div>
-    <div class="venue">Under review at <em>Transportation Research Interdisciplinary Perspectives</em>.</div>
+    <div class="publication-authors"><strong>Yanying Wei</strong>, Lin Shi, Yuhong Jiang, Qian He</div>
+    <div class="publication-venue">Under review at <em>Transportation Research Interdisciplinary Perspectives</em>. JCR: Q1.</div>
+    <div class="publication-footer">
+      <div class="publication-tags">
+        <span class="publication-tag muted">Under Review</span>
+        <span class="publication-tag">Journal</span>
+        <span class="publication-tag">JCR Q1</span>
+      </div>
+    </div>
   </div>
-</div>
+</article>
 
-<div class='paper-box floating-card'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Published</div>
-    <img src="images/reits-network-lstm.png" alt="Infrastructure REITs Network-LSTM diagram">
-  </div>
-  <div class='paper-box-text'>
+<article class="publication-entry" data-year="2025">
+  <div class="publication-year">2025</div>
+  <div class="publication-body">
     <h3>Dynamic Network-LSTM model for quantitative analysis of infrastructure REITs' impact on urban rail transit debt ratios</h3>
-    <div class="authors">Lin Shi, <strong>Yanying Wei</strong></div>
-    <div class="venue"><em>Proceedings of the 2025 2nd International Conference on Economic Data Analytics and Artificial Intelligence (EDAI 2025)</em>. ACM.</div>
-    <div class="links">
-      <a href="https://doi.org/10.1145/3789297.3789298" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+    <div class="publication-authors">Lin Shi, <strong>Yanying Wei</strong></div>
+    <div class="publication-venue"><em>Proceedings of the 2025 2nd International Conference on Economic Data Analytics and Artificial Intelligence (EDAI 2025)</em>. ACM.</div>
+    <div class="publication-footer">
+      <div class="publication-tags">
+        <span class="publication-tag">Conference</span>
+      </div>
+      <div class="publication-links">
+        <a href="https://doi.org/10.1145/3789297.3789298" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+      </div>
     </div>
   </div>
-</div>
+</article>
 
-
-
-<div class='paper-box floating-card'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Published</div>
-    <img src="images/rural-land-improvement.png" alt="Rural revitalization land improvement diagram">
+<article class="publication-entry" data-year="2024">
+  <div class="publication-year">2024</div>
+  <div class="publication-body">
+    <h3>Analysis on efficiency and influencing factors of Guangxi technology and finance based on DEA model</h3>
+    <div class="publication-authors"><strong>Yanying Wei</strong>, Li Quan, Zhen Wei, Lixin Deng</div>
+    <div class="publication-venue"><em>Journal of Innovations in Economics & Management</em>, 5(1), 72.</div>
+    <div class="publication-footer">
+      <div class="publication-tags">
+        <span class="publication-tag">Journal</span>
+      </div>
+      <div class="publication-links">
+        <a href="https://doi.org/10.69610/j.iem.202406242" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+      </div>
+    </div>
   </div>
-  <div class='paper-box-text'>
+</article>
+
+<article class="publication-entry" data-year="2024">
+  <div class="publication-year">2024</div>
+  <div class="publication-body">
+    <h3>Research on the influence of ESG performance on BYD's innovation ability</h3>
+    <div class="publication-authors">Lixin Deng, Zhilan Deng, <strong>Yanying Wei</strong></div>
+    <div class="publication-venue"><em>Journal of Innovations in Economics & Management</em>, 5(1), 73.</div>
+    <div class="publication-footer">
+      <div class="publication-tags">
+        <span class="publication-tag">Journal</span>
+      </div>
+      <div class="publication-links">
+        <a href="https://doi.org/10.69610/j.iem.202406243" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+<article class="publication-entry" data-year="2024">
+  <div class="publication-year">2024</div>
+  <div class="publication-body">
+    <h3>Dynamic evolution and trend frontiers in land use change research: A bibliometric analysis based on the WoS core database (1990–2020)</h3>
+    <div class="publication-authors">Duomin Wang, Haibo Yu, Yubin Huangfu, <strong>Yanying Wei</strong>, Zuoji Dong</div>
+    <div class="publication-venue"><em>Management Review</em>, 36(1), 87.</div>
+    <div class="publication-footer">
+      <div class="publication-tags">
+        <span class="publication-tag">Journal</span>
+      </div>
+      <div class="publication-links">
+        <a href="https://doi.org/10.14120/j.cnki.cn11-5057/f.2024.01.022" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+<article class="publication-entry" data-year="2022">
+  <div class="publication-year">2022</div>
+  <div class="publication-body">
     <h3>Comprehensive land improvement innovation for rural revitalization: Public value creation and realization</h3>
-    <div class="authors">Zuoji Dong, <strong>Yanying Wei</strong>, Conghui Ren, Saihong Wang</div>
-    <div class="venue"><em>Resources Science</em>, 2022, 44(7): 1305–1315.</div>
-    <div class="links">
-      <a href="https://doi.org/10.18402/resci.2022.07.01" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
-      <a href="https://kns.cnki.net/kcms2/article/abstract?v=VKFFl0Cm57bvSNP1VkbFoe3rFg5WF5TMpotqnc7bdcxls-i9ImmxZIZ0ueIOHh95zNL3B0-V8Sy1qdvZw0yTGiLjk3yeVQtJsbvpBYGRC34D-Ttv2iAZOgZrpouZz-rEiPh2bE-dywaS_KYCMGD38A==&uniplatform=NZKPT&language=CHS" class="btn-accent"><i class="fas fa-link"></i> CNKI</a>
+    <div class="publication-authors">Zuoji Dong, <strong>Yanying Wei</strong>, Conghui Ren, Saihong Wang</div>
+    <div class="publication-venue"><em>Resources Science</em>, 44(7), 1305–1315.</div>
+    <div class="publication-footer">
+      <div class="publication-tags">
+        <span class="publication-tag">Chinese Journal</span>
+      </div>
+      <div class="publication-links">
+        <a href="https://doi.org/10.18402/resci.2022.07.01" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+        <a href="https://kns.cnki.net/kcms2/article/abstract?v=VKFFl0Cm57bvSNP1VkbFoe3rFg5WF5TMpotqnc7bdcxls-i9ImmxZIZ0ueIOHh95zNL3B0-V8Sy1qdvZw0yTGiLjk3yeVQtJsbvpBYGRC34D-Ttv2iAZOgZrpouZz-rEiPh2bE-dywaS_KYCMGD38A==&uniplatform=NZKPT&language=CHS" class="btn-accent"><i class="fas fa-link"></i> CNKI</a>
+      </div>
     </div>
   </div>
-</div>
+</article>
 
 </div>
 
