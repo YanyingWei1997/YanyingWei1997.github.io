@@ -70,13 +70,15 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   <button type="button" class="publication-filter-btn" data-publication-filter="review">Under Review</button>
 </div>
 
+<div class="publication-note">* Corresponding author</div>
+
 <div class="publications-list compact-publications" data-visible-count="10" data-more-label="More" data-less-label="Show Less">
 
 <article class="publication-entry" data-year="2026">
   <div class="publication-year">2026</div>
   <div class="publication-body">
     <h3>Decision Rights, Fiscal Flows, and County Fiscal Expenditure: A Systems Perspective on China's Province-Managing-County Reform</h3>
-    <div class="publication-authors">Jianfeng Liu, <strong>Yanying Wei</strong>, Saihong Wang, Zuoji Dong</div>
+    <div class="publication-authors">Jianfeng Liu, <strong>Yanying Wei</strong>*, Saihong Wang, Zuoji Dong</div>
     <div class="publication-venue"><em>Systems</em>, 14(7), 819.</div>
     <div class="publication-footer">
       <div class="publication-tags">
@@ -111,7 +113,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   <div class="publication-year">2026</div>
   <div class="publication-body">
     <h3>The Impact of the Low-Carbon City Pilot Policy on Energy Intensity: Evidence from a Staggered Difference-in-Differences Design</h3>
-    <div class="publication-authors">Tianyu Wang, <strong>Yanying Wei</strong></div>
+    <div class="publication-authors">Tianyu Wang, <strong>Yanying Wei</strong>*</div>
     <div class="publication-venue"><em>Land</em>, 15(6), 913.</div>
     <div class="publication-footer">
       <div class="publication-tags">
@@ -128,7 +130,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   <div class="publication-year">2026</div>
   <div class="publication-body">
     <h3>Fiscal Intermediaries, Transfer Delivery, and Sustainable Local Growth: Evidence from China’s Province-Managed-County Reform</h3>
-    <div class="publication-authors">Jianfeng Liu, <strong>Yanying Wei</strong>, Saihong Wang, Zuoji Dong</div>
+    <div class="publication-authors">Jianfeng Liu, <strong>Yanying Wei</strong>*, Saihong Wang, Zuoji Dong</div>
     <div class="publication-venue"><em>Sustainability</em>, 18(11), 5276.</div>
     <div class="publication-footer">
       <div class="publication-tags">
@@ -145,7 +147,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   <div class="publication-year">Review</div>
   <div class="publication-body">
     <h3>Analyzing the impact of electricity reforms on energy supply security: Green finance as a policy perspective</h3>
-    <div class="publication-authors"><strong>Yanying Wei</strong>, Lin Shi, Yuhong Jiang, Qian He</div>
+    <div class="publication-authors"><strong>Yanying Wei</strong>*, Lin Shi, Yuhong Jiang, Qian He</div>
     <div class="publication-venue">Under review at <em>Transportation Research Interdisciplinary Perspectives</em>. JCR: Q1.</div>
     <div class="publication-footer">
       <div class="publication-tags">
@@ -161,7 +163,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   <div class="publication-year">2025</div>
   <div class="publication-body">
     <h3>Dynamic Network-LSTM model for quantitative analysis of infrastructure REITs' impact on urban rail transit debt ratios</h3>
-    <div class="publication-authors">Lin Shi, <strong>Yanying Wei</strong></div>
+    <div class="publication-authors">Lin Shi, <strong>Yanying Wei</strong>*</div>
     <div class="publication-venue"><em>Proceedings of the 2025 2nd International Conference on Economic Data Analytics and Artificial Intelligence (EDAI 2025)</em>. ACM.</div>
     <div class="publication-footer">
       <div class="publication-tags">
@@ -178,7 +180,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   <div class="publication-year">2024</div>
   <div class="publication-body">
     <h3>Analysis on efficiency and influencing factors of Guangxi technology and finance based on DEA model</h3>
-    <div class="publication-authors"><strong>Yanying Wei</strong>, Li Quan, Zhen Wei, Lixin Deng</div>
+    <div class="publication-authors"><strong>Yanying Wei</strong>*, Li Quan, Zhen Wei, Lixin Deng</div>
     <div class="publication-venue"><em>Journal of Innovations in Economics & Management</em>, 5(1), 72.</div>
     <div class="publication-footer">
       <div class="publication-tags">
@@ -195,7 +197,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   <div class="publication-year">2024</div>
   <div class="publication-body">
     <h3>Research on the influence of ESG performance on BYD's innovation ability</h3>
-    <div class="publication-authors">Lixin Deng, Zhilan Deng, <strong>Yanying Wei</strong></div>
+    <div class="publication-authors">Lixin Deng, Zhilan Deng, <strong>Yanying Wei</strong>*</div>
     <div class="publication-venue"><em>Journal of Innovations in Economics & Management</em>, 5(1), 73.</div>
     <div class="publication-footer">
       <div class="publication-tags">
@@ -212,7 +214,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   <div class="publication-year">2024</div>
   <div class="publication-body">
     <h3>Dynamic evolution and trend frontiers in land use change research: A bibliometric analysis based on the WoS core database (1990–2020)</h3>
-    <div class="publication-authors">Duomin Wang, Haibo Yu, Yubin Huangfu, <strong>Yanying Wei</strong>, Zuoji Dong</div>
+    <div class="publication-authors">Duomin Wang, Haibo Yu, Yubin Huangfu, <strong>Yanying Wei</strong>*, Zuoji Dong</div>
     <div class="publication-venue"><em>Management Review</em>, 36(1), 87.</div>
     <div class="publication-footer">
       <div class="publication-tags">
@@ -229,7 +231,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   <div class="publication-year">2022</div>
   <div class="publication-body">
     <h3>Comprehensive land improvement innovation for rural revitalization: Public value creation and realization</h3>
-    <div class="publication-authors">Zuoji Dong, <strong>Yanying Wei</strong>, Conghui Ren, Saihong Wang</div>
+    <div class="publication-authors">Zuoji Dong, <strong>Yanying Wei</strong>*, Conghui Ren, Saihong Wang</div>
     <div class="publication-venue"><em>Resources Science</em>, 44(7), 1305–1315.</div>
     <div class="publication-footer">
       <div class="publication-tags">

@@ -685,6 +685,13 @@ body {
   outline-offset: 2px;
 }
 
+.publication-note {
+  color: #6b7280;
+  font-size: 0.84rem;
+  line-height: 1.4;
+  margin: -0.25rem 0 1rem;
+}
+
 .compact-publications {
   border-top: 1px solid rgba(1, 47, 99, 0.12);
   border-bottom: 1px solid rgba(1, 47, 99, 0.12);
