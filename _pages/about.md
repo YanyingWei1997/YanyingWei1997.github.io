@@ -52,11 +52,10 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 
 # <i class="fas fa-fire"></i> News
 
-- *2026*: &nbsp;Papers published in <span class="primary-gradient-text">Land</span> and <span class="primary-gradient-text">Sustainability</span> on low-carbon city policy, fiscal transfers, and sustainable local growth.
+- *2026*: &nbsp;Papers published in <span class="primary-gradient-text">Systems</span>, <span class="primary-gradient-text">Land</span>, and <span class="primary-gradient-text">Sustainability</span>; carbon peak pathway research accepted by <span class="primary-gradient-text">Energy Conversion and Management: X</span>.
 - *2025*: &nbsp;Promoted to Lecturer at the School of Digital Economics, <span class="primary-gradient-text">Nanning University</span>.
 - *2025*: &nbsp;Awarded provincial research funding for value-capture challenges and hub reconfiguration pathways in the Guangxi corridor economy.
 - *2025*: &nbsp;Paper published in ACM EDAI 2025 on Dynamic Network-LSTM Model for Infrastructure REITs analysis.
-- *2024*: &nbsp;Published journal papers on technology finance efficiency, ESG and innovation, and land use change research.
 - *2022*: &nbsp;Joined Nanning University after completing the M.Sc. in Finance at the University of Chinese Academy of Sciences.
 
 # <i class="fas fa-file-alt"></i> Publications
@@ -66,12 +65,27 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Published</div>
+    <img src="{{ '/images/fiscal-transfer-reform.png' | relative_url }}" alt="County fiscal expenditure systems diagram">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Decision Rights, Fiscal Flows, and County Fiscal Expenditure: A Systems Perspective on China's Province-Managing-County Reform</h3>
+    <div class="authors">Jianfeng Liu, <strong>Yanying Wei</strong>, Saihong Wang, Zuoji Dong</div>
+    <div class="venue"><em>Systems</em>, 2026, 14(7): 819.</div>
+    <div class="links">
+      <a href="https://doi.org/10.3390/systems14070819" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Accepted</div>
     <img src="{{ '/images/carbon-peak-uncertainty.png' | relative_url }}" style="width: 100%; object-fit: cover; border-radius: 6px;" alt="Carbon peak pathway illustration">
   </div>
   <div class='paper-box-text'>
     <h3>Optimizing regional carbon peak pathways under uncertainty: An integrated Tapio-LMDI-robust optimization framework with evidence from Guangxi, China</h3>
     <div class="authors"><strong>Yanying Wei</strong></div>
-    <div class="venue"><em>Energy Conversion and Management: X</em>, 2026, 31: 102058. IF 8.8. Open access.</div>
+    <div class="venue"><em>Energy Conversion and Management: X</em>, 2026, 31: 102058. JCR: Q1.</div>
     <div class="links">
       <a href="https://doi.org/10.1016/j.ecmx.2026.102058" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
     </div>
@@ -86,7 +100,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   <div class='paper-box-text'>
     <h3>The Impact of the Low-Carbon City Pilot Policy on Energy Intensity: Evidence from a Staggered Difference-in-Differences Design</h3>
     <div class="authors">Tianyu Wang, <strong>Yanying Wei</strong></div>
-    <div class="venue"><em>Land</em>, 2026, 15(6): 913. Published 25 May 2026.</div>
+    <div class="venue"><em>Land</em>, 2026, 15(6): 913.</div>
     <div class="links">
       <a href="https://doi.org/10.3390/land15060913" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
     </div>
@@ -101,7 +115,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   <div class='paper-box-text'>
     <h3>Fiscal Intermediaries, Transfer Delivery, and Sustainable Local Growth: Evidence from China’s Province-Managed-County Reform</h3>
     <div class="authors">Jianfeng Liu, <strong>Yanying Wei</strong>, Saihong Wang, Zuoji Dong</div>
-    <div class="venue"><em>Sustainability</em>, 2026, 18(11): 5276. Published 24 May 2026.</div>
+    <div class="venue"><em>Sustainability</em>, 2026, 18(11): 5276.</div>
     <div class="links">
       <a href="https://doi.org/10.3390/su18115276" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
     </div>
@@ -119,24 +133,6 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
     <div class="venue">Under review at <em>Transportation Research Interdisciplinary Perspectives</em>.</div>
   </div>
 </div>
-
-<!-- 
-<div class='paper-box floating-card'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Peer Review</div>
-    <div class="academic-image-card green">
-      <i class="fas fa-city"></i>
-      <div>Fiscal Reform</div>
-      <span>Province-Managing-County · DID</span>
-    </div>
-  </div>
-  <div class='paper-box-text'>
-    <h3>Effects of the province–managing–county reform on economic growth: Institutional coupling of administrative empowerment and direct fiscal management</h3>
-    <div class="authors">Jinhui Liu, <strong>Yanying Wei</strong>, Zuoji Dong, Shichao Wang</div>
-    <div class="venue">Under review at <em>Journal of Systems Science and Mathematical Sciences</em>.</div>
-  </div>
-</div>
--->
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
@@ -158,21 +154,6 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Published</div>
-    <img src="images/land-use-bibliometric.png" alt="Land use change bibliometric diagram">
-  </div>
-  <div class='paper-box-text'>
-    <h3>Dynamic evolution and trend frontiers in land use change research: A bibliometric analysis based on the WoS core database (1990–2020)</h3>
-    <div class="authors">Duomin Wang, Haibo Yu, Yubin Huangfu, <strong>Yanying Wei</strong>, Zuoji Dong</div>
-    <div class="venue"><em>Management Review</em>, 2024, 36(1): 87.</div>
-    <div class="links">
-      <a href="https://doi.org/10.14120/j.cnki.cn11-5057/f.2024.01.022" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
-    </div>
-  </div>
-</div>
-
-<div class='paper-box floating-card'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Published</div>
     <img src="images/rural-land-improvement.png" alt="Rural revitalization land improvement diagram">
   </div>
   <div class='paper-box-text'>
@@ -180,37 +161,8 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
     <div class="authors">Zuoji Dong, <strong>Yanying Wei</strong>, Conghui Ren, Saihong Wang</div>
     <div class="venue"><em>Resources Science</em>, 2022, 44(7): 1305–1315.</div>
     <div class="links">
+      <a href="https://doi.org/10.18402/resci.2022.07.01" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
       <a href="https://kns.cnki.net/kcms2/article/abstract?v=VKFFl0Cm57bvSNP1VkbFoe3rFg5WF5TMpotqnc7bdcxls-i9ImmxZIZ0ueIOHh95zNL3B0-V8Sy1qdvZw0yTGiLjk3yeVQtJsbvpBYGRC34D-Ttv2iAZOgZrpouZz-rEiPh2bE-dywaS_KYCMGD38A==&uniplatform=NZKPT&language=CHS" class="btn-accent"><i class="fas fa-link"></i> CNKI</a>
-    </div>
-  </div>
-</div>
-
-<div class='paper-box floating-card'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Published</div>
-    <img src="images/stock-connect-tfp.png" alt="Stock Connect investment efficiency diagram">
-  </div>
-  <div class='paper-box-text'>
-    <h3>Capital market opening, investment efficiency, and total factor productivity of enterprises: An empirical study based on the opening of the Shenzhen-Hong Kong Stock Connect</h3>
-    <div class="authors">Xi Huang, <strong>Yanying Wei</strong>, Duomin Wang</div>
-    <div class="venue"><em>Science & Technology for Development</em>, 2022, 18(3): 375–384.</div>
-    <div class="links">
-      <a href="https://kns.cnki.net/kcms2/article/abstract?v=VKFFl0Cm57ZCcHIEBO7qI6v1zAVcqm8yIkOhu-ku3AJB4EZBrGJt8rZQhdL0CRaHOfLR3hpyWuOVVyF4o0bwCj5OmtT_zt57RlY3mTqjmIdAfcwurIPZ12KVcTqIN3zHUMxOeAyID4tGinEcfdxazA==&uniplatform=NZKPT&language=CHS" class="btn-accent"><i class="fas fa-link"></i> CNKI</a>
-    </div>
-  </div>
-</div>
-
-<div class='paper-box floating-card'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Published</div>
-    <img src="images/bank-loan-security.png" alt="Digital bank loan security management diagram">
-  </div>
-  <div class='paper-box-text'>
-    <h3>Commercial Bank Loan Digital Empowerment Security Management System V1.0</h3>
-    <div class="authors">Xie, X., Zai, D., Li, Y., <strong>Yanying Wei</strong>, & Wang, Y.</div>
-    <div class="venue">Software Copyright, 2024. Nanning University. Registration No. 2024SR1017636.</div>
-    <div class="links">
-      <a href="/images/sw1.png" class="btn-accent"><i class="fas fa-certificate"></i> Certificate</a>
     </div>
   </div>
 </div>
