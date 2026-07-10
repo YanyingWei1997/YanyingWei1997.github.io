@@ -57,9 +57,10 @@ document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.publications-list').forEach(list => {
     const visibleCount = Number(list.dataset.visibleCount || 4);
     const cards = Array.from(list.querySelectorAll(':scope > .paper-box, :scope > .publication-entry'));
-    const filter = list.previousElementSibling && list.previousElementSibling.classList.contains('publication-filter')
-      ? list.previousElementSibling
-      : null;
+    let filter = list.previousElementSibling;
+    while (filter && !filter.classList.contains('publication-filter')) {
+      filter = filter.previousElementSibling;
+    }
     const filterButtons = filter ? Array.from(filter.querySelectorAll('[data-publication-filter]')) : [];
 
     if (!cards.length) {

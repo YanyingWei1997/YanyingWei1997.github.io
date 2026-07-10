@@ -80,10 +80,11 @@ lang: zh
   <div class="publication-body">
     <h3>Decision Rights, Fiscal Flows, and County Fiscal Expenditure: A Systems Perspective on China's Province-Managing-County Reform</h3>
     <div class="publication-authors">Jianfeng Liu, <strong>Yanying Wei</strong>*, Saihong Wang, Zuoji Dong</div>
-    <div class="publication-venue"><em>Systems</em>, 14(7), 819.</div>
+    <div class="publication-venue"><em>Systems</em>, 14(7), 819. JCR: Q2.</div>
     <div class="publication-footer">
       <div class="publication-tags">
         <span class="publication-tag">期刊论文</span>
+        <span class="publication-tag">JCR Q2</span>
       </div>
       <div class="publication-links">
         <a href="https://doi.org/10.3390/systems14070819" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
@@ -115,10 +116,11 @@ lang: zh
   <div class="publication-body">
     <h3>The Impact of the Low-Carbon City Pilot Policy on Energy Intensity: Evidence from a Staggered Difference-in-Differences Design</h3>
     <div class="publication-authors">Tianyu Wang, <strong>Yanying Wei</strong>*</div>
-    <div class="publication-venue"><em>Land</em>, 15(6), 913.</div>
+    <div class="publication-venue"><em>Land</em>, 15(6), 913. JCR: Q2.</div>
     <div class="publication-footer">
       <div class="publication-tags">
         <span class="publication-tag">期刊论文</span>
+        <span class="publication-tag">JCR Q2</span>
       </div>
       <div class="publication-links">
         <a href="https://doi.org/10.3390/land15060913" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
@@ -132,10 +134,11 @@ lang: zh
   <div class="publication-body">
     <h3>Fiscal Intermediaries, Transfer Delivery, and Sustainable Local Growth: Evidence from China’s Province-Managed-County Reform</h3>
     <div class="publication-authors">Jianfeng Liu, <strong>Yanying Wei</strong>*, Saihong Wang, Zuoji Dong</div>
-    <div class="publication-venue"><em>Sustainability</em>, 18(11), 5276.</div>
+    <div class="publication-venue"><em>Sustainability</em>, 18(11), 5276. JCR: Q2.</div>
     <div class="publication-footer">
       <div class="publication-tags">
         <span class="publication-tag">期刊论文</span>
+        <span class="publication-tag">JCR Q2</span>
       </div>
       <div class="publication-links">
         <a href="https://doi.org/10.3390/su18115276" class="btn-accent"><i class="fas fa-link"></i> DOI</a>
