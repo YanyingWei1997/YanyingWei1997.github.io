@@ -150,7 +150,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   <div class="publication-year">Review</div>
   <div class="publication-body">
     <h3>Analyzing the impact of electricity reforms on energy supply security: Green finance as a policy perspective</h3>
-    <div class="publication-authors"><strong>Yanying Wei</strong>, Lin Shi, Yuhong Jiang, Qian He</div>
+    <div class="publication-authors"><strong>Yanying Wei</strong>, Lin Shi, Yuhong Jiang, Qiuyu He</div>
     <div class="publication-venue">Under review at <em>Transportation Research Interdisciplinary Perspectives</em>.</div>
     <div class="publication-footer">
       <div class="publication-tags">
@@ -183,7 +183,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   <div class="publication-year">2024</div>
   <div class="publication-body">
     <h3>Analysis on efficiency and influencing factors of Guangxi technology and finance based on DEA model</h3>
-    <div class="publication-authors"><strong>Yanying Wei</strong>, Li Quan, Zhen Wei, Lixin Deng</div>
+    <div class="publication-authors"><strong>Yanying Wei</strong>, Linxu Quan, Zhenxi Wei, Linyun Deng</div>
     <div class="publication-venue"><em>Journal of Innovations in Economics & Management</em>, 5(1), 72.</div>
     <div class="publication-footer">
       <div class="publication-tags">
@@ -200,7 +200,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   <div class="publication-year">2024</div>
   <div class="publication-body">
     <h3>Research on the influence of ESG performance on BYD's innovation ability</h3>
-    <div class="publication-authors">Lixin Deng, Zhilan Deng, <strong>Yanying Wei</strong>*</div>
+    <div class="publication-authors">Linyun Deng, Zhilan Deng, <strong>Yanying Wei</strong>*</div>
     <div class="publication-venue"><em>Journal of Innovations in Economics & Management</em>, 5(1), 73.</div>
     <div class="publication-footer">
       <div class="publication-tags">
