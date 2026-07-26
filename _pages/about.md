@@ -50,15 +50,6 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   </div>
 </div>
 
-# <i class="fas fa-fire"></i> News
-
-- *2026*: &nbsp;Research outputs include fiscal governance, carbon peak pathways, low-carbon city policy, and sustainable local growth in <span class="primary-gradient-text">Systems</span>, <span class="primary-gradient-text">Energy Conversion and Management: X</span>, <span class="primary-gradient-text">Land</span>, and <span class="primary-gradient-text">Sustainability</span>.
-- *2025*: &nbsp;Promoted to Lecturer at the School of Digital Economics, <span class="primary-gradient-text">Nanning University</span>.
-- *2025*: &nbsp;Awarded provincial research funding for value-capture challenges and hub reconfiguration pathways in the Guangxi corridor economy.
-- *2025*: &nbsp;ACM EDAI 2025 paper on Dynamic Network-LSTM Model for Infrastructure REITs analysis.
-- *2024*: &nbsp;Research outputs include technology finance efficiency, ESG and innovation, and land use change research.
-- *2022*: &nbsp;Joined Nanning University after completing the M.Sc. in Finance at the University of Chinese Academy of Sciences.
-
 # <i class="fas fa-file-alt"></i> Publications
 
 <div class="publication-filter" role="group" aria-label="Filter publications by year">
@@ -254,6 +245,15 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 
 - *2019.09 - 2022.06*: &nbsp;M.Sc. in Finance, <a href="https://english.cas.cn/" target="_blank"><span class="primary-gradient-text">University of Chinese Academy of Sciences</span></a>. Advisor: <a href="https://baike.baidu.com/item/%E8%91%A3%E7%A5%9A%E7%BB%A7/8711508" target="_blank">Prof. Zuoji Dong</a>. Research areas: applied economics, natural resource management, industrial economics.
 - *2015.09 - 2019.06*: &nbsp;B.Sc. in Financial Mathematics, <a href="https://www.gxu.edu.cn/en/" target="_blank"><span class="primary-gradient-text">Guangxi University</span></a> (Project 211).
+
+# <i class="fas fa-fire"></i> News
+
+- *2026*: &nbsp;Research outputs include fiscal governance, carbon peak pathways, low-carbon city policy, and sustainable local growth in <span class="primary-gradient-text">Systems</span>, <span class="primary-gradient-text">Energy Conversion and Management: X</span>, <span class="primary-gradient-text">Land</span>, and <span class="primary-gradient-text">Sustainability</span>.
+- *2025*: &nbsp;Promoted to Lecturer at the School of Digital Economics, <span class="primary-gradient-text">Nanning University</span>.
+- *2025*: &nbsp;Awarded provincial research funding for value-capture challenges and hub reconfiguration pathways in the Guangxi corridor economy.
+- *2025*: &nbsp;ACM EDAI 2025 paper on Dynamic Network-LSTM Model for Infrastructure REITs analysis.
+- *2024*: &nbsp;Research outputs include technology finance efficiency, ESG and innovation, and land use change research.
+- *2022*: &nbsp;Joined Nanning University after completing the M.Sc. in Finance at the University of Chinese Academy of Sciences.
 
 # <i class="fas fa-chalkboard-teacher"></i> Teaching
 

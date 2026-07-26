@@ -47,17 +47,6 @@ lang: zh
   </div>
 </div>
 
-<span class='anchor' id='news'></span>
-
-# <i class="fas fa-fire"></i> 动态
-
-- *2026*: &nbsp;研究成果涵盖财政治理、碳达峰路径、低碳城市试点政策与县域可持续增长，涉及<span class="primary-gradient-text">Systems</span>、<span class="primary-gradient-text">Energy Conversion and Management: X</span>、<span class="primary-gradient-text">Land</span>和<span class="primary-gradient-text">Sustainability</span>。
-- *2025*: &nbsp;晋升为南宁学院数字经济学院<span class="primary-gradient-text">讲师</span>。
-- *2025*: &nbsp;获广西壮族自治区社科规划课题立项，研究西部陆海新通道下广西通道经济价值获取困境与枢纽重塑路径。
-- *2025*: &nbsp;ACM EDAI 2025 论文研究基础设施REITs的动态网络-LSTM分析模型。
-- *2024*: &nbsp;研究成果涵盖科技金融效率、ESG与创新、土地利用变化研究等方向。
-- *2022*: &nbsp;完成中国科学院大学金融学硕士学业后，加入南宁学院。
-
 <span class='anchor' id='publications'></span>
 
 # <i class="fas fa-file-alt"></i> 代表性成果
@@ -257,6 +246,17 @@ lang: zh
 
 - *2019.09 - 2022.06*: &nbsp;金融学硕士，<a href="https://www.ucas.ac.cn/" target="_blank"><span class="primary-gradient-text">中国科学院大学</span></a>。导师：<a href="https://baike.baidu.com/item/%E8%91%A3%E7%A5%9A%E7%BB%A7/8711508" target="_blank">董祚继教授</a>。研究方向：应用经济学、自然资源管理、产业经济学。
 - *2015.09 - 2019.06*: &nbsp;金融数学学士，<a href="https://www.gxu.edu.cn/" target="_blank"><span class="primary-gradient-text">广西大学</span></a>（211工程高校）。
+
+<span class='anchor' id='news'></span>
+
+# <i class="fas fa-fire"></i> 动态
+
+- *2026*: &nbsp;研究成果涵盖财政治理、碳达峰路径、低碳城市试点政策与县域可持续增长，涉及<span class="primary-gradient-text">Systems</span>、<span class="primary-gradient-text">Energy Conversion and Management: X</span>、<span class="primary-gradient-text">Land</span>和<span class="primary-gradient-text">Sustainability</span>。
+- *2025*: &nbsp;晋升为南宁学院数字经济学院<span class="primary-gradient-text">讲师</span>。
+- *2025*: &nbsp;获广西壮族自治区社科规划课题立项，研究西部陆海新通道下广西通道经济价值获取困境与枢纽重塑路径。
+- *2025*: &nbsp;ACM EDAI 2025 论文研究基础设施REITs的动态网络-LSTM分析模型。
+- *2024*: &nbsp;研究成果涵盖科技金融效率、ESG与创新、土地利用变化研究等方向。
+- *2022*: &nbsp;完成中国科学院大学金融学硕士学业后，加入南宁学院。
 
 <span class='anchor' id='teaching'></span>
 
