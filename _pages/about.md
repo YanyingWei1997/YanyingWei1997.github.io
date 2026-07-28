@@ -300,9 +300,9 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
       <li>
         <div class="cv-item-header">
           <span class="cv-item-title">Python and AI Programming Smart Course Initiative</span>
-          <span class="cv-item-date">2025</span>
+          <span class="cv-item-date">2025–2026</span>
         </div>
-        <div class="cv-item-details"><strong>Approved project</strong> | Nanning University</div>
+        <div class="cv-item-details"><strong>PI</strong> | Nanning University</div>
       </li>
     </ul>
   </section>

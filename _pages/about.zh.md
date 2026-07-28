@@ -307,9 +307,9 @@ lang: zh
       <li>
         <div class="cv-item-header">
           <span class="cv-item-title">Python 与 AI 编程智慧课程立项</span>
-          <span class="cv-item-date">2025</span>
+          <span class="cv-item-date">2025–2026</span>
         </div>
-        <div class="cv-item-details"><strong>立项</strong> | 南宁学院</div>
+        <div class="cv-item-details"><strong>主持</strong> | 南宁学院</div>
       </li>
     </ul>
   </section>
