@@ -17,9 +17,9 @@ My research interests include <span class="accent-text">computational social sci
 
 <div class="quote-accent">
 I am actively seeking a PhD position for Fall 2027 in computational social science, policy simulation, environmental economics, or regional economics.
-</div>
 
 Feel free to reach out if you would like to discuss research collaboration, PhD opportunities, or policy-oriented empirical work.
+</div>
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">

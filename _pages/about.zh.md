@@ -14,9 +14,9 @@ lang: zh
 
 <div class="quote-accent">
 我正积极申请2027年秋季博士项目，研究方向涵盖计算社会科学、政策仿真、环境经济学和区域经济学。
-</div>
 
 欢迎就科研合作、博士机会或政策导向的实证研究与我联系。
+</div>
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
