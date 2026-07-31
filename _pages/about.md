@@ -272,7 +272,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
       <li>
         <div class="cv-item-header">
           <span class="cv-item-title">AI-Enabled Integrated Teaching Model for a FinTech Course Cluster in ASEAN Financial Contexts</span>
-          <span class="cv-item-date">2026</span>
+          <span class="cv-item-date">2026–2029</span>
         </div>
         <div class="cv-item-details"><strong>PI</strong> | Provincial-Level Teaching Reform Project, Guangxi Department of Education, Grant No. GXGZJG2026B264</div>
       </li>
