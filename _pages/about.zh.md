@@ -278,6 +278,13 @@ lang: zh
     <ul class="academic-cv-list compact">
       <li>
         <div class="cv-item-header">
+          <span class="cv-item-title">AI赋能东盟金融场景下金融科技课程群“学训评就”一体化教学模式研究</span>
+          <span class="cv-item-date">2026</span>
+        </div>
+        <div class="cv-item-details"><strong>主持</strong> | 广西壮族自治区教育厅省级教学改革项目，项目编号：GXGZJG2026B264</div>
+      </li>
+      <li>
+        <div class="cv-item-header">
           <span class="cv-item-title">西部陆海新通道下广西通道经济价值获取困境与增量枢纽重塑路径研究</span>
           <span class="cv-item-date">2025–2028</span>
         </div>
