@@ -869,6 +869,14 @@ body {
 }
 
 .achievement-body {
+  align-items: start;
+  display: grid;
+  grid-template-areas:
+    "title meta"
+    "tags tags";
+  grid-template-columns: minmax(0, 1fr) auto;
+  row-gap: 0.35rem;
+  column-gap: 0.8rem;
   min-width: 0;
 }
 
@@ -876,22 +884,27 @@ body {
   color: #012F63;
   font-size: 1rem;
   font-weight: 700;
+  grid-area: title;
   letter-spacing: 0;
   line-height: 1.38;
-  margin: 0 0 0.35rem;
+  margin: 0;
+  min-width: 0;
 }
 
 .achievement-meta {
   color: #596579;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
+  grid-area: meta;
   line-height: 1.45;
+  white-space: nowrap;
 }
 
 .achievement-tags {
   display: flex;
   flex-wrap: wrap;
   gap: 0.4rem;
-  margin-top: 0.65rem;
+  grid-area: tags;
+  margin-top: 0.1rem;
 }
 
 .achievement-tag {
