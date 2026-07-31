@@ -872,14 +872,6 @@ body {
   display: none !important;
 }
 
-.achievement-level {
-  color: #012F63;
-  font-size: 0.78rem;
-  font-weight: 800;
-  line-height: 1.25;
-  padding-top: 0.18rem;
-}
-
 .achievement-body {
   min-width: 0;
 }

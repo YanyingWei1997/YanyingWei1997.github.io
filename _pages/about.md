@@ -259,7 +259,6 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
     <h3><i class="fas fa-flask"></i> Funding</h3>
     <div class="achievement-list">
       <article class="achievement-entry" data-level="provincial-ministerial">
-        <div class="achievement-level">Provincial<br>Ministerial</div>
         <div class="achievement-body">
           <h3>AI-Enabled Integrated Teaching Model for a FinTech Course Cluster in ASEAN Financial Contexts</h3>
           <div class="achievement-meta">PI | Guangxi Department of Education, Grant No. GXGZJG2026B264 | 2026–2029</div>
@@ -267,7 +266,6 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
         </div>
       </article>
       <article class="achievement-entry" data-level="provincial-ministerial">
-        <div class="achievement-level">Provincial<br>Ministerial</div>
         <div class="achievement-body">
           <h3>Value-Capture Challenges and Incremental Hub Reconfiguration Pathways for the Guangxi Corridor Economy under the New International Land-Sea Trade Corridor</h3>
           <div class="achievement-meta">PI | Guangxi Zhuang Autonomous Region Philosophy and Social Sciences Office, Grant No. 25JYF186 | 2025–2028</div>
@@ -275,7 +273,6 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
         </div>
       </article>
       <article class="achievement-entry" data-level="provincial-ministerial">
-        <div class="achievement-level">Provincial<br>Ministerial</div>
         <div class="achievement-body">
           <h3>Carbon Emission Decoupling and Driving Mechanisms in Guangxi under the Dual-Carbon Target</h3>
           <div class="achievement-meta">PI | Guangxi Department of Education, Grant No. 2024-KY-1871 | 2024–2025</div>
@@ -283,7 +280,6 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
         </div>
       </article>
       <article class="achievement-entry" data-level="university">
-        <div class="achievement-level">University</div>
         <div class="achievement-body">
           <h3>Python and AI Programming Smart Course</h3>
           <div class="achievement-meta">PI | Nanning University, Project No. 2026-SZJJ-ZHKC03 | 2026</div>
@@ -296,7 +292,6 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
     <h3><i class="fas fa-trophy"></i> Honors</h3>
     <div class="achievement-list">
       <article class="achievement-entry" data-level="national">
-        <div class="achievement-level">National</div>
         <div class="achievement-body">
           <h3>Top Academic Paper in China's Excellent Scientific and Technical Journals</h3>
           <div class="achievement-meta">Institute of Scientific and Technical Information of China | 2023</div>
@@ -304,7 +299,6 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
         </div>
       </article>
       <article class="achievement-entry" data-level="municipal-departmental">
-        <div class="achievement-level">Municipal<br>Departmental</div>
         <div class="achievement-body">
           <h3>ICBC Cup Outstanding Instructor Award</h3>
           <div class="achievement-meta">Industrial and Commercial Bank of China Guangxi Branch | 2022, 2023, 2025</div>
@@ -312,7 +306,6 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
         </div>
       </article>
       <article class="achievement-entry" data-level="university">
-        <div class="achievement-level">University</div>
         <div class="achievement-body">
           <h3>Outstanding Graduation Thesis Advisor</h3>
           <div class="achievement-meta">Nanning University | 2024, 2025</div>
@@ -320,7 +313,6 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
         </div>
       </article>
       <article class="achievement-entry" data-level="university">
-        <div class="achievement-level">University</div>
         <div class="achievement-body">
           <h3>General Typical Case of Research-Informed Teaching</h3>
           <div class="achievement-meta">Nanning University | 2025</div>
@@ -328,7 +320,6 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
         </div>
       </article>
       <article class="achievement-entry" data-level="university">
-        <div class="achievement-level">University</div>
         <div class="achievement-body">
           <h3>Third Prize, Teaching Skills Competition</h3>
           <div class="achievement-meta">Nanning University | 2022</div>
