@@ -856,11 +856,7 @@ body {
 }
 
 .achievement-entry {
-  align-items: start;
   border-bottom: 1px solid rgba(1, 47, 99, 0.08);
-  display: grid;
-  gap: 1rem;
-  grid-template-columns: 6.25rem minmax(0, 1fr);
   padding: 1.05rem 0;
 }
 
@@ -1004,12 +1000,6 @@ body {
   }
 
   .publication-entry {
-    grid-template-columns: 1fr;
-    gap: 0.45rem;
-    padding: 1rem 0;
-  }
-
-  .achievement-entry {
     grid-template-columns: 1fr;
     gap: 0.45rem;
     padding: 1rem 0;
