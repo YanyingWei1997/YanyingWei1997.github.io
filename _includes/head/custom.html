@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function() {
   }, observerOptions);
   
   // 为元素添加动画类
-  document.querySelectorAll('.paper-box, .publication-entry, .highlight-block').forEach(el => {
+  document.querySelectorAll('.paper-box, .publication-entry, .achievement-entry, .highlight-block').forEach(el => {
     el.classList.add('fade-in-up');
     observer.observe(el);
   });
@@ -127,6 +127,49 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     updatePublications();
+  });
+
+  document.querySelectorAll('.achievement-list').forEach(list => {
+    let filter = list.previousElementSibling;
+    while (filter && !filter.classList.contains('achievement-filter')) {
+      filter = filter.previousElementSibling;
+    }
+
+    const entries = Array.from(list.querySelectorAll(':scope > .achievement-entry'));
+    const filterButtons = filter ? Array.from(filter.querySelectorAll('[data-achievement-filter]')) : [];
+    const emptyState = list.nextElementSibling;
+
+    const updateAchievements = () => {
+      const activeButton = filterButtons.find(button => button.classList.contains('is-active'));
+      const activeFilter = activeButton ? activeButton.dataset.achievementFilter : 'all';
+      let matchCount = 0;
+
+      entries.forEach(entry => {
+        const matches = activeFilter === 'all' || entry.dataset.level === activeFilter;
+        entry.classList.toggle('achievement-hidden', !matches);
+        if (matches) {
+          matchCount += 1;
+        }
+      });
+
+      if (emptyState && emptyState.classList.contains('achievement-empty')) {
+        emptyState.hidden = matchCount > 0;
+      }
+    };
+
+    filterButtons.forEach(button => {
+      button.addEventListener('click', () => {
+        filterButtons.forEach(item => {
+          item.classList.remove('is-active');
+          item.setAttribute('aria-pressed', 'false');
+        });
+        button.classList.add('is-active');
+        button.setAttribute('aria-pressed', 'true');
+        updateAchievements();
+      });
+    });
+
+    updateAchievements();
   });
 });
 

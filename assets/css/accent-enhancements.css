@@ -806,6 +806,125 @@ body {
   display: none !important;
 }
 
+.achievement-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.9rem 0 1rem;
+}
+
+.achievement-filter-btn {
+  background: rgba(1, 47, 99, 0.05);
+  border: 1px solid rgba(1, 47, 99, 0.1);
+  border-radius: 6px;
+  color: #012F63;
+  cursor: pointer;
+  font-size: 0.84rem;
+  font-weight: 700;
+  line-height: 1;
+  padding: 0.52rem 0.72rem;
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
+}
+
+.achievement-filter-btn:hover {
+  background: rgba(254, 102, 123, 0.08);
+  border-color: rgba(254, 102, 123, 0.2);
+  color: #b93249;
+  transform: translateY(-1px);
+}
+
+.achievement-filter-btn.is-active {
+  background: #FE667B;
+  border-color: #FE667B;
+  color: #fff;
+  box-shadow: 0 3px 9px rgba(254, 102, 123, 0.22);
+}
+
+.achievement-filter-btn:focus-visible {
+  outline: 3px solid rgba(254, 102, 123, 0.25);
+  outline-offset: 2px;
+}
+
+.achievement-list {
+  border-bottom: 1px solid rgba(1, 47, 99, 0.12);
+  border-top: 1px solid rgba(1, 47, 99, 0.12);
+  margin: 1.2rem 0 2.3rem;
+}
+
+.achievement-entry {
+  align-items: start;
+  border-bottom: 1px solid rgba(1, 47, 99, 0.08);
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 6.25rem minmax(0, 1fr);
+  padding: 1.05rem 0;
+}
+
+.achievement-entry:last-child {
+  border-bottom: none;
+}
+
+.achievement-entry.achievement-hidden {
+  display: none !important;
+}
+
+.achievement-level {
+  color: #012F63;
+  font-size: 0.78rem;
+  font-weight: 800;
+  line-height: 1.25;
+  padding-top: 0.18rem;
+}
+
+.achievement-body {
+  min-width: 0;
+}
+
+.achievement-body h3 {
+  color: #012F63;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 1.38;
+  margin: 0 0 0.35rem;
+}
+
+.achievement-meta {
+  color: #596579;
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.achievement-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.65rem;
+}
+
+.achievement-tag {
+  background: rgba(1, 47, 99, 0.06);
+  border: 1px solid rgba(1, 47, 99, 0.08);
+  border-radius: 6px;
+  color: #012F63;
+  font-size: 0.72rem;
+  font-weight: 700;
+  line-height: 1.15;
+  padding: 0.24rem 0.45rem;
+}
+
+.achievement-tag.accent {
+  background: rgba(254, 102, 123, 0.1);
+  border-color: rgba(254, 102, 123, 0.22);
+  color: #b93249;
+}
+
+.achievement-empty {
+  color: #596579;
+  font-size: 0.92rem;
+  margin: 1rem 0 2.3rem;
+}
+
 .publications-more-wrap {
   display: flex;
   justify-content: center;
@@ -889,6 +1008,12 @@ body {
   }
 
   .publication-entry {
+    grid-template-columns: 1fr;
+    gap: 0.45rem;
+    padding: 1rem 0;
+  }
+
+  .achievement-entry {
     grid-template-columns: 1fr;
     gap: 0.45rem;
     padding: 1rem 0;

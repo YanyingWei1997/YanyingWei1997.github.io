@@ -265,96 +265,89 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
 
 # <i class="fas fa-award"></i> Funding & Honors
 
-<div class="funding-honors-grid">
-  <section class="funding-honors-panel">
-    <h3><i class="fas fa-seedling"></i> Funding</h3>
-    <ul class="academic-cv-list compact">
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">AI-Enabled Integrated Teaching Model for a FinTech Course Cluster in ASEAN Financial Contexts</span>
-          <span class="cv-item-date">2026–2029</span>
-        </div>
-        <div class="cv-item-details"><strong>PI</strong> | Provincial-Level Teaching Reform Project, Guangxi Department of Education, Grant No. GXGZJG2026B264</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">Value-capture challenges and incremental hub reconfiguration pathways for the Guangxi corridor economy under the New International Land-Sea Trade Corridor</span>
-          <span class="cv-item-date">2025–2028</span>
-        </div>
-        <div class="cv-item-details"><strong>PI</strong> | Guangxi Zhuang Autonomous Region Philosophy and Social Sciences Office, Grant No. 25JYF186</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">Feixiangjia: A solid waste management platform tailored for SMEs</span>
-          <span class="cv-item-date">2024–2027</span>
-        </div>
-        <div class="cv-item-details"><strong>PI</strong> | Nanning University, Grant No. S2024-1154-9017X</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">Research on the decoupling state and driving mechanism of carbon emissions in Guangxi under the dual-carbon target</span>
-          <span class="cv-item-date">2024–2025</span>
-        </div>
-        <div class="cv-item-details"><strong>PI</strong> | Department of Education of Guangxi Zhuang Autonomous Region, Grant No. 2024-KY-1871</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">Digital empowerment for bank loans and regulatory innovation</span>
-          <span class="cv-item-date">2024</span>
-        </div>
-        <div class="cv-item-details"><strong>PI</strong> | Nanning University, Grant No. S2023-1154-9126</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">Python and AI Programming Smart Course Initiative</span>
-          <span class="cv-item-date">2025–2026</span>
-        </div>
-        <div class="cv-item-details"><strong>PI</strong> | Nanning University</div>
-      </li>
-    </ul>
-  </section>
-
-  <section class="funding-honors-panel">
-    <h3><i class="fas fa-medal"></i> Honors · Last 5 Years</h3>
-    <ul class="academic-cv-list compact">
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">Outstanding Graduation Thesis Advisor</span>
-          <span class="cv-item-date">2024 & 2025</span>
-        </div>
-        <div class="cv-item-details">Nanning University</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">ICBC Cup Outstanding Instructor Award</span>
-          <span class="cv-item-date">2022, 2023 & 2025</span>
-        </div>
-        <div class="cv-item-details">Industrial and Commercial Bank of China Guangxi Branch</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">General Typical Case of Research-Informed Teaching, 2024-2025</span>
-          <span class="cv-item-date">2025</span>
-        </div>
-        <div class="cv-item-details">Nanning University</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">Top Academic Paper in China's Excellent Scientific and Technical Journals</span>
-          <span class="cv-item-date">2023</span>
-        </div>
-        <div class="cv-item-details">Institute of Scientific and Technical Information of China</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">Third Prize</span>
-          <span class="cv-item-date">2022</span>
-        </div>
-        <div class="cv-item-details">Nanning University Teaching Skills Competition</div>
-      </li>
-    </ul>
-  </section>
+<div class="achievement-filter" role="group" aria-label="Filter funding and honors by level">
+  <button type="button" class="achievement-filter-btn is-active" data-achievement-filter="all" aria-pressed="true">All</button>
+  <button type="button" class="achievement-filter-btn" data-achievement-filter="national" aria-pressed="false">National</button>
+  <button type="button" class="achievement-filter-btn" data-achievement-filter="provincial-ministerial" aria-pressed="false">Provincial / Ministerial</button>
+  <button type="button" class="achievement-filter-btn" data-achievement-filter="municipal-departmental" aria-pressed="false">Municipal / Departmental</button>
+  <button type="button" class="achievement-filter-btn" data-achievement-filter="university" aria-pressed="false">University</button>
 </div>
+
+<div class="achievement-list">
+  <article class="achievement-entry" data-level="provincial-ministerial">
+    <div class="achievement-level">Provincial<br>Ministerial</div>
+    <div class="achievement-body">
+      <h3>AI-Enabled Integrated Teaching Model for a FinTech Course Cluster in ASEAN Financial Contexts</h3>
+      <div class="achievement-meta">PI | Guangxi Department of Education, Grant No. GXGZJG2026B264 | 2026–2029</div>
+      <div class="achievement-tags"><span class="achievement-tag">Project</span><span class="achievement-tag accent">Provincial / Ministerial</span></div>
+    </div>
+  </article>
+  <article class="achievement-entry" data-level="provincial-ministerial">
+    <div class="achievement-level">Provincial<br>Ministerial</div>
+    <div class="achievement-body">
+      <h3>Value-Capture Challenges and Incremental Hub Reconfiguration Pathways for the Guangxi Corridor Economy under the New International Land-Sea Trade Corridor</h3>
+      <div class="achievement-meta">PI | Guangxi Zhuang Autonomous Region Philosophy and Social Sciences Office, Grant No. 25JYF186 | 2025–2028</div>
+      <div class="achievement-tags"><span class="achievement-tag">Project</span><span class="achievement-tag accent">Provincial / Ministerial</span></div>
+    </div>
+  </article>
+  <article class="achievement-entry" data-level="provincial-ministerial">
+    <div class="achievement-level">Provincial<br>Ministerial</div>
+    <div class="achievement-body">
+      <h3>Carbon Emission Decoupling and Driving Mechanisms in Guangxi under the Dual-Carbon Target</h3>
+      <div class="achievement-meta">PI | Guangxi Department of Education, Grant No. 2024-KY-1871 | 2024–2025</div>
+      <div class="achievement-tags"><span class="achievement-tag">Project</span><span class="achievement-tag accent">Provincial / Ministerial</span></div>
+    </div>
+  </article>
+  <article class="achievement-entry" data-level="municipal-departmental">
+    <div class="achievement-level">Municipal<br>Departmental</div>
+    <div class="achievement-body">
+      <h3>ICBC Cup Outstanding Instructor Award</h3>
+      <div class="achievement-meta">Industrial and Commercial Bank of China Guangxi Branch | 2022, 2023, 2025</div>
+      <div class="achievement-tags"><span class="achievement-tag">Honor</span><span class="achievement-tag accent">Municipal / Departmental</span></div>
+    </div>
+  </article>
+  <article class="achievement-entry" data-level="university">
+    <div class="achievement-level">University</div>
+    <div class="achievement-body">
+      <h3>Python and AI Programming Smart Course</h3>
+      <div class="achievement-meta">PI | Nanning University, Project No. 2026-SZJJ-ZHKC03 | 2026</div>
+      <div class="achievement-tags"><span class="achievement-tag">Project</span><span class="achievement-tag accent">University</span></div>
+    </div>
+  </article>
+  <article class="achievement-entry" data-level="university">
+    <div class="achievement-level">University</div>
+    <div class="achievement-body">
+      <h3>Outstanding Graduation Thesis Advisor</h3>
+      <div class="achievement-meta">Nanning University | 2024, 2025</div>
+      <div class="achievement-tags"><span class="achievement-tag">Honor</span><span class="achievement-tag accent">University</span></div>
+    </div>
+  </article>
+  <article class="achievement-entry" data-level="university">
+    <div class="achievement-level">University</div>
+    <div class="achievement-body">
+      <h3>General Typical Case of Research-Informed Teaching</h3>
+      <div class="achievement-meta">Nanning University | 2025</div>
+      <div class="achievement-tags"><span class="achievement-tag">Honor</span><span class="achievement-tag accent">University</span></div>
+    </div>
+  </article>
+  <article class="achievement-entry" data-level="national">
+    <div class="achievement-level">National</div>
+    <div class="achievement-body">
+      <h3>Top Academic Paper in China's Excellent Scientific and Technical Journals</h3>
+      <div class="achievement-meta">Institute of Scientific and Technical Information of China | 2023</div>
+      <div class="achievement-tags"><span class="achievement-tag">Honor</span><span class="achievement-tag accent">National</span></div>
+    </div>
+  </article>
+  <article class="achievement-entry" data-level="university">
+    <div class="achievement-level">University</div>
+    <div class="achievement-body">
+      <h3>Third Prize, Teaching Skills Competition</h3>
+      <div class="achievement-meta">Nanning University | 2022</div>
+      <div class="achievement-tags"><span class="achievement-tag">Honor</span><span class="achievement-tag accent">University</span></div>
+    </div>
+  </article>
+</div>
+<p class="achievement-empty" hidden>No matching projects or honors.</p>
 
 # <i class="fas fa-blog"></i> Notes
 

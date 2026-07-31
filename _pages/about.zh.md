@@ -272,96 +272,89 @@ lang: zh
 
 # <i class="fas fa-award"></i> 科研项目与荣誉
 
-<div class="funding-honors-grid">
-  <section class="funding-honors-panel">
-    <h3><i class="fas fa-seedling"></i> 科研项目</h3>
-    <ul class="academic-cv-list compact">
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">AI赋能东盟金融场景下金融科技课程群“学训评就”一体化教学模式研究</span>
-          <span class="cv-item-date">2026–2029</span>
-        </div>
-        <div class="cv-item-details"><strong>主持</strong> | 广西壮族自治区教育厅省级教学改革项目，项目编号：GXGZJG2026B264</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">西部陆海新通道下广西通道经济价值获取困境与增量枢纽重塑路径研究</span>
-          <span class="cv-item-date">2025–2028</span>
-        </div>
-        <div class="cv-item-details"><strong>主持</strong> | 广西壮族自治区哲学社会科学工作办公室，项目编号：25JYF186</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">“废享家”面向中小微企业的固废管理平台</span>
-          <span class="cv-item-date">2024–2027</span>
-        </div>
-        <div class="cv-item-details"><strong>主持</strong> | 南宁学院，项目编号：S2024-1154-9017X</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">“双碳”目标下广西碳排放脱钩状态及驱动机制研究</span>
-          <span class="cv-item-date">2024–2025</span>
-        </div>
-        <div class="cv-item-details"><strong>主持</strong> | 广西壮族自治区教育厅，项目编号：2024-KY-1871</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">银行贷款数字赋能与监管创新研究</span>
-          <span class="cv-item-date">2024</span>
-        </div>
-        <div class="cv-item-details"><strong>主持</strong> | 南宁学院，项目编号：S2023-1154-9126</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">Python 与 AI 编程智慧课程立项</span>
-          <span class="cv-item-date">2025–2026</span>
-        </div>
-        <div class="cv-item-details"><strong>主持</strong> | 南宁学院</div>
-      </li>
-    </ul>
-  </section>
-
-  <section class="funding-honors-panel">
-    <h3><i class="fas fa-medal"></i> 荣誉 · 近五年</h3>
-    <ul class="academic-cv-list compact">
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">优秀毕业论文指导教师</span>
-          <span class="cv-item-date">2024 & 2025</span>
-        </div>
-        <div class="cv-item-details">南宁学院</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">工行杯优秀指导教师</span>
-          <span class="cv-item-date">2022, 2023 & 2025</span>
-        </div>
-        <div class="cv-item-details">中国工商银行股份有限公司广西壮族自治区分行</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">2024-2025 南宁学院科研反哺一般典型案例</span>
-          <span class="cv-item-date">2025</span>
-        </div>
-        <div class="cv-item-details">南宁学院</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">中国精品科技期刊顶尖学术论文</span>
-          <span class="cv-item-date">2023</span>
-        </div>
-        <div class="cv-item-details">中国科学技术信息研究所</div>
-      </li>
-      <li>
-        <div class="cv-item-header">
-          <span class="cv-item-title">教学技能比赛三等奖</span>
-          <span class="cv-item-date">2022</span>
-        </div>
-        <div class="cv-item-details">南宁学院</div>
-      </li>
-    </ul>
-  </section>
+<div class="achievement-filter" role="group" aria-label="按层级筛选科研项目与荣誉">
+  <button type="button" class="achievement-filter-btn is-active" data-achievement-filter="all" aria-pressed="true">全部</button>
+  <button type="button" class="achievement-filter-btn" data-achievement-filter="national" aria-pressed="false">国家级</button>
+  <button type="button" class="achievement-filter-btn" data-achievement-filter="provincial-ministerial" aria-pressed="false">省部级</button>
+  <button type="button" class="achievement-filter-btn" data-achievement-filter="municipal-departmental" aria-pressed="false">市厅级</button>
+  <button type="button" class="achievement-filter-btn" data-achievement-filter="university" aria-pressed="false">校级</button>
 </div>
+
+<div class="achievement-list">
+  <article class="achievement-entry" data-level="provincial-ministerial">
+    <div class="achievement-level">省部级</div>
+    <div class="achievement-body">
+      <h3>AI赋能东盟金融场景下金融科技课程群“学训评就”一体化教学模式研究</h3>
+      <div class="achievement-meta">主持 | 广西壮族自治区教育厅，项目编号：GXGZJG2026B264 | 2026–2029</div>
+      <div class="achievement-tags"><span class="achievement-tag">科研项目</span><span class="achievement-tag accent">省部级</span></div>
+    </div>
+  </article>
+  <article class="achievement-entry" data-level="provincial-ministerial">
+    <div class="achievement-level">省部级</div>
+    <div class="achievement-body">
+      <h3>西部陆海新通道下广西通道经济价值捕获困境与增量枢纽重构路径研究</h3>
+      <div class="achievement-meta">主持 | 广西壮族自治区哲学社会科学工作办公室，项目编号：25JYF186 | 2025–2028</div>
+      <div class="achievement-tags"><span class="achievement-tag">科研项目</span><span class="achievement-tag accent">省部级</span></div>
+    </div>
+  </article>
+  <article class="achievement-entry" data-level="provincial-ministerial">
+    <div class="achievement-level">省部级</div>
+    <div class="achievement-body">
+      <h3>“双碳”目标下广西碳排放脱钩状态及驱动机制研究</h3>
+      <div class="achievement-meta">主持 | 广西壮族自治区教育厅，项目编号：2024-KY-1871 | 2024–2025</div>
+      <div class="achievement-tags"><span class="achievement-tag">科研项目</span><span class="achievement-tag accent">省部级</span></div>
+    </div>
+  </article>
+  <article class="achievement-entry" data-level="municipal-departmental">
+    <div class="achievement-level">市厅级</div>
+    <div class="achievement-body">
+      <h3>工行杯优秀指导教师</h3>
+      <div class="achievement-meta">中国工商银行股份有限公司广西壮族自治区分行 | 2022、2023、2025</div>
+      <div class="achievement-tags"><span class="achievement-tag">荣誉奖项</span><span class="achievement-tag accent">市厅级</span></div>
+    </div>
+  </article>
+  <article class="achievement-entry" data-level="university">
+    <div class="achievement-level">校级</div>
+    <div class="achievement-body">
+      <h3>Python 与 AI 编程智慧课程</h3>
+      <div class="achievement-meta">主持 | 南宁学院，项目编号：2026-SZJJ-ZHKC03 | 2026</div>
+      <div class="achievement-tags"><span class="achievement-tag">科研项目</span><span class="achievement-tag accent">校级</span></div>
+    </div>
+  </article>
+  <article class="achievement-entry" data-level="university">
+    <div class="achievement-level">校级</div>
+    <div class="achievement-body">
+      <h3>优秀毕业论文指导教师</h3>
+      <div class="achievement-meta">南宁学院 | 2024、2025</div>
+      <div class="achievement-tags"><span class="achievement-tag">荣誉奖项</span><span class="achievement-tag accent">校级</span></div>
+    </div>
+  </article>
+  <article class="achievement-entry" data-level="university">
+    <div class="achievement-level">校级</div>
+    <div class="achievement-body">
+      <h3>2024–2025 南宁学院科研反哺一般典型案例</h3>
+      <div class="achievement-meta">南宁学院 | 2025</div>
+      <div class="achievement-tags"><span class="achievement-tag">荣誉奖项</span><span class="achievement-tag accent">校级</span></div>
+    </div>
+  </article>
+  <article class="achievement-entry" data-level="national">
+    <div class="achievement-level">国家级</div>
+    <div class="achievement-body">
+      <h3>中国精品科技期刊顶尖学术论文</h3>
+      <div class="achievement-meta">中国科学技术信息研究所 | 2023</div>
+      <div class="achievement-tags"><span class="achievement-tag">荣誉奖项</span><span class="achievement-tag accent">国家级</span></div>
+    </div>
+  </article>
+  <article class="achievement-entry" data-level="university">
+    <div class="achievement-level">校级</div>
+    <div class="achievement-body">
+      <h3>教学技能比赛三等奖</h3>
+      <div class="achievement-meta">南宁学院 | 2022</div>
+      <div class="achievement-tags"><span class="achievement-tag">荣誉奖项</span><span class="achievement-tag accent">校级</span></div>
+    </div>
+  </article>
+</div>
+<p class="achievement-empty" hidden>暂无匹配的科研项目或荣誉。</p>
 
 <span class='anchor' id='notes'></span>
 
