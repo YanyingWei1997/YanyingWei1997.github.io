@@ -910,8 +910,9 @@ body {
   align-items: start;
   display: grid;
   grid-template-areas:
-    "title title"
-    "meta tags";
+    "title period"
+    "meta meta"
+    "tags tags";
   grid-template-columns: minmax(0, 1fr) auto;
   row-gap: 0.45rem;
   column-gap: 0.8rem;
@@ -927,6 +928,18 @@ body {
   line-height: 1.38;
   margin: 0;
   min-width: 0;
+}
+
+.achievement-period {
+  align-self: start;
+  border-left: 2px solid #FE667B;
+  color: #b93249;
+  font-size: 0.82rem;
+  font-weight: 800;
+  grid-area: period;
+  line-height: 1.25;
+  padding-left: 0.45rem;
+  white-space: nowrap;
 }
 
 .achievement-meta {
@@ -1072,10 +1085,10 @@ body {
 
   .achievement-body {
     grid-template-areas:
-      "title"
-      "meta"
-      "tags";
-    grid-template-columns: 1fr;
+      "title period"
+      "meta meta"
+      "tags tags";
+    grid-template-columns: minmax(0, 1fr) auto;
     row-gap: 0.4rem;
   }
 
