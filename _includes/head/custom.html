@@ -189,14 +189,14 @@
       const filterButtons = Array.from(
         filter.querySelectorAll("[data-achievement-filter]"),
       );
-      const grid = filter.nextElementSibling;
-      const lists = grid
-        ? Array.from(grid.querySelectorAll(".achievement-list"))
+      const collection = filter.nextElementSibling;
+      const entries = collection
+        ? Array.from(collection.querySelectorAll(".achievement-entry"))
         : [];
-      const entries = lists.flatMap((list) =>
-        Array.from(list.querySelectorAll(":scope > .achievement-entry")),
-      );
-      const emptyState = grid ? grid.nextElementSibling : null;
+      const panels = collection
+        ? Array.from(collection.querySelectorAll(".funding-honors-panel"))
+        : [];
+      const emptyState = collection ? collection.nextElementSibling : null;
 
       const updateAchievements = () => {
         const activeButton = filterButtons.find((button) =>
@@ -215,6 +215,24 @@
             matchCount += 1;
           }
         });
+
+        let visiblePanelCount = 0;
+        panels.forEach((panel) => {
+          const hasMatchingEntry = Array.from(
+            panel.querySelectorAll(".achievement-entry"),
+          ).some(
+            (entry) =>
+              activeFilter === "all" || entry.dataset.level === activeFilter,
+          );
+          panel.hidden = !hasMatchingEntry;
+          if (hasMatchingEntry) {
+            visiblePanelCount += 1;
+          }
+        });
+        collection?.classList.toggle(
+          "achievement-single-column",
+          visiblePanelCount === 1,
+        );
 
         if (emptyState && emptyState.classList.contains("achievement-empty")) {
           emptyState.hidden = matchCount > 0;
@@ -237,7 +255,9 @@
     });
 
     document.querySelectorAll(".notes-filter").forEach((filter) => {
-      const buttons = Array.from(filter.querySelectorAll("[data-notes-filter]"));
+      const buttons = Array.from(
+        filter.querySelectorAll("[data-notes-filter]"),
+      );
       const section = filter.closest(".local-blogs-section");
       const cards = section
         ? Array.from(section.querySelectorAll(".blog-card-link[data-year]"))

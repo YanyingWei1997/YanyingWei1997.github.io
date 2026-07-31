@@ -262,7 +262,7 @@ lang: zh
 </div>
 
 <div class="funding-honors-grid">
-  <div class="funding-honors-panel">
+  <section class="funding-honors-panel">
     <h3><i class="fas fa-flask"></i> 科研项目</h3>
     <div class="achievement-list">
       <article class="achievement-entry" data-level="provincial-ministerial">
@@ -294,8 +294,8 @@ lang: zh
         </div>
       </article>
     </div>
-  </div>
-  <div class="funding-honors-panel">
+  </section>
+  <section class="funding-honors-panel">
     <h3><i class="fas fa-trophy"></i> 荣誉奖项</h3>
     <div class="achievement-list">
       <article class="achievement-entry" data-level="national">
@@ -334,7 +334,7 @@ lang: zh
         </div>
       </article>
     </div>
-  </div>
+  </section>
 </div>
 <p class="achievement-empty" hidden>暂无匹配的科研项目或荣誉。</p>
 
@@ -389,87 +389,3 @@ lang: zh
     {% endfor %}
   </div>
 </div>
-
-<style>
-.funding-honors-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1.1rem;
-  margin: 1rem 0 2rem;
-}
-.funding-honors-panel {
-  background: #fff;
-  border: 1px solid rgba(1, 47, 99, 0.08);
-  border-radius: 8px;
-  box-shadow: 0 2px 10px rgba(1, 47, 99, 0.06);
-  padding: 1rem 1.1rem;
-}
-.funding-honors-panel h3 {
-  margin-top: 0;
-  margin-bottom: 0.8rem;
-  color: var(--primary-color, #012F63);
-}
-.academic-cv-list {
-  list-style: none;
-  padding-left: 0;
-  margin-top: 0.5em;
-  margin-bottom: 2em;
-}
-.academic-cv-list li {
-  margin-bottom: 1.1em;
-  padding-bottom: 1.1em;
-  border-bottom: 1px dashed rgba(0,0,0,0.1);
-}
-.academic-cv-list.compact li {
-  margin-bottom: 1em;
-  padding-bottom: 1em;
-}
-.academic-cv-list li:last-child {
-  border-bottom: none;
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
-.cv-item-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  gap: 0.8rem;
-  margin-bottom: 0.4em;
-}
-.cv-item-title {
-  font-weight: 600;
-  font-size: 1.05em;
-  color: var(--primary-color, #2a7ae2);
-  flex: 1;
-  padding-right: 0;
-  line-height: 1.4;
-}
-.cv-item-date {
-  font-size: 0.9em;
-  color: #666;
-  white-space: nowrap;
-  font-weight: 500;
-  background-color: rgba(0,0,0,0.04);
-  padding: 0.2em 0.8em;
-  border-radius: 20px;
-}
-.cv-item-details {
-  color: #555;
-  font-size: 0.95em;
-  line-height: 1.5;
-}
-@media (max-width: 900px) {
-  .funding-honors-grid {
-    grid-template-columns: 1fr;
-  }
-}
-@media (max-width: 520px) {
-  .cv-item-header {
-    display: block;
-  }
-  .cv-item-date {
-    display: inline-block;
-    margin-top: 0.35rem;
-  }
-}
-</style>
