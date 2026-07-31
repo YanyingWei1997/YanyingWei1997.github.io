@@ -806,6 +806,10 @@ body {
   display: none !important;
 }
 
+.blog-grid .notes-hidden {
+  display: none !important;
+}
+
 .achievement-filter {
   display: flex;
   flex-wrap: wrap;

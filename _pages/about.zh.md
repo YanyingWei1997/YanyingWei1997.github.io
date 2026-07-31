@@ -358,10 +358,28 @@ lang: zh
       查看全部 <i class="fas fa-arrow-right"></i>
     </a>
   </div>
-  <div class="blog-grid">
+  <div class="notes-filter publication-filter" role="group" aria-label="按年份筛选笔记">
+    <button type="button" class="publication-filter-btn is-active" data-notes-filter="all" aria-pressed="true">全部</button>
     {% assign visible_posts = site.posts | where: "lang", "zh" %}
+    {% assign year_strs = "" %}
+    {% assign sep = "||" %}
+    {% for p in visible_posts %}
+      {% assign y = p.date | date: "%Y" %}
+      {% assign wrapped = sep | append: y | append: sep %}
+      {% unless year_strs contains wrapped %}
+        {% assign year_strs = year_strs | append: wrapped %}
+      {% endunless %}
+    {% endfor %}
+    {% assign years = year_strs | split: sep %}
+    {% for y in years %}
+      {% unless y == "" %}
+      <button type="button" class="publication-filter-btn" data-notes-filter="{{ y }}" aria-pressed="false">{{ y }}</button>
+      {% endunless %}
+    {% endfor %}
+  </div>
+  <div class="blog-grid">
     {% for post in visible_posts limit:6 %}
-    <a href="{{ post.url | relative_url }}" class="blog-card-link">
+    <a href="{{ post.url | relative_url }}" class="blog-card-link" data-year="{{ post.date | date: '%Y' }}">
       <div class="blog-card">
         <div class="blog-card-image">
           <div class="blog-badge">{{ post.date | date: "%Y年%m月" }}</div>
@@ -399,8 +417,6 @@ lang: zh
   margin-top: 0;
   margin-bottom: 0.8rem;
   color: var(--primary-color, #012F63);
-  border-bottom: 2px solid var(--accent-color, #FE667B);
-  padding-bottom: 0.35em;
 }
 .academic-cv-list {
   list-style: none;

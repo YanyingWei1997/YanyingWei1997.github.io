@@ -349,12 +349,30 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
       View All Notes <i class="fas fa-arrow-right"></i>
     </a>
   </div>
-  <div class="blog-grid">
+  <div class="notes-filter publication-filter" role="group" aria-label="Filter notes by year">
+    <button type="button" class="publication-filter-btn is-active" data-notes-filter="all" aria-pressed="true">All</button>
     {% assign english_posts = site.posts | where: "lang", "en" %}
     {% assign legacy_posts = site.posts | where_exp: "post", "post.lang == null" %}
     {% assign visible_posts = english_posts | concat: legacy_posts | sort: "date" | reverse %}
+    {% assign year_strs = "" %}
+    {% assign sep = "||" %}
+    {% for p in visible_posts %}
+      {% assign y = p.date | date: "%Y" %}
+      {% assign wrapped = sep | append: y | append: sep %}
+      {% unless year_strs contains wrapped %}
+        {% assign year_strs = year_strs | append: wrapped %}
+      {% endunless %}
+    {% endfor %}
+    {% assign years = year_strs | split: sep %}
+    {% for y in years %}
+      {% unless y == "" %}
+      <button type="button" class="publication-filter-btn" data-notes-filter="{{ y }}" aria-pressed="false">{{ y }}</button>
+      {% endunless %}
+    {% endfor %}
+  </div>
+  <div class="blog-grid">
     {% for post in visible_posts limit:6 %}
-    <a href="{{ post.url | relative_url }}" class="blog-card-link">
+    <a href="{{ post.url | relative_url }}" class="blog-card-link" data-year="{{ post.date | date: '%Y' }}">
       <div class="blog-card">
         <div class="blog-card-image">
           <div class="blog-badge">{{ post.date | date: "%B, %Y" }}</div>
@@ -392,8 +410,6 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
   margin-top: 0;
   margin-bottom: 0.8rem;
   color: var(--primary-color, #012F63);
-  border-bottom: 2px solid var(--accent-color, #FE667B);
-  padding-bottom: 0.35em;
 }
 .academic-cv-list {
   list-style: none;
