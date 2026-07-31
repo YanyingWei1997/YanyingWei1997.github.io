@@ -932,13 +932,15 @@ body {
 
 .achievement-period {
   align-self: start;
-  border-left: 2px solid #FE667B;
-  color: #b93249;
-  font-size: 0.82rem;
-  font-weight: 800;
+  background: rgba(1, 47, 99, 0.06);
+  border: 1px solid rgba(1, 47, 99, 0.1);
+  border-radius: 6px;
+  color: #012F63;
+  font-size: 0.72rem;
+  font-weight: 700;
   grid-area: period;
-  line-height: 1.25;
-  padding-left: 0.45rem;
+  line-height: 1.15;
+  padding: 0.24rem 0.45rem;
   white-space: nowrap;
 }
 
