@@ -235,42 +235,42 @@
 
       updateAchievements();
     });
-  });
 
-  document.querySelectorAll(".notes-filter").forEach((filter) => {
-    const buttons = Array.from(filter.querySelectorAll("[data-notes-filter]"));
-    const section = filter.closest(".local-blogs-section");
-    const cards = section
-      ? Array.from(section.querySelectorAll(".blog-card-link[data-year]"))
-      : [];
-    const emptyState = section ? section.querySelector(".notes-empty") : null;
+    document.querySelectorAll(".notes-filter").forEach((filter) => {
+      const buttons = Array.from(filter.querySelectorAll("[data-notes-filter]"));
+      const section = filter.closest(".local-blogs-section");
+      const cards = section
+        ? Array.from(section.querySelectorAll(".blog-card-link[data-year]"))
+        : [];
+      const emptyState = section ? section.querySelector(".notes-empty") : null;
 
-    const updateNotes = () => {
-      const active = buttons.find((b) => b.classList.contains("is-active"));
-      const activeFilter = active ? active.dataset.notesFilter : "all";
-      let matchCount = 0;
-      cards.forEach((card) => {
-        const match =
-          activeFilter === "all" || card.dataset.year === activeFilter;
-        card.classList.toggle("notes-hidden", !match);
-        if (match) matchCount += 1;
-      });
-      if (emptyState) emptyState.hidden = matchCount > 0;
-    };
-
-    buttons.forEach((button) => {
-      button.addEventListener("click", () => {
-        buttons.forEach((b) => {
-          b.classList.remove("is-active");
-          b.setAttribute("aria-pressed", "false");
+      const updateNotes = () => {
+        const active = buttons.find((b) => b.classList.contains("is-active"));
+        const activeFilter = active ? active.dataset.notesFilter : "all";
+        let matchCount = 0;
+        cards.forEach((card) => {
+          const match =
+            activeFilter === "all" || card.dataset.year === activeFilter;
+          card.classList.toggle("notes-hidden", !match);
+          if (match) matchCount += 1;
         });
-        button.classList.add("is-active");
-        button.setAttribute("aria-pressed", "true");
-        updateNotes();
-      });
-    });
+        if (emptyState) emptyState.hidden = matchCount > 0;
+      };
 
-    updateNotes();
+      buttons.forEach((button) => {
+        button.addEventListener("click", () => {
+          buttons.forEach((b) => {
+            b.classList.remove("is-active");
+            b.setAttribute("aria-pressed", "false");
+          });
+          button.classList.add("is-active");
+          button.setAttribute("aria-pressed", "true");
+          updateNotes();
+        });
+      });
+
+      updateNotes();
+    });
   });
 
   // 动态添加装饰条
