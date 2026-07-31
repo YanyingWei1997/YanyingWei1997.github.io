@@ -1,19 +1,50 @@
-<link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/apple-touch-icon.png' | relative_url }}">
-<link rel="icon" type="image/png" sizes="32x32" href="{{ '/images/favicon-32x32.png' | relative_url }}">
-<link rel="icon" type="image/png" sizes="16x16" href="{{ '/images/favicon-16x16.png' | relative_url }}">
-<link rel="manifest" href="{{ '/images/site.webmanifest' | relative_url }}">
+<link
+  rel="apple-touch-icon"
+  sizes="180x180"
+  href="{{ '/images/apple-touch-icon.png' | relative_url }}"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  sizes="32x32"
+  href="{{ '/images/favicon-32x32.png' | relative_url }}"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  sizes="16x16"
+  href="{{ '/images/favicon-16x16.png' | relative_url }}"
+/>
+<link rel="manifest" href="{{ '/images/site.webmanifest' | relative_url }}" />
 
-<meta name="msapplication-TileColor" content="#000000">
-<meta name="msapplication-TileImage" content="{{ '/images/mstile-144x144.png' | relative_url }}?v=M44lzPylqQ">
-<meta name="msapplication-config" content="{{ '/images/browserconfig.xml' | relative_url }}?v=M44lzPylqQ">
-<meta name="theme-color" content="#ffffff">
+<meta name="msapplication-TileColor" content="#000000" />
+<meta
+  name="msapplication-TileImage"
+  content="{{ '/images/mstile-144x144.png' | relative_url }}?v=M44lzPylqQ"
+/>
+<meta
+  name="msapplication-config"
+  content="{{ '/images/browserconfig.xml' | relative_url }}?v=M44lzPylqQ"
+/>
+<meta name="theme-color" content="#ffffff" />
 
 <!-- 学术图标和增强的强调色样式 -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-<link rel="stylesheet" href="{{ '/assets/css/academicons.css' | relative_url }}"/>
-<link rel="stylesheet" href="{{ '/assets/css/accent-enhancements.css' | relative_url }}?v=20260524-7"/>
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+/>
+<link
+  rel="stylesheet"
+  href="{{ '/assets/css/academicons.css' | relative_url }}"
+/>
+<link
+  rel="stylesheet"
+  href="{{ '/assets/css/accent-enhancements.css' | relative_url }}?v=20260524-7"
+/>
 
-<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } });
+</script>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     tex2jax: {
@@ -22,162 +53,195 @@
     }
   });
 </script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+<script
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML"
+  async
+></script>
 
 <!-- 强调色增强的JavaScript动效 -->
 <script>
-// 页面加载后的滚动动画
-document.addEventListener('DOMContentLoaded', function() {
-  // 滚动触发动画
-  const observerOptions = {
-    threshold: 0.1,
-    rootMargin: '0px 0px -50px 0px'
-  };
-  
-  const observer = new IntersectionObserver(function(entries) {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        entry.target.classList.add('animate');
-      }
-    });
-  }, observerOptions);
-  
-  // 为元素添加动画类
-  document.querySelectorAll('.paper-box, .publication-entry, .achievement-entry, .highlight-block').forEach(el => {
-    el.classList.add('fade-in-up');
-    observer.observe(el);
-  });
-  
-  // 为重要链接添加强调色效果
-  document.querySelectorAll('a[href*="pdf"], a[href*="github"], a[href*="arxiv"]').forEach(link => {
-    link.classList.add('link-accent');
-  });
-
-  // 折叠较长的代表性成果列表
-  document.querySelectorAll('.publications-list').forEach(list => {
-    const visibleCount = Number(list.dataset.visibleCount || 4);
-    const cards = Array.from(list.querySelectorAll(':scope > .paper-box, :scope > .publication-entry'));
-    let filter = list.previousElementSibling;
-    while (filter && !filter.classList.contains('publication-filter')) {
-      filter = filter.previousElementSibling;
-    }
-    const filterButtons = filter ? Array.from(filter.querySelectorAll('[data-publication-filter]')) : [];
-
-    if (!cards.length) {
-      return;
-    }
-
-    const moreLabel = list.dataset.moreLabel || 'More';
-    const lessLabel = list.dataset.lessLabel || 'Show Less';
-    let expanded = false;
-    const buttonWrap = document.createElement('div');
-    const button = document.createElement('button');
-    const icon = document.createElement('i');
-    const label = document.createElement('span');
-
-    buttonWrap.className = 'publications-more-wrap';
-    button.className = 'publications-more-btn';
-    button.type = 'button';
-    button.setAttribute('aria-expanded', 'false');
-    icon.className = 'fas fa-chevron-down';
-    label.textContent = moreLabel;
-
-    button.append(icon, label);
-    buttonWrap.append(button);
-    list.after(buttonWrap);
-
-    const getActiveFilter = () => {
-      const activeButton = filterButtons.find(item => item.classList.contains('is-active'));
-      return activeButton ? activeButton.dataset.publicationFilter : 'all';
+  // 页面加载后的滚动动画
+  document.addEventListener("DOMContentLoaded", function () {
+    // 滚动触发动画
+    const observerOptions = {
+      threshold: 0.1,
+      rootMargin: "0px 0px -50px 0px",
     };
 
-    const updatePublications = () => {
-      const activeFilter = getActiveFilter();
-      const matchingCards = cards.filter(card => activeFilter === 'all' || card.dataset.year === activeFilter);
+    const observer = new IntersectionObserver(function (entries) {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("animate");
+        }
+      });
+    }, observerOptions);
 
-      cards.forEach(card => {
-        const matchIndex = matchingCards.indexOf(card);
-        const matchesFilter = matchIndex !== -1;
-        const hiddenByLimit = matchesFilter && !expanded && matchIndex >= visibleCount;
-        card.classList.toggle('publication-hidden', !matchesFilter || hiddenByLimit);
+    // 为元素添加动画类
+    document
+      .querySelectorAll(
+        ".paper-box, .publication-entry, .achievement-entry, .highlight-block",
+      )
+      .forEach((el) => {
+        el.classList.add("fade-in-up");
+        observer.observe(el);
       });
 
-      const hasOverflow = matchingCards.length > visibleCount;
-      buttonWrap.style.display = hasOverflow ? 'flex' : 'none';
-      button.setAttribute('aria-expanded', String(expanded && hasOverflow));
-      icon.className = expanded && hasOverflow ? 'fas fa-chevron-up' : 'fas fa-chevron-down';
-      label.textContent = expanded && hasOverflow ? lessLabel : moreLabel;
-    };
+    // 为重要链接添加强调色效果
+    document
+      .querySelectorAll('a[href*="pdf"], a[href*="github"], a[href*="arxiv"]')
+      .forEach((link) => {
+        link.classList.add("link-accent");
+      });
 
-    filterButtons.forEach(filterButton => {
-      filterButton.addEventListener('click', () => {
-        filterButtons.forEach(item => item.classList.remove('is-active'));
-        filterButton.classList.add('is-active');
-        expanded = false;
+    // 折叠较长的代表性成果列表
+    document.querySelectorAll(".publications-list").forEach((list) => {
+      const visibleCount = Number(list.dataset.visibleCount || 4);
+      const cards = Array.from(
+        list.querySelectorAll(
+          ":scope > .paper-box, :scope > .publication-entry",
+        ),
+      );
+      let filter = list.previousElementSibling;
+      while (filter && !filter.classList.contains("publication-filter")) {
+        filter = filter.previousElementSibling;
+      }
+      const filterButtons = filter
+        ? Array.from(filter.querySelectorAll("[data-publication-filter]"))
+        : [];
+
+      if (!cards.length) {
+        return;
+      }
+
+      const moreLabel = list.dataset.moreLabel || "More";
+      const lessLabel = list.dataset.lessLabel || "Show Less";
+      let expanded = false;
+      const buttonWrap = document.createElement("div");
+      const button = document.createElement("button");
+      const icon = document.createElement("i");
+      const label = document.createElement("span");
+
+      buttonWrap.className = "publications-more-wrap";
+      button.className = "publications-more-btn";
+      button.type = "button";
+      button.setAttribute("aria-expanded", "false");
+      icon.className = "fas fa-chevron-down";
+      label.textContent = moreLabel;
+
+      button.append(icon, label);
+      buttonWrap.append(button);
+      list.after(buttonWrap);
+
+      const getActiveFilter = () => {
+        const activeButton = filterButtons.find((item) =>
+          item.classList.contains("is-active"),
+        );
+        return activeButton ? activeButton.dataset.publicationFilter : "all";
+      };
+
+      const updatePublications = () => {
+        const activeFilter = getActiveFilter();
+        const matchingCards = cards.filter(
+          (card) =>
+            activeFilter === "all" || card.dataset.year === activeFilter,
+        );
+
+        cards.forEach((card) => {
+          const matchIndex = matchingCards.indexOf(card);
+          const matchesFilter = matchIndex !== -1;
+          const hiddenByLimit =
+            matchesFilter && !expanded && matchIndex >= visibleCount;
+          card.classList.toggle(
+            "publication-hidden",
+            !matchesFilter || hiddenByLimit,
+          );
+        });
+
+        const hasOverflow = matchingCards.length > visibleCount;
+        buttonWrap.style.display = hasOverflow ? "flex" : "none";
+        button.setAttribute("aria-expanded", String(expanded && hasOverflow));
+        icon.className =
+          expanded && hasOverflow ? "fas fa-chevron-up" : "fas fa-chevron-down";
+        label.textContent = expanded && hasOverflow ? lessLabel : moreLabel;
+      };
+
+      filterButtons.forEach((filterButton) => {
+        filterButton.addEventListener("click", () => {
+          filterButtons.forEach((item) => item.classList.remove("is-active"));
+          filterButton.classList.add("is-active");
+          expanded = false;
+          updatePublications();
+        });
+      });
+
+      button.addEventListener("click", () => {
+        expanded = !expanded;
         updatePublications();
-      });
-    });
-
-    button.addEventListener('click', () => {
-      expanded = !expanded;
-      updatePublications();
-      if (!expanded) {
-        list.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }
-    });
-
-    updatePublications();
-  });
-
-  document.querySelectorAll('.achievement-list').forEach(list => {
-    let filter = list.previousElementSibling;
-    while (filter && !filter.classList.contains('achievement-filter')) {
-      filter = filter.previousElementSibling;
-    }
-
-    const entries = Array.from(list.querySelectorAll(':scope > .achievement-entry'));
-    const filterButtons = filter ? Array.from(filter.querySelectorAll('[data-achievement-filter]')) : [];
-    const emptyState = list.nextElementSibling;
-
-    const updateAchievements = () => {
-      const activeButton = filterButtons.find(button => button.classList.contains('is-active'));
-      const activeFilter = activeButton ? activeButton.dataset.achievementFilter : 'all';
-      let matchCount = 0;
-
-      entries.forEach(entry => {
-        const matches = activeFilter === 'all' || entry.dataset.level === activeFilter;
-        entry.classList.toggle('achievement-hidden', !matches);
-        if (matches) {
-          matchCount += 1;
+        if (!expanded) {
+          list.scrollIntoView({ behavior: "smooth", block: "start" });
         }
       });
 
-      if (emptyState && emptyState.classList.contains('achievement-empty')) {
-        emptyState.hidden = matchCount > 0;
-      }
-    };
-
-    filterButtons.forEach(button => {
-      button.addEventListener('click', () => {
-        filterButtons.forEach(item => {
-          item.classList.remove('is-active');
-          item.setAttribute('aria-pressed', 'false');
-        });
-        button.classList.add('is-active');
-        button.setAttribute('aria-pressed', 'true');
-        updateAchievements();
-      });
+      updatePublications();
     });
 
-    updateAchievements();
-  });
-});
+    document.querySelectorAll(".achievement-filter").forEach((filter) => {
+      const filterButtons = Array.from(
+        filter.querySelectorAll("[data-achievement-filter]"),
+      );
+      const grid = filter.nextElementSibling;
+      const lists = grid
+        ? Array.from(grid.querySelectorAll(".achievement-list"))
+        : [];
+      const entries = lists.flatMap((list) =>
+        Array.from(list.querySelectorAll(":scope > .achievement-entry")),
+      );
+      const emptyState = grid ? grid.nextElementSibling : null;
 
-// 动态添加装饰条
-document.addEventListener('DOMContentLoaded', function() {
-  const body = document.body;
-  body.classList.add('accent-border-top');
-});
+      const updateAchievements = () => {
+        const activeButton = filterButtons.find((button) =>
+          button.classList.contains("is-active"),
+        );
+        const activeFilter = activeButton
+          ? activeButton.dataset.achievementFilter
+          : "all";
+        let matchCount = 0;
+
+        entries.forEach((entry) => {
+          const matches =
+            activeFilter === "all" || entry.dataset.level === activeFilter;
+          entry.classList.toggle("achievement-hidden", !matches);
+          if (matches) {
+            matchCount += 1;
+          }
+        });
+
+        if (emptyState && emptyState.classList.contains("achievement-empty")) {
+          emptyState.hidden = matchCount > 0;
+        }
+      };
+
+      filterButtons.forEach((button) => {
+        button.addEventListener("click", () => {
+          filterButtons.forEach((item) => {
+            item.classList.remove("is-active");
+            item.setAttribute("aria-pressed", "false");
+          });
+          button.classList.add("is-active");
+          button.setAttribute("aria-pressed", "true");
+          updateAchievements();
+        });
+      });
+
+      updateAchievements();
+    });
+  });
+
+  // 动态添加装饰条
+  document.addEventListener("DOMContentLoaded", function () {
+    const body = document.body;
+    body.classList.add("accent-border-top");
+  });
 </script>
 
 <!-- end custom head snippets -->
