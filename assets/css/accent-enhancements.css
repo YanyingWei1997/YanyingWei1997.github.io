@@ -184,18 +184,18 @@
 
 /* 强调色文字效果 */
 .accent-text {
-  background: linear-gradient(135deg, #FE667B 0%, #ff8599 50%, #a29bfe 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  background: linear-gradient(transparent 58%, rgba(255, 226, 137, 0.82) 58%);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  color: #012F63;
   font-weight: 600;
 }
 
 .primary-gradient-text {
-  background: linear-gradient(135deg, #012F63 0%, #1a4f8a 50%, #FE667B 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  background: linear-gradient(transparent 58%, rgba(255, 226, 137, 0.82) 58%);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  color: #012F63;
   font-weight: 600;
 }
 
@@ -623,7 +623,10 @@ body {
 }
 
 .paper-box-text .authors strong {
-  color: #FE667B;
+  background: linear-gradient(transparent 58%, rgba(255, 226, 137, 0.82) 58%);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  color: #012F63;
   font-weight: 700;
 }
 
@@ -742,7 +745,10 @@ body {
 }
 
 .publication-authors strong {
-  color: #FE667B;
+  background: linear-gradient(transparent 58%, rgba(255, 226, 137, 0.82) 58%);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  color: #012F63;
   font-weight: 800;
 }
 
