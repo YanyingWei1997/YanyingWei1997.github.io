@@ -184,19 +184,23 @@
 
 /* 强调色文字效果 */
 .accent-text {
-  background: linear-gradient(transparent 58%, rgba(255, 226, 137, 0.82) 58%);
+  background: linear-gradient(transparent 58%, #f8e7a8 58%);
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
   color: #012F63;
   font-weight: 600;
+  margin: 0 -0.08em;
+  padding: 0 0.08em;
 }
 
 .primary-gradient-text {
-  background: linear-gradient(transparent 58%, rgba(255, 226, 137, 0.82) 58%);
+  background: linear-gradient(transparent 58%, #f8e7a8 58%);
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
   color: #012F63;
   font-weight: 600;
+  margin: 0 -0.08em;
+  padding: 0 0.08em;
 }
 
 /* 图标样式 - 使用主色而不是强调色 */
@@ -623,11 +627,13 @@ body {
 }
 
 .paper-box-text .authors strong {
-  background: linear-gradient(transparent 58%, rgba(255, 226, 137, 0.82) 58%);
+  background: linear-gradient(transparent 58%, #f8e7a8 58%);
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
   color: #012F63;
   font-weight: 700;
+  margin: 0 -0.08em;
+  padding: 0 0.08em;
 }
 
 .paper-box-text .venue {
@@ -745,11 +751,13 @@ body {
 }
 
 .publication-authors strong {
-  background: linear-gradient(transparent 58%, rgba(255, 226, 137, 0.82) 58%);
+  background: linear-gradient(transparent 58%, #f8e7a8 58%);
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
   color: #012F63;
   font-weight: 800;
+  margin: 0 -0.08em;
+  padding: 0 0.08em;
 }
 
 .publication-venue {
