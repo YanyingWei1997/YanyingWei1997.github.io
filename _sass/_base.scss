@@ -428,20 +428,12 @@
     ul {
       margin: 0;
       padding-left: 1.4rem;
+      list-style-type: disc;
       
       li {
         margin-bottom: 0.56rem;
         color: #012F63 !important; /* 确保文字颜色 */
         line-height: 1.5;
-        position: relative;
-        
-        &::before {
-          content: '▸';
-          color: #FE667B;
-          font-weight: bold;
-          position: absolute;
-          left: -1.2em;
-        }
       }
     }
     
@@ -543,4 +535,3 @@
       color: var(--accent-color);
     }
   }
-
