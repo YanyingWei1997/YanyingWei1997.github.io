@@ -285,7 +285,7 @@ Feel free to reach out if you would like to discuss research collaboration, PhD 
       <article class="achievement-entry" data-level="university">
         <div class="achievement-body">
           <h3>Python and AI Programming Smart Course</h3>
-          <time class="achievement-period">2026</time>
+          <time class="achievement-period">2026–2027</time>
           <div class="achievement-meta">PI | Nanning University, Project No. 2026-SZJJ-ZHKC03</div>
           <div class="achievement-tags"><span class="achievement-tag">Project</span><span class="achievement-tag accent">University</span></div>
         </div>

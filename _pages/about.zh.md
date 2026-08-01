@@ -292,7 +292,7 @@ lang: zh
       <article class="achievement-entry" data-level="university">
         <div class="achievement-body">
           <h3>Python 与 AI 编程智慧课程</h3>
-          <time class="achievement-period">2026</time>
+          <time class="achievement-period">2026–2027</time>
           <div class="achievement-meta">主持 | 南宁学院，项目编号：2026-SZJJ-ZHKC03</div>
           <div class="achievement-tags"><span class="achievement-tag">科研项目</span><span class="achievement-tag accent">校级</span></div>
         </div>

@@ -656,6 +656,7 @@ body {
 .publication-filter-btn {
   background: rgba(1, 47, 99, 0.05);
   border: 1px solid rgba(1, 47, 99, 0.1);
+  border-left: 1px solid rgba(1, 47, 99, 0.1);
   border-radius: 6px;
   color: #012F63;
   cursor: pointer;
